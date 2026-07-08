@@ -1,0 +1,54 @@
+слева	a sinistra	avverbi	sleva
+справа	a destra	avverbi	sprava
+тут	qui	avverbi	tut
+здесь	qui	avverbi	zdes
+там	lì	avverbi	tam
+аптека	farmacia	luoghi-in-citta	apteka
+больница	ospedale	luoghi-in-citta	bolnitsa
+полиция	polizia	luoghi-in-citta	politsiya
+гостиница	albergo	luoghi-in-citta	gostinitsa
+отель	hotel	luoghi-in-citta	otel
+памятник	monumento	luoghi-in-citta	pamyatnik
+вокзал	stazione	luoghi-in-citta	vokzal
+аэропорт	aeroporto	viaggi-e-trasporti	aeroport
+банк	banca	luoghi-in-citta	bank
+стадион	stadio	luoghi-in-citta	stadion
+зоопарк	zoo	luoghi-in-citta	zoopark
+далеко	lontano	avverbi	daleko
+недалеко	vicino	avverbi	nedaleko
+близко	vicino	avverbi	blizko
+магазин	negozio	luoghi-in-citta	magazin
+супермаркет	supermercato	luoghi-in-citta	supermarket
+почта	posta	luoghi-in-citta	pochta
+церковь	chiesa	luoghi-in-citta	tserkov
+парковка	parcheggio	luoghi-in-citta	parkovka
+остановка	fermata	viaggi-e-trasporti	ostanovka
+заправка	benzinaio	luoghi-in-citta	zapravka
+школа	scuola	scuola-e-lingua	shkola
+университет	università	luoghi-in-citta	universitet
+чемодан	valigia	viaggi-e-trasporti	chemodan
+бензин	benzina	viaggi-e-trasporti	benzin
+есть	c'è / mangiare	verbi	est
+чай	tè	cibo-e-bevande	chay
+не за что	di nulla	saluti-e-cortesia	ne-za-chto
+так жаль	che peccato	saluti-e-cortesia	tak-zhal
+конечно	certo	avverbi	konechno
+уже	già	avverbi	uzhe
+чашка	tazza	stoviglie-e-posate	chashka
+числа	numeri	scuola-e-lingua	chisla
+страна	paese	paesi-e-lingue	strana
+ложка	cucchiaio	stoviglie-e-posate	lozhka
+вилка	forchetta	stoviglie-e-posate	vilka
+тарелка	piatto	stoviglie-e-posate	tarelka
+нож	coltello	stoviglie-e-posate	nozh
+игрушки	giocattoli	casa-e-oggetti	igrushki
+океан	oceano	natura-e-luoghi	okean
+остров	isola	natura-e-luoghi	ostrov
+пляж	spiaggia	natura-e-luoghi	plyazh
+самолёт	aereo	viaggi-e-trasporti	samoliot
+бассейн	piscina	viaggi-e-trasporti	basseyn
+сад	giardino	natura-e-luoghi	sad
+корт	campo	natura-e-luoghi	kort
+каждый	ogni	aggettivi	kazhdyy
+почти	quasi	avverbi	pochti
+работа	lavoro	scuola-e-lingua	rabota

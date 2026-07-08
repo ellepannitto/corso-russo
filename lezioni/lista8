@@ -1,0 +1,44 @@
+утро	mattina	tempo-e-date	utro
+полдень	mezzogiorno	tempo-e-date	polden
+день	pomeriggio	tempo-e-date	den
+вечер	sera	tempo-e-date	vecher
+полночь	mezzanotte	tempo-e-date	polnoch
+ночь	notte	tempo-e-date	noch
+когда	quando	pronomi-e-connettori	kogda
+во сколько	a che ora	pronomi-e-connettori	vo-skolko
+который час	che ora è	pronomi-e-connettori	kotoryy-chas
+сколько времени	che ore sono	pronomi-e-connettori	skolko-vremeni
+время	tempo	tempo-e-date	vremya
+час	ora	tempo-e-date	chas
+всегда	sempre	orari-e-frequenza	vsegda
+обычно	di solito	orari-e-frequenza	obychno
+часто	spesso	orari-e-frequenza	chasto
+регулярно	regolarmente	orari-e-frequenza	regulyarno
+иногда	ogni tanto	orari-e-frequenza	inogda
+редко	raramente	orari-e-frequenza	redko
+никогда	mai	avverbi	nikogda
+вчера	ieri	tempo-e-date	vchera
+сегодня	oggi	tempo-e-date	segodnya
+завтра	domani	tempo-e-date	zavtra
+сейчас	adesso	orari-e-frequenza	seychas
+рано	presto	orari-e-frequenza	rano
+поздно	tardi	orari-e-frequenza	pozdno
+давно	da tanto tempo	orari-e-frequenza	davno
+недавно	da poco tempo	orari-e-frequenza	nedavno
+как часто	quanto spesso	orari-e-frequenza	kak-chasto
+спешка	fretta	orari-e-frequenza	speshka
+ни пуха ни пера	in bocca al lupo	saluti-e-cortesia	ni-puha-ni-pera
+к чёрту	al diavolo	saluti-e-cortesia	k-chiortu
+что	cosa	pronomi-e-connettori	chto
+считать	contare	verbi	schitat
+читать	leggere	verbi	chitat
+только	solo	pronomi-e-connettori	tolko
+год	anno	tempo-e-date	god
+месяц	mese	tempo-e-date	mesyats
+прогресс	progresso	scuola-e-lingua	progress
+если	se	pronomi-e-connettori	esli
+иностранец	straniero	scuola-e-lingua	inostranets
+ещё раз	di nuovo	orari-e-frequenza	eshchio-raz
+домашнее задание	compiti a casa	scuola-e-lingua	domashnee-zadanie
+обычно	di solito	orari-e-frequenza	obychno
+чуть-чуть	un po'	avverbi	chut-chut
