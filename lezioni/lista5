@@ -1,29 +1,29 @@
-у меня есть	io ho	pronomi-e-connettori	u-menya-est
-у тебя есть	tu hai	pronomi-e-connettori	u-tebya-est
-у него есть	lui ha	pronomi-e-connettori	u-nego-est
-у неё есть	lei ha	pronomi-e-connettori	u-neio-est
-у нас есть	noi abbiamo	pronomi-e-connettori	u-nas-est
-у вас есть	voi avete	pronomi-e-connettori	u-vas-est
-у них есть	loro hanno	pronomi-e-connettori	u-nih-est
-квартира	appartamento	casa-e-oggetti	kvartira
-вопрос	domanda	casa-e-oggetti	vopros
-ответ	risposta	casa-e-oggetti	otvet
-планшет	tablet	casa-e-oggetti	planshet
-самокат	monopattino	casa-e-oggetti	samokat
-цветы	fiori	casa-e-oggetti	tsvety
-проблема	problema	casa-e-oggetti	problema
-это	questo / è	pronomi-e-connettori	eto
-эти	questi	pronomi-e-connettori	eti
-тот	quello	pronomi-e-connettori	tot
-та	quella	pronomi-e-connettori	ta
-то	quello	pronomi-e-connettori	to
-те	quelli	pronomi-e-connettori	te
-мороженое	gelato	cibo-e-bevande	morozhenoe
-рыба	pesce	cibo-e-bevande	ryba
-кабачки	zucchine	cibo-e-bevande	kabachki
-овощи	verdura	cibo-e-bevande	ovoshchi
-сколько стоит?	quanto costa?	saluti-e-cortesia	skolko-stoit
-сколько стоят?	quanto costano?	saluti-e-cortesia	skolko-stoyat
-к сожалению	purtroppo	avverbi	k-sozhaleniyu
-но	ma	pronomi-e-connettori	no
-сдача	il resto	saluti-e-cortesia	sdacha
+у меня есть	io ho	pronomi-e-connettori	u-menya-est	У меня есть книга.	Ho un libro.
+у тебя есть	tu hai	pronomi-e-connettori	u-tebya-est	У тебя есть ручка?	Hai una penna?
+у него есть	lui ha	pronomi-e-connettori	u-nego-est	У него есть машина.	Lui ha una macchina.
+у неё есть	lei ha	pronomi-e-connettori	u-neio-est	У неё есть сумка.	Lei ha una borsa.
+у нас есть	noi abbiamo	pronomi-e-connettori	u-nas-est	У нас есть дом.	Abbiamo una casa.
+у вас есть	voi avete	pronomi-e-connettori	u-vas-est	У вас есть вопрос?	Avete una domanda?
+у них есть	loro hanno	pronomi-e-connettori	u-nih-est	У них есть дети.	Loro hanno figli.
+квартира	appartamento	casa-e-oggetti	kvartira	Квартира большая.	L'appartamento è grande.
+вопрос	domanda	casa-e-oggetti	vopros	У меня есть вопрос.	Ho una domanda.
+ответ	risposta	casa-e-oggetti	otvet	Это мой ответ.	Questa è la mia risposta.
+планшет	tablet	casa-e-oggetti	planshet	Планшет на столе.	Il tablet è sul tavolo.
+самокат	monopattino	casa-e-oggetti	samokat	Самокат у дома.	Il monopattino è vicino alla casa.
+цветы	fiori	casa-e-oggetti	tsvety	Цветы на столе.	I fiori sono sul tavolo.
+проблема	problema	casa-e-oggetti	problema	Это проблема.	Questo è un problema.
+это	questo / è	pronomi-e-connettori	eto	Это моя книга.	Questo è il mio libro.
+эти	questi	pronomi-e-connettori	eti	Эти книги на столе.	Questi libri sono sul tavolo.
+тот	quello	pronomi-e-connettori	tot	Тот дом большой.	Quella casa è grande.
+та	quella	pronomi-e-connettori	ta	Та сумка на стуле.	Quella borsa è sulla sedia.
+то	quello	pronomi-e-connettori	to	То окно открыто.	Quella finestra è aperta.
+те	quelli	pronomi-e-connettori	te	Те дети дома.	Quei bambini sono a casa.
+мороженое	gelato	cibo-e-bevande	morozhenoe	Мороженое вкусное.	Il gelato è buono.
+рыба	pesce	cibo-e-bevande	ryba	Рыба на тарелке.	Il pesce è nel piatto.
+кабачки	zucchine	cibo-e-bevande	kabachki	Кабачки на тарелке.	Le zucchine sono nel piatto.
+овощи	verdura	cibo-e-bevande	ovoshchi	Овощи на столе.	Le verdure sono sul tavolo.
+сколько стоит?	quanto costa?	saluti-e-cortesia	skolko-stoit	Сколько стоит книга?	Quanto costa il libro?
+сколько стоят?	quanto costano?	saluti-e-cortesia	skolko-stoyat	Сколько стоят цветы?	Quanto costano i fiori?
+к сожалению	purtroppo	avverbi	k-sozhaleniyu	К сожалению, я дома.	Purtroppo sono a casa.
+но	ma	pronomi-e-connettori	no	Я дома, но он в школе.	Io sono a casa, ma lui è a scuola.
+сдача	il resto	saluti-e-cortesia	sdacha	Вот ваша сдача.	Ecco il suo resto.

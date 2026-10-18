@@ -1,66 +1,66 @@
-кот	gatto	animali	kot
-урок	lezione	scuola-e-lingua	urok
-томат	pomodoro	cibo-e-bevande	tomat
-сумка	borsa	casa-e-oggetti	sumka
-дом	casa	casa-e-oggetti	dom
-стол	tavolo	casa-e-oggetti	stol
-стул	sedia	casa-e-oggetti	stul
-сыр	formaggio	cibo-e-bevande	syr
-чай	tè	cibo-e-bevande	chay
-хорошо	bene	avverbi	horosho
-женщина	donna	persone-e-famiglia	zhenshchina
-жена	moglie	persone-e-famiglia	zhena
-соль	sale	cibo-e-bevande	sol
-апрель	aprile	tempo-e-date	aprel
-да	sì	pronomi-e-connettori	da
-нет	no	pronomi-e-connettori	net
-или	oppure	pronomi-e-connettori	ili
-спасибо	grazie	saluti-e-cortesia	spasibo
-большое спасибо	grazie mille	saluti-e-cortesia	bolshoe-spasibo
-пожалуйста	per favore	saluti-e-cortesia	pozhaluysta
-извини	scusa	saluti-e-cortesia	izvini
-извините	scusate	saluti-e-cortesia	izvinite
-молодец	bravo	saluti-e-cortesia	molodets
-давай	forza	saluti-e-cortesia	davay
-готов	pronto	aggettivi	gotov
-что это?	cos’è questo?	pronomi-e-connettori	chto-eto
-кто это?	chi è questo?	pronomi-e-connettori	kto-eto
-карта	mappa	casa-e-oggetti	karta
-картина	quadro	casa-e-oggetti	kartina
-класс	aula	scuola-e-lingua	klass
-доска	lavagna	scuola-e-lingua	doska
-тетрадь	quaderno	scuola-e-lingua	tetrad
-ручка	penna	scuola-e-lingua	ruchka
-карандаш	matita	scuola-e-lingua	karandash
-вот	ecco	pronomi-e-connettori	vot
-книга	libro	scuola-e-lingua	kniga
-газета	giornale	scuola-e-lingua	gazeta
-журнал	rivista	scuola-e-lingua	zhurnal
-студент	studente	scuola-e-lingua	student
-ученик	alunno	scuola-e-lingua	uchenik
-преподаватель	insegnante	scuola-e-lingua	prepodavatel
-тоже	anche	pronomi-e-connettori	tozhe
-стакан	bicchiere	stoviglie-e-posate	stakan
-ключ	chiave	casa-e-oggetti	klyuch
-хлеб	pane	cibo-e-bevande	hleb
-мяч	palla	casa-e-oggetti	myach
-человек	persona	persone-e-famiglia	chelovek
-шкаф	armadio	casa-e-oggetti	shkaf
-часы	orologio	casa-e-oggetti	chasy
-дверь	porta	casa-e-oggetti	dver
-окно	finestra	casa-e-oggetti	okno
-лампа	lampada	casa-e-oggetti	lampa
-рюкзак	zaino	casa-e-oggetti	ryukzak
-яблоко	mela	cibo-e-bevande	yabloko
-машина	macchina	viaggi-e-trasporti	mashina
-бутылка	bottiglia	stoviglie-e-posate	butylka
-письмо	lettera	scuola-e-lingua	pismo
-вода	acqua	cibo-e-bevande	voda
-велосипед	bicicletta	viaggi-e-trasporti	velosiped
-город	città	natura-e-luoghi	gorod
-зонт	ombrello	abbigliamento	zont
-икра	caviale	cibo-e-bevande	ikra
-пальто	cappotto	abbigliamento	palto
-туалет	bagno	luoghi-in-citta	tualet
-улица	strada	luoghi-in-citta	ulitsa
-школа	scuola	scuola-e-lingua	shkola
+кот	gatto	animali	kot	У меня есть кот.	Ho un gatto.
+урок	lezione	scuola-e-lingua	urok	Урок начинается в десять.	La lezione inizia alle dieci.
+томат	pomodoro	cibo-e-bevande	tomat	Это красный томат.	Questo è un pomodoro rosso.
+сумка	borsa	casa-e-oggetti	sumka	Сумка на столе.	La borsa è sul tavolo.
+дом	casa	casa-e-oggetti	dom	Это мой дом.	Questa è casa mia.
+стол	tavolo	casa-e-oggetti	stol	На **столе** книга.	Sul tavolo c'è un libro.
+стул	sedia	casa-e-oggetti	stul	Стул стоит у стола.	La sedia è vicino al tavolo.
+сыр	formaggio	cibo-e-bevande	syr	Я люблю сыр.	Mi piace il formaggio.
+чай	tè	cibo-e-bevande	chay	Я пью чай.	Bevo il tè.
+хорошо	bene	avverbi	horosho	Всё хорошо.	Va tutto bene.
+женщина	donna	persone-e-famiglia	zhenshchina	Эта женщина читает книгу.	Questa donna legge un libro.
+жена	moglie	persone-e-famiglia	zhena	Моя жена дома.	Mia moglie è a casa.
+соль	sale	cibo-e-bevande	sol	Соль на столе.	Il sale è sul tavolo.
+апрель	aprile	tempo-e-date	aprel	Апрель — весенний месяц.	Aprile è un mese primaverile.
+да	sì	pronomi-e-connettori	da	Да, это моя книга.	Sì, questo è il mio libro.
+нет	no	pronomi-e-connettori	net	Нет, это не моя сумка.	No, questa non è la mia borsa.
+или	oppure	pronomi-e-connettori	ili	Чай или вода?	Tè o acqua?
+спасибо	grazie	saluti-e-cortesia	spasibo	Спасибо за чай.	Grazie per il tè.
+большое спасибо	grazie mille	saluti-e-cortesia	bolshoe-spasibo	Большое спасибо за урок.	Grazie mille per la lezione.
+пожалуйста	per favore	saluti-e-cortesia	pozhaluysta	Чай, пожалуйста.	Del tè, per favore.
+извини	scusa	saluti-e-cortesia	izvini	Извини, я дома.	Scusa, sono a casa.
+извините	scusate	saluti-e-cortesia	izvinite	Извините, где туалет?	Scusi, dov'è il bagno?
+молодец	bravo	saluti-e-cortesia	molodets	Молодец, ты готов.	Bravo, sei pronto.
+давай	forza	saluti-e-cortesia	davay	Давай читать книгу.	Dai, leggiamo un libro.
+готов	pronto	aggettivi	gotov	Я готов к уроку.	Sono pronto per la lezione.
+что это?	cos’è questo?	pronomi-e-connettori	chto-eto	Что это? Это карта.	Cos'è questo? È una mappa.
+кто это?	chi è questo?	pronomi-e-connettori	kto-eto	Кто это? Это студент.	Chi è questo? È uno studente.
+карта	mappa	casa-e-oggetti	karta	Карта на столе.	La mappa è sul tavolo.
+картина	quadro	casa-e-oggetti	kartina	Картина на стене.	Il quadro è sulla parete.
+класс	aula	scuola-e-lingua	klass	Класс большой.	L'aula è grande.
+доска	lavagna	scuola-e-lingua	doska	Доска в классе.	La lavagna è nell'aula.
+тетрадь	quaderno	scuola-e-lingua	tetrad	Тетрадь на столе.	Il quaderno è sul tavolo.
+ручка	penna	scuola-e-lingua	ruchka	Ручка в рюкзаке.	La penna è nello zaino.
+карандаш	matita	scuola-e-lingua	karandash	Карандаш на столе.	La matita è sul tavolo.
+вот	ecco	pronomi-e-connettori	vot	Вот моя книга.	Ecco il mio libro.
+книга	libro	scuola-e-lingua	kniga	Книга на столе.	Il libro è sul tavolo.
+газета	giornale	scuola-e-lingua	gazeta	Газета на столе.	Il giornale è sul tavolo.
+журнал	rivista	scuola-e-lingua	zhurnal	Журнал интересный.	La rivista è interessante.
+студент	studente	scuola-e-lingua	student	Студент читает книгу.	Lo studente legge un libro.
+ученик	alunno	scuola-e-lingua	uchenik	Ученик в классе.	L'alunno è nell'aula.
+преподаватель	insegnante	scuola-e-lingua	prepodavatel	Преподаватель в классе.	L'insegnante è nell'aula.
+тоже	anche	pronomi-e-connettori	tozhe	Я тоже студент.	Anch'io sono studente.
+стакан	bicchiere	stoviglie-e-posate	stakan	Стакан воды на столе.	Un bicchiere d'acqua è sul tavolo.
+ключ	chiave	casa-e-oggetti	klyuch	Ключ в сумке.	La chiave è nella borsa.
+хлеб	pane	cibo-e-bevande	hleb	Хлеб и сыр.	Pane e formaggio.
+мяч	palla	casa-e-oggetti	myach	Мяч на полу.	La palla è sul pavimento.
+человек	persona	persone-e-famiglia	chelovek	Этот человек читает.	Questa persona legge.
+шкаф	armadio	casa-e-oggetti	shkaf	Шкаф у двери.	L'armadio è vicino alla porta.
+часы	orologio	casa-e-oggetti	chasy	Часы на столе.	L'orologio è sul tavolo.
+дверь	porta	casa-e-oggetti	dver	Дверь закрыта.	La porta è chiusa.
+окно	finestra	casa-e-oggetti	okno	Окно открыто.	La finestra è aperta.
+лампа	lampada	casa-e-oggetti	lampa	Лампа на столе.	La lampada è sul tavolo.
+рюкзак	zaino	casa-e-oggetti	ryukzak	Рюкзак на стуле.	Lo zaino è sulla sedia.
+яблоко	mela	cibo-e-bevande	yabloko	Яблоко на столе.	La mela è sul tavolo.
+машина	macchina	viaggi-e-trasporti	mashina	Машина у дома.	La macchina è vicino alla casa.
+бутылка	bottiglia	stoviglie-e-posate	butylka	Бутылка воды на столе.	Una bottiglia d'acqua è sul tavolo.
+письмо	lettera	scuola-e-lingua	pismo	Письмо на столе.	La lettera è sul tavolo.
+вода	acqua	cibo-e-bevande	voda	Вода в стакане.	L'acqua è nel bicchiere.
+велосипед	bicicletta	viaggi-e-trasporti	velosiped	Велосипед у дома.	La bicicletta è vicino alla casa.
+город	città	natura-e-luoghi	gorod	Это большой город.	Questa è una grande città.
+зонт	ombrello	abbigliamento	zont	Зонт в сумке.	L'ombrello è nella borsa.
+икра	caviale	cibo-e-bevande	ikra	Икра на хлебе.	Il caviale è sul pane.
+пальто	cappotto	abbigliamento	palto	Пальто в шкафу.	Il cappotto è nell'armadio.
+туалет	bagno	luoghi-in-citta	tualet	Где туалет?	Dov'è il bagno?
+улица	strada	luoghi-in-citta	ulitsa	Улица рядом с домом.	La strada è vicino alla casa.
+школа	scuola	scuola-e-lingua	shkola	Школа в городе.	La scuola è in città.

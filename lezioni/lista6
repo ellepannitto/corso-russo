@@ -1,50 +1,50 @@
-знать	sapere	verbi	znat
-делать	fare	verbi	delat
-думать	pensare	verbi	dumat
-работать	lavorare	verbi	rabotat
-отдыхать	riposarsi	verbi	otdyhat
-играть	giocare	verbi	igrat
-гулять	passeggiare	verbi	gulyat
-плавать	nuotare	verbi	plavat
-бегать	correre	verbi	begat
-рассказывать	raccontare	verbi	rasskazyvat
-слушать	ascoltare	verbi	slushat
-понимать	capire	verbi	ponimat
-помнить	ricordarsi	verbi	pomnit
-повторять	ripetere	verbi	povtoryat
-покупать	comprare	verbi	pokupat
-читать	leggere	verbi	chitat
-спрашивать	chiedere	verbi	sprashivat
-отвечать	rispondere	verbi	otvechat
-учить	imparare	verbi	uchit
-изучать	studiare	verbi	izuchat
-завтракать	fare colazione	verbi	zavtrakat
-завтрак	colazione	cibo-e-bevande	zavtrak
-обедать	pranzare	verbi	obedat
-обед	pranzo	cibo-e-bevande	obed
-ужинать	cenare	verbi	uzhinat
-ужин	cena	cibo-e-bevande	uzhin
-говорить	parlare	verbi	govorit
-курить	fumare	verbi	kurit
-смотреть	guardare	verbi	smotret
-новости	notizie	scuola-e-lingua	novosti
-спортзал	palestra	luoghi-in-citta	sportzal
-сейчас	adesso	orari-e-frequenza	seychas
-вместе	insieme	avverbi	vmeste
-сегодня	oggi	tempo-e-date	segodnya
-пойдём	andiamo	saluti-e-cortesia	poydiom
-а	invece	pronomi-e-connettori	a
-и	e	pronomi-e-connettori	i
-шуба	cappotto	abbigliamento	shuba
-галстук	cravatta	abbigliamento	galstuk
-юбка	gonna	abbigliamento	yubka
-свитер	maglione	abbigliamento	sviter
-шапка	cappello	abbigliamento	shapka
-носки	calze	abbigliamento	noski
-туфли	scarpe	abbigliamento	tufli
-шарф	sciarpa	abbigliamento	sharf
-платье	vestito	abbigliamento	plate
-ещё	ancora	avverbi	eshchio
-никогда	mai	avverbi	nikogda
-скоро	presto	avverbi	skoro
-хотеть	volere	verbi	hotet
+знать	sapere	verbi	znat	Я **знаю** ответ.	So la risposta.
+делать	fare	verbi	delat	Мы **делаем** домашнее задание.	Facciamo i compiti a casa.
+думать	pensare	verbi	dumat	Я **думаю** о семье.	Penso alla famiglia.
+работать	lavorare	verbi	rabotat	Моя сестра **работает** в школе.	Mia sorella lavora a scuola.
+отдыхать	riposarsi	verbi	otdyhat	После работы мы **отдыхаем** дома.	Dopo il lavoro ci riposiamo a casa.
+играть	giocare	verbi	igrat	Дети **играют** в саду.	I bambini giocano in giardino.
+гулять	passeggiare	verbi	gulyat	Мы **гуляем** по городу.	Passeggiamo per la città.
+плавать	nuotare	verbi	plavat	Мой брат **плавает** в бассейне.	Mio fratello nuota in piscina.
+бегать	correre	verbi	begat	Я **бегаю** каждый день.	Corro ogni giorno.
+рассказывать	raccontare	verbi	rasskazyvat	Бабушка **рассказывает** детям сказку.	La nonna racconta una fiaba ai bambini.
+слушать	ascoltare	verbi	slushat	Студенты внимательно **слушают** преподавателя.	Gli studenti ascoltano attentamente l'insegnante.
+понимать	capire	verbi	ponimat	Я **понимаю** твой вопрос.	Capisco la tua domanda.
+помнить	ricordarsi	verbi	pomnit	Ты **помнишь** моё имя?	Ti ricordi il mio nome?
+повторять	ripetere	verbi	povtoryat	Ученик **повторяет** слова.	L'alunno ripete le parole.
+покупать	comprare	verbi	pokupat	Мы **покупаем** хлеб и сыр.	Compriamo pane e formaggio.
+читать	leggere	verbi	chitat	Мама **читает** интересную книгу.	La mamma legge un libro interessante.
+спрашивать	chiedere	verbi	sprashivat	Я **спрашиваю**, где вокзал.	Chiedo dove sia la stazione.
+отвечать	rispondere	verbi	otvechat	Студент **отвечает** на вопрос.	Lo studente risponde alla domanda.
+учить	imparare	verbi	uchit	Я **учу** новые слова.	Imparo parole nuove.
+изучать	studiare	verbi	izuchat	Мы **изучаем** русский язык.	Studiamo la lingua russa.
+завтракать	fare colazione	verbi	zavtrakat	Я **завтракаю** дома.	Faccio colazione a casa.
+завтрак	colazione	cibo-e-bevande	zavtrak	На завтрак я ем хлеб и сыр.	A colazione mangio pane e formaggio.
+обедать	pranzare	verbi	obedat	Студенты **обедают** в столовой.	Gli studenti pranzano in mensa.
+обед	pranzo	cibo-e-bevande	obed	На обед у нас рыба и овощи.	Per pranzo abbiamo pesce e verdure.
+ужинать	cenare	verbi	uzhinat	Мы **ужинаем** вместе.	Ceniamo insieme.
+ужин	cena	cibo-e-bevande	uzhin	Сегодня папа готовит ужин.	Oggi papà prepara la cena.
+говорить	parlare	verbi	govorit	Она хорошо **говорит** по-русски.	Lei parla bene il russo.
+курить	fumare	verbi	kurit	Мой брат не **курит**.	Mio fratello non fuma.
+смотреть	guardare	verbi	smotret	Мы **смотрим** интересный фильм.	Guardiamo un film interessante.
+новости	notizie	scuola-e-lingua	novosti	Папа читает новости.	Papà legge le notizie.
+спортзал	palestra	luoghi-in-citta	sportzal	Спортзал рядом со школой.	La palestra è vicino alla scuola.
+сейчас	adesso	orari-e-frequenza	seychas	Сейчас я делаю упражнение.	Adesso faccio un esercizio.
+вместе	insieme	avverbi	vmeste	Мы вместе изучаем русский язык.	Studiamo insieme la lingua russa.
+сегодня	oggi	tempo-e-date	segodnya	Сегодня мы отдыхаем.	Oggi ci riposiamo.
+пойдём	andiamo	saluti-e-cortesia	poydiom	Пойдём в спортзал!	Andiamo in palestra!
+а	invece	pronomi-e-connettori	a	Я читаю, а сестра работает.	Io leggo, invece mia sorella lavora.
+и	e	pronomi-e-connettori	i	Мама и папа готовят ужин.	Mamma e papà preparano la cena.
+шуба	cappotto	abbigliamento	shuba	Эта шуба очень тёплая.	Questo cappotto di pelliccia è molto caldo.
+галстук	cravatta	abbigliamento	galstuk	У него красивый галстук.	Lui ha una bella cravatta.
+юбка	gonna	abbigliamento	yubka	Эта юбка слишком длинная.	Questa gonna è troppo lunga.
+свитер	maglione	abbigliamento	sviter	Мне нравится этот свитер.	Mi piace questo maglione.
+шапка	cappello	abbigliamento	shapka	Где моя шапка?	Dov'è il mio cappello?
+носки	calze	abbigliamento	noski	Я покупаю тёплые носки.	Compro calze calde.
+туфли	scarpe	abbigliamento	tufli	Эти туфли очень удобные.	Queste scarpe sono molto comode.
+шарф	sciarpa	abbigliamento	sharf	Этот шарф красный.	Questa sciarpa è rossa.
+платье	vestito	abbigliamento	plate	Сколько стоит это платье?	Quanto costa questo vestito?
+ещё	ancora	avverbi	eshchio	Я хочу ещё чаю.	Voglio ancora del tè.
+никогда	mai	avverbi	nikogda	Я никогда не курю.	Non fumo mai.
+скоро	presto	avverbi	skoro	Скоро начинается урок.	La lezione inizia tra poco.
+хотеть	volere	verbi	hotet	Я **хочу** читать, а брат **хочет** гулять.	Io voglio leggere, invece mio fratello vuole passeggiare.

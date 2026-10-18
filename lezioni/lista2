@@ -1,74 +1,74 @@
-я	io	pronomi-e-connettori	ya
-ты	tu	pronomi-e-connettori	ty
-он	lui	pronomi-e-connettori	on
-она	lei	pronomi-e-connettori	ona
-оно	esso	pronomi-e-connettori	ono
-мы	noi	pronomi-e-connettori	my
-вы	voi	pronomi-e-connettori	vy
-они	loro	pronomi-e-connettori	oni
-сестра	sorella	persone-e-famiglia	sestra
-мужчина	uomo	persone-e-famiglia	muzhchina
-парень	ragazzo	persone-e-famiglia	paren
-мальчик	bambino	persone-e-famiglia	malchik
-женщина	donna	persone-e-famiglia	zhenshchina
-девушка	ragazza	persone-e-famiglia	devushka
-дети	bambini	persone-e-famiglia	deti
-люди	persone	persone-e-famiglia	lyudi
-река	fiume	natura-e-luoghi	reka
-ель	abete	natura-e-luoghi	el
-январь	gennaio	tempo-e-date	yanvar
-привет	ciao	saluti-e-cortesia	privet
-здравствуйте	salve	saluti-e-cortesia	zdravstvuyte
-доброе утро	buongiorno	saluti-e-cortesia	dobroe-utro
-добрый день	buongiorno	saluti-e-cortesia	dobryy-den
-добрый вечер	buonasera	saluti-e-cortesia	dobryy-vecher
-спокойной ночи	buonanotte	saluti-e-cortesia	spokoynoy-nochi
-пока	ciao	saluti-e-cortesia	poka
-до свидания	arrivederci	saluti-e-cortesia	do-svidaniya
-до встречи	ci vediamo	saluti-e-cortesia	do-vstrechi
-прекрасно	perfetto	avverbi	prekrasno
-неплохо	non c'è male	avverbi	neploho
-нормально	normale	avverbi	normalno
-более или менее	più o meno	avverbi	bolee-ili-menee
-так себе	così così	avverbi	tak-sebe
-плохо	male	avverbi	ploho
-ужасно	terribile	avverbi	uzhasno
-буква	lettera	scuola-e-lingua	bukva
-литера	lettera	scuola-e-lingua	litera
-как тебя зовут?	come ti chiami?	saluti-e-cortesia	kak-tebya-zovut
-меня	me	pronomi-e-connettori	menya
-тебя	te	pronomi-e-connettori	tebya
-его	lui	pronomi-e-connettori	ego
-её	lei	pronomi-e-connettori	eio
-нас	noi	pronomi-e-connettori	nas
-вас	voi	pronomi-e-connettori	vas
-их	loro	pronomi-e-connettori	ih
-рада познакомиться	piacere di conoscerti	saluti-e-cortesia	rada-poznakomitsya
-очень приятно	molto piacere	saluti-e-cortesia	ochen-priyatno
-откуда ты?	di dove sei?	saluti-e-cortesia	otkuda-ty
-я из Италии	sono dell'Italia	saluti-e-cortesia	ya-iz-italii
-кто ты по профессии?	che lavoro fai?	saluti-e-cortesia	kto-ty-po-professii
-я лингвист	sono una linguista	saluti-e-cortesia	ya-lingvist
-врач	dottore	professioni	vrach
-менеджер	manager	professioni	menedzher
-домохозяйка	casalinga	professioni	domohozyayka
-инженер	ingegnere	professioni	inzhener
-адвокат	avvocato	professioni	advokat
-официант	cameriere	professioni	ofitsiant
-секретарь	segretario	professioni	sekretar
-пенсионер	pensionato	professioni	pensioner
-продавец	commesso	professioni	prodavets
-школьники	scolari	scuola-e-lingua	shkolniki
-лук	cipolla	cibo-e-bevande	luk
-мясо	carne	cibo-e-bevande	myaso
-апельсины	arance	cibo-e-bevande	apelsiny
-апельсин	arancia	cibo-e-bevande	apelsin
-арбуз	anguria	cibo-e-bevande	arbuz
-чеснок	aglio	cibo-e-bevande	chesnok
-соль	sale	cibo-e-bevande	sol
-пёс	cane	animali	pios
-собака	cane	animali	sobaka
-ничего	niente	pronomi-e-connettori	nichego
-только	solo	pronomi-e-connettori	tolko
-всё в порядке	tutto ok	saluti-e-cortesia	vsio-v-poryadke
-завтра	domani	tempo-e-date	zavtra
+я	io	pronomi-e-connettori	ya	Я студент.	Io sono studente.
+ты	tu	pronomi-e-connettori	ty	Ты готов?	Sei pronto?
+он	lui	pronomi-e-connettori	on	Он дома.	Lui è a casa.
+она	lei	pronomi-e-connettori	ona	Она читает книгу.	Lei legge un libro.
+оно	esso	pronomi-e-connettori	ono	Оно на столе.	È sul tavolo.
+мы	noi	pronomi-e-connettori	my	Мы в школе.	Noi siamo a scuola.
+вы	voi	pronomi-e-connettori	vy	Вы готовы?	Siete pronti?
+они	loro	pronomi-e-connettori	toni	Они дома.	Loro sono a casa.
+сестра	sorella	persone-e-famiglia	sestra	Моя сестра дома.	Mia sorella è a casa.
+мужчина	uomo	persone-e-famiglia	muzhchina	Этот мужчина врач.	Quest'uomo è medico.
+парень	ragazzo	persone-e-famiglia	paren	Парень читает журнал.	Il ragazzo legge una rivista.
+мальчик	bambino	persone-e-famiglia	malchik	Мальчик в школе.	Il bambino è a scuola.
+женщина	donna	persone-e-famiglia	zhenshchina	Женщина читает газету.	La donna legge il giornale.
+девушка	ragazza	persone-e-famiglia	devushka	Девушка дома.	La ragazza è a casa.
+дети	bambini	persone-e-famiglia	deti	Дети в школе.	I bambini sono a scuola.
+люди	persone	persone-e-famiglia	lyudi	Люди на улице.	Le persone sono in strada.
+река	fiume	natura-e-luoghi	reka	Река рядом с городом.	Il fiume è vicino alla città.
+ель	abete	natura-e-luoghi	el	Ель в лесу.	L'abete è nella foresta.
+январь	gennaio	tempo-e-date	yanvar	Январь — зимний месяц.	Gennaio è un mese invernale.
+привет	ciao	saluti-e-cortesia	privet	Привет, как дела?	Ciao, come va?
+здравствуйте	salve	saluti-e-cortesia	zdravstvuyte	Здравствуйте, я студент.	Salve, sono studente.
+доброе утро	buongiorno	saluti-e-cortesia	dobroe-utro	Доброе утро, мама!	Buongiorno, mamma!
+добрый день	buongiorno	saluti-e-cortesia	dobryy-den	Добрый день, преподаватель!	Buongiorno, insegnante!
+добрый вечер	buonasera	saluti-e-cortesia	dobryy-vecher	Добрый вечер, папа!	Buonasera, papà!
+спокойной ночи	buonanotte	saluti-e-cortesia	spokoynoy-nochi	Спокойной ночи, мама.	Buonanotte, mamma.
+пока	ciao	saluti-e-cortesia	poka	Пока, до встречи!	Ciao, a presto!
+до свидания	arrivederci	saluti-e-cortesia	do-svidaniya	До свидания, преподаватель.	Arrivederci, insegnante.
+до встречи	ci vediamo	saluti-e-cortesia	do-vstrechi	До встречи завтра.	Ci vediamo domani.
+прекрасно	perfetto	avverbi	prekrasno	Всё прекрасно.	Va tutto benissimo.
+неплохо	non c'è male	avverbi	neploho	Сегодня неплохо.	Oggi non c'è male.
+нормально	normale	avverbi	normalno	Всё нормально.	Va tutto bene.
+более или менее	più o meno	avverbi	bolee-ili-menee	Я более или менее готов.	Sono più o meno pronto.
+так себе	così così	avverbi	tak-sebe	Как дела? Так себе.	Come va? Così così.
+плохо	male	avverbi	ploho	Мне плохо.	Sto male.
+ужасно	terribile	avverbi	uzhasno	Сегодня ужасно холодно.	Oggi fa terribilmente freddo.
+буква	lettera	scuola-e-lingua	bukva	Это русская буква.	Questa è una lettera russa.
+литера	lettera	scuola-e-lingua	litera	Эта литера большая.	Quella lettera è grande.
+как тебя зовут?	come ti chiami?	saluti-e-cortesia	kak-tebya-zovut	Как тебя зовут? — Меня зовут Анна.	Come ti chiami? — Mi chiamo Anna.
+меня	me	pronomi-e-connettori	menya	Меня зовут Анна.	Mi chiamo Anna.
+тебя	te	pronomi-e-connettori	tebya	Я вижу тебя.	Ti vedo.
+его	lui	pronomi-e-connettori	ego	Я знаю его.	Lo conosco.
+её	lei	pronomi-e-connettori	eio	Я вижу её.	La vedo.
+нас	noi	pronomi-e-connettori	nas	Он знает нас.	Lui ci conosce.
+вас	voi	pronomi-e-connettori	vas	Я жду вас.	Vi aspetto.
+их	loro	pronomi-e-connettori	ih	Я вижу их.	Li vedo.
+рада познакомиться	piacere di conoscerti	saluti-e-cortesia	rada-poznakomitsya	Рада познакомиться, Анна.	Piacere di conoscerti, Anna.
+очень приятно	molto piacere	saluti-e-cortesia	ochen-priyatno	Очень приятно познакомиться.	Molto piacere di conoscerti.
+откуда ты?	di dove sei?	saluti-e-cortesia	otkuda-ty	Откуда ты? — Я из Италии.	Di dove sei? — Sono dell'Italia.
+я из Италии	sono dell'Italia	saluti-e-cortesia	ya-iz-italii	Я из Италии, а он из России.	Io sono dell'Italia e lui è della Russia.
+кто ты по профессии?	che lavoro fai?	saluti-e-cortesia	kto-ty-po-professii	Кто ты по профессии? — Я врач.	Che lavoro fai? — Sono medico.
+я лингвист	sono una linguista	saluti-e-cortesia	ya-lingvist	Я лингвист и студент.	Sono linguista e studente.
+врач	dottore	professioni	vrach	Врач в больнице.	Il medico è in ospedale.
+менеджер	manager	professioni	menedzher	Менеджер в офисе.	Il manager è in ufficio.
+домохозяйка	casalinga	professioni	domohozyayka	Домохозяйка дома.	La casalinga è a casa.
+инженер	ingegnere	professioni	inzhener	Инженер работает дома.	L'ingegnere lavora a casa.
+адвокат	avvocato	professioni	advokat	Адвокат читает письмо.	L'avvocato legge una lettera.
+официант	cameriere	professioni	ofitsiant	Официант приносит чай.	Il cameriere porta il tè.
+секретарь	segretario	professioni	sekretar	Секретарь в офисе.	Il segretario è in ufficio.
+пенсионер	pensionato	professioni	pensioner	Пенсионер читает газету.	Il pensionato legge il giornale.
+продавец	commesso	professioni	prodavets	Продавец в магазине.	Il commesso è nel negozio.
+школьники	scolari	scuola-e-lingua	shkolniki	Школьники в классе.	Gli scolari sono nell'aula.
+лук	cipolla	cibo-e-bevande	luk	Лук на столе.	La cipolla è sul tavolo.
+мясо	carne	cibo-e-bevande	myaso	Мясо и хлеб.	Carne e pane.
+апельсины	arance	cibo-e-bevande	apelsiny	Апельсины на столе.	Le arance sono sul tavolo.
+апельсин	arancia	cibo-e-bevande	apelsin	Апельсин на столе.	L'arancia è sul tavolo.
+арбуз	anguria	cibo-e-bevande	arbuz	Арбуз большой.	L'anguria è grande.
+чеснок	aglio	cibo-e-bevande	chesnok	Чеснок и лук.	Aglio e cipolla.
+соль	sale	cibo-e-bevande	sol	Соль и хлеб на столе.	Sale e pane sono sul tavolo.
+пёс	cane	animali	pios	Пёс дома.	Il cane è a casa.
+собака	cane	animali	sobaka	Собака на улице.	Il cane è in strada.
+ничего	niente	pronomi-e-connettori	nichego	Ничего не понимаю.	Non capisco niente.
+только	solo	pronomi-e-connettori	tolko	Я только читаю.	Leggo soltanto.
+всё в порядке	tutto ok	saluti-e-cortesia	vsio-v-poryadke	Всё в порядке, спасибо.	Va tutto bene, grazie.
+завтра	domani	tempo-e-date	zavtra	Завтра урок.	Domani c'è lezione.

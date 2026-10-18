@@ -1,46 +1,46 @@
-животное	animale	animali	zhivotnoe
-животные	animali	animali	zhivotnye
-кошка	gatto	animali	koshka
-собака	cane	animali	sobaka
-петух	gallo	animali	petuh
-курица	gallina	animali	kuritsa
-свинья	maiale	animali	svinya
-корова	mucca	animali	korova
-овца	pecora	animali	ovtsa
-лягушка	rana	animali	lyagushka
-птица	uccello	animali	ptitsa
-осёл	asino	animali	osiol
-лошадь	cavallo	animali	loshad
-утка	papera	animali	utka
-учебник	manuale	scuola-e-lingua	uchebnik
-статья	articolo	scuola-e-lingua	statya
-статьи	articoli	scuola-e-lingua	stati
-реферат	saggio	scuola-e-lingua	referat
-письмо	lettera	scuola-e-lingua	pismo
-вчера	ieri	tempo-e-date	vchera
-позавчера	l'altro ieri	tempo-e-date	pozavchera
-раньше	prima	orari-e-frequenza	ranshe
-час назад	un'ora fa	tempo-e-date	chas-nazad
-месяц назад	un mese fa	tempo-e-date	mesyats-nazad
-год назад	un anno fa	tempo-e-date	god-nazad
-давно	da tanto tempo	orari-e-frequenza	davno
-недавно	da poco tempo	orari-e-frequenza	nedavno
-выходной	giorno libero	tempo-e-date	vyhodnoy
-выходные	weekend	tempo-e-date	vyhodnye
-позже	dopo	orari-e-frequenza	pozzhe
-будущее	futuro	tempo-e-date	budushchee
-завтра	domani	tempo-e-date	zavtra
-послезавтра	dopodomani	tempo-e-date	poslezavtra
-через час	tra un'ora	tempo-e-date	cherez-chas
-через год	tra un anno	tempo-e-date	cherez-god
-через месяц	tra un mese	tempo-e-date	cherez-mesyats
-уверен	sicuro	aggettivi	uveren
-может быть	forse	pronomi-e-connettori	mozhet-byt
-поэтому	quindi	pronomi-e-connettori	poetomu
-внимательно	attentamente	avverbi	vnimatelno
-сейчас	ora	orari-e-frequenza	seychas
-учить	studiare	verbi	uchit
-изучать	studiare	verbi	izuchat
-глагол	verbo	grammatica	glagol
-молчать	tacere	verbi	molchat
-строить	costruire	verbi	stroit
+животное	animale	animali	zhivotnoe	Кошка — домашнее животное.	Il gatto è un animale domestico.
+животные	animali	animali	zhivotnye	В зоопарке живут разные животные.	Nello zoo vivono diversi animali.
+кошка	gatto	animali	koshka	Кошка спит на диване.	Il gatto dorme sul divano.
+собака	cane	animali	sobaka	Наша собака любит гулять.	Al nostro cane piace passeggiare.
+петух	gallo	animali	petuh	Петух поёт рано утром.	Il gallo canta la mattina presto.
+курица	gallina	animali	kuritsa	Курица ходит по двору.	La gallina cammina nel cortile.
+свинья	maiale	animali	svinya	Эта свинья ест овощи.	Questo maiale mangia verdure.
+корова	mucca	animali	korova	Корова ест траву.	La mucca mangia l'erba.
+овца	pecora	animali	ovtsa	Овца стоит рядом с деревом.	La pecora è vicino all'albero.
+лягушка	rana	animali	lyagushka	Лягушка сидит на берегу озера.	La rana è sulla riva del lago.
+птица	uccello	animali	ptitsa	На дереве сидит маленькая птица.	Sull'albero c'è un uccello piccolo.
+осёл	asino	animali	osiol	Этот осёл живёт в деревне.	Questo asino vive in campagna.
+лошадь	cavallo	animali	loshad	Лошадь пьёт воду.	Il cavallo beve acqua.
+утка	papera	animali	utka	Утка плавает в озере.	La papera nuota nel lago.
+учебник	manuale	scuola-e-lingua	uchebnik	Это мой учебник русского языка.	Questo è il mio manuale di russo.
+статья	articolo	scuola-e-lingua	statya	Эта статья о животных.	Questo articolo parla di animali.
+статьи	articoli	scuola-e-lingua	stati	Я читаю статьи на русском языке.	Leggo articoli in russo.
+реферат	saggio	scuola-e-lingua	referat	Студент пишет реферат об искусстве.	Lo studente scrive un saggio sull'arte.
+письмо	lettera	scuola-e-lingua	pismo	Я получил письмо от друга.	Ho ricevuto una lettera da un amico.
+вчера	ieri	tempo-e-date	vchera	Вчера мы играли в теннис.	Ieri abbiamo giocato a tennis.
+позавчера	l'altro ieri	tempo-e-date	pozavchera	Позавчера я был в музее.	L'altro ieri sono stato al museo.
+раньше	prima	orari-e-frequenza	ranshe	Раньше я жил в другом городе.	Prima vivevo in un'altra città.
+час назад	un'ora fa	tempo-e-date	chas-nazad	Урок закончился час назад.	La lezione è finita un'ora fa.
+месяц назад	un mese fa	tempo-e-date	mesyats-nazad	Месяц назад мы были на море.	Un mese fa eravamo al mare.
+год назад	un anno fa	tempo-e-date	god-nazad	Год назад я начал изучать русский язык.	Un anno fa ho iniziato a studiare russo.
+давно	da tanto tempo	orari-e-frequenza	davno	Мои родители давно живут здесь.	I miei genitori vivono qui da tanto tempo.
+недавно	da poco tempo	orari-e-frequenza	nedavno	Мы недавно купили новый стол.	Abbiamo comprato un tavolo nuovo da poco.
+выходной	giorno libero	tempo-e-date	vyhodnoy	Завтра у меня выходной.	Domani ho un giorno libero.
+выходные	weekend	tempo-e-date	vyhodnye	На выходные мы поедем в деревню.	Per il weekend andremo in campagna.
+позже	dopo	orari-e-frequenza	pozzhe	Сейчас я работаю, позвоню позже.	Adesso lavoro, chiamerò più tardi.
+будущее	futuro	tempo-e-date	budushchee	Я часто думаю о **будущем**.	Penso spesso al futuro.
+завтра	domani	tempo-e-date	zavtra	Завтра мы будем читать новую статью.	Domani leggeremo un articolo nuovo.
+послезавтра	dopodomani	tempo-e-date	poslezavtra	Послезавтра у нас урок.	Dopodomani abbiamo lezione.
+через час	tra un'ora	tempo-e-date	cherez-chas	Поезд отправляется через час.	Il treno parte tra un'ora.
+через год	tra un anno	tempo-e-date	cherez-god	Через год я буду лучше говорить по-русски.	Tra un anno parlerò meglio il russo.
+через месяц	tra un mese	tempo-e-date	cherez-mesyats	Через месяц начинаются каникулы.	Tra un mese iniziano le vacanze.
+уверен	sicuro	aggettivi	uveren	Я уверен, что это правильный ответ.	Sono sicuro che questa sia la risposta giusta.
+может быть	forse	pronomi-e-connettori	mozhet-byt	Может быть, в воскресенье мы пойдём в зоопарк.	Forse domenica andremo allo zoo.
+поэтому	quindi	pronomi-e-connettori	poetomu	Сегодня холодно, поэтому я надеваю пальто.	Oggi fa freddo, quindi metto il cappotto.
+внимательно	attentamente	avverbi	vnimatelno	Я внимательно читаю задание.	Leggo attentamente la consegna.
+сейчас	ora	orari-e-frequenza	seychas	Сейчас мы изучаем глаголы.	Ora studiamo i verbi.
+учить	studiare	verbi	uchit	Я **учу** новые слова каждый день.	Studio parole nuove ogni giorno.
+изучать	studiare	verbi	izuchat	Моя сестра **изучает** историю.	Mia sorella studia storia.
+глагол	verbo	grammatica	glagol	«Читать» — это глагол.	«Leggere» è un verbo.
+молчать	tacere	verbi	molchat	Ученик **молчит**, потому что не знает ответа.	L'alunno tace perché non sa la risposta.
+строить	costruire	verbi	stroit	В нашем городе **строят** новую школу.	Nella nostra città stanno costruendo una scuola nuova.
