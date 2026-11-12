@@ -20,18 +20,18 @@ Il procedimento ha tre parti, da fare **una sola volta** sul computer: creare il
 
 Ogni riga è una nota, con sei colonne separate da tabulazione:
 
-| Colonna | Campo Anki | Contenuto |
-| --- | --- | --- |
-| 1 | `ID` | Identificativo stabile della parola (es. `kot`). Non compare sulle carte: serve ad Anki per riconoscere la nota quando si reimporta il file |
-| 2 | `Russo` | La parola o l'espressione in russo |
-| 3 | `Italiano` | La traduzione. Se la parola ha più significati sono separati da ` / ` |
-| 4 | `FraseRusso` | La frase d'esempio, con la parola evidenziata. Può essere vuota |
-| 5 | `FraseItaliano` | La traduzione della frase. Può essere vuota |
-| 6 | Tag | Temi e lezioni, separati da spazio (es. `animali lez-3`) |
+| Colonna | Campo Anki      | Contenuto                                                                                                                                   |
+| ------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | `ID`            | Identificativo stabile della parola (es. `kot`). Non compare sulle carte: serve ad Anki per riconoscere la nota quando si reimporta il file |
+| 2       | `Russo`         | La parola o l'espressione in russo                                                                                                          |
+| 3       | `Italiano`      | La traduzione. Se la parola ha più significati sono separati da ` / `                                                                       |
+| 4       | `FraseRusso`    | La frase d'esempio, con la parola evidenziata. Può essere vuota                                                                             |
+| 5       | `FraseItaliano` | La traduzione della frase. Può essere vuota                                                                                                 |
+| 6       | Tag             | Temi e lezioni, separati da spazio (es. `animali lez-3`)                                                                                    |
 
 Il file contiene in cima cinque righe che iniziano con `#`: non sono parole, ma istruzioni per Anki (separatore, HTML attivo, tipo di nota e mazzo di destinazione, colonna dei tag). Non vanno cancellate.
 
-Se una parola compare in più liste, nel TSV ha una sola riga: i significati e le frasi vengono uniti.
+Se una parola compare in più liste, nel TSV ha una sola riga: i significati vengono uniti (separati da ` / `) e si tiene una sola frase d'esempio, la prima in ordine di lista.
 
 ---
 
@@ -152,7 +152,35 @@ Per studiare un sottoinsieme in modo separato si usa **Strumenti → Crea mazzo 
 
 ---
 
-## 9. Problemi frequenti
+## 9. Ordine in cui compaiono le carte
+
+Ogni parola ha fino a tre carte. Se le carte nuove compaiono in ordine sparso (per esempio la carta «Frase → Traduzione» di una parola, poi «Italiano → Russo» di un'altra, e le carte della stessa parola in giorni diversi), la causa sono le opzioni del mazzo, non un errore del file.
+
+Le impostazioni si trovano nella schermata **Mazzi**, con l'ingranaggio accanto a «Russo» → **Opzioni**, nella sezione **Ordine di presentazione**:
+
+- **Ordine di recupero delle nuove carte** stabilisce *quali* carte nuove vengono prese ogni giorno, fino al limite giornaliero.
+- **Ordine delle nuove carte** stabilisce in che *ordine* vengono mostrate quelle prese.
+
+Con **Casuale (note)** per il recupero e **Casuale** per l'ordine, le carte nuove vengono scelte e rimescolate una per una: i tre tipi di carta di una parola si separano e si alternano a quelli di altre parole. Combinazioni più utili:
+
+| Obiettivo | Ordine di recupero | Ordine delle nuove carte |
+| --- | --- | --- |
+| Parole nell'ordine del file (alfabetico), con le carte della stessa parola vicine | Posizione crescente | Ordine di recupero |
+| Parole in ordine casuale, ma con le carte di ciascuna vicine | Casuale (note) | Nota casuale, poi tipo di carta |
+| Tutto in ordine casuale, anche i tipi di carta | Casuale (note) | Casuale |
+
+I nomi delle voci possono variare un po' secondo la versione di Anki. Accanto a ciascuna voce c'è una freccia circolare che la riporta al valore predefinito.
+
+Altre cose da sapere:
+
+- Le modifiche valgono per le carte nuove ancora da proporre: le carte già studiate non cambiano.
+- Le opzioni sono legate al **preset** («Predefinito»), che vale per tutti i mazzi che lo usano: cambiandolo per «Russo» si cambia anche per gli altri mazzi con lo stesso preset.
+- Nella sezione **Seppellimento** l'opzione per le carte nuove «sorelle» (le altre carte della stessa parola) fa comparire una sola carta per parola al giorno: le altre ricompaiono il giorno dopo. Per vedere insieme tutte le carte di una parola si disattiva.
+- Il file è ordinato alfabeticamente in russo, quindi con l'ordine «sequenziale» le parole arrivano in ordine alfabetico, non di lezione. Per studiare una lezione alla volta si usano i tag (passo 8).
+
+---
+
+## 10. Problemi frequenti
 
 | Problema | Cosa fare |
 | --- | --- |

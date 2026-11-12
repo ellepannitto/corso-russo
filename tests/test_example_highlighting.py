@@ -105,7 +105,9 @@ class ExampleHighlightingTests(unittest.TestCase):
             self.assertEqual(by_id["dom"][3:5], ["", ""])  # parola singola: nessuna frase
             self.assertEqual(by_id["dom"][5], "casa-e-oggetti lez-1")
             self.assertEqual(by_id["kot"][2], "gatto / micio")  # significati uniti
-            self.assertEqual(by_id["kot"][3].count("<br><br>"), 1)  # due frasi unite
+            self.assertNotIn("<br>", by_id["kot"][3])  # una sola frase: la prima
+            self.assertIn("У меня есть", by_id["kot"][3])
+            self.assertEqual(by_id["kot"][4], "Ho un gatto.")
             self.assertEqual(by_id["kot"][5], "animali lez-1 lez-2")
 
     def test_apkg_and_tsv_share_the_same_note_type(self):

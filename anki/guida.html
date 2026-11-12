@@ -127,6 +127,34 @@
         <li>Si cerca <code>card:"Russo → Italiano"</code> (nome esatto del template) per vedere solo le carte in quella direzione. Si può combinare con un tag, es. <code>card:"Russo → Italiano" tag:lez-3</code>. Per le sole frasi: <code>card:"Frase → Traduzione"</code>.</li>
         <li>Da lì si può creare un mazzo filtrato come al punto 04, oppure disattivare temporaneamente un template dalle impostazioni del <b>Tipo di nota</b> (Strumenti → Gestisci tipi di nota → Carte), se non si vuole vedere affatto uno dei tipi di carta.</li>
       </ol>
+      <h3 class="sub">Ordine in cui compaiono le carte</h3>
+      <p>Ogni parola ha fino a tre carte. Se le carte nuove compaiono in ordine sparso (per esempio la carta «Frase → Traduzione» di una parola, poi «Italiano → Russo» di un'altra, e le carte della stessa parola in giorni diversi), la causa sono le opzioni del mazzo, non un errore del file.</p>
+      <p>Le impostazioni si trovano nella schermata <b>Mazzi</b>, con l'ingranaggio accanto a «Russo» → <b>Opzioni</b>, nella sezione <b>Ordine di presentazione</b>:</p>
+      <ul>
+        <li><b>Ordine di recupero delle nuove carte</b> stabilisce <i>quali</i> carte nuove vengono prese ogni giorno, fino al limite giornaliero.</li>
+        <li><b>Ordine delle nuove carte</b> stabilisce in che <i>ordine</i> vengono mostrate quelle prese.</li>
+      </ul>
+      <p>Con <b>Casuale (note)</b> per il recupero e <b>Casuale</b> per l'ordine, le carte nuove vengono scelte e rimescolate una per una: i tre tipi di carta di una parola si separano e si alternano a quelli di altre parole. Combinazioni più utili:</p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Obiettivo</th><th>Ordine di recupero</th><th>Ordine delle nuove carte</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Parole nell'ordine del file (alfabetico), con le carte della stessa parola vicine</td><td>Posizione crescente</td><td>Ordine di recupero</td></tr>
+            <tr><td>Parole in ordine casuale, ma con le carte di ciascuna vicine</td><td>Casuale (note)</td><td>Nota casuale, poi tipo di carta</td></tr>
+            <tr><td>Tutto in ordine casuale, anche i tipi di carta</td><td>Casuale (note)</td><td>Casuale</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>I nomi delle voci possono variare un po' secondo la versione di Anki. Accanto a ciascuna voce c'è una freccia circolare che la riporta al valore predefinito.</p>
+      <p>Altre cose da sapere:</p>
+      <ul>
+        <li>Le modifiche valgono per le carte nuove ancora da proporre: le carte già studiate non cambiano.</li>
+        <li>Le opzioni sono legate al <b>preset</b> («Predefinito»), che vale per tutti i mazzi che lo usano: cambiandolo per «Russo» si cambia anche per gli altri mazzi con lo stesso preset.</li>
+        <li>Nella sezione <b>Seppellimento</b> l'opzione per le carte nuove «sorelle» (le altre carte della stessa parola) fa comparire una sola carta per parola al giorno: le altre ricompaiono il giorno dopo. Per vedere insieme tutte le carte di una parola si disattiva.</li>
+        <li>Il file è ordinato alfabeticamente in russo, quindi con l'ordine «sequenziale» le parole arrivano in ordine alfabetico, non di lezione. Per studiare una lezione alla volta si usano i tag (passo 04).</li>
+      </ul>
     </div>
   </section>
 

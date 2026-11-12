@@ -282,13 +282,15 @@ def note_tags(entry: dict[str, object]) -> list[str]:
 
 def note_fields(entry: dict[str, object]) -> list[str]:
     """Valori dei campi, nell'ordine di FIELDS: ID, Russo, Italiano, FraseRusso, FraseItaliano."""
-    examples = entry["examples"]
+    # Una sola frase per nota: se la parola ha più esempi (da liste diverse)
+    # si tiene il primo, così sulla carta frase e traduzione restano abbinate.
+    example_ru, example_it = entry["examples"][0] if entry["examples"] else ("", "")
     return [
         entry["id"],
         entry["russian"],
         " / ".join(entry["italian"]),
-        "<br><br>".join(ru for ru, _ in examples),
-        "<br><br>".join(html.escape(it) for _, it in examples),
+        example_ru,
+        html.escape(example_it),
     ]
 
 
