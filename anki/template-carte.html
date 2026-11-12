@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Template Anki — vocabolario di russo (parola e parola + frase)</title>
+
+  <!-- STILE COMUNE
+    Copia il contenuto del blocco style nella sezione «Stile» di Anki,
+    senza includere i tag <style> e </style>.
+  -->
+  <style>
+    .card {
+      font-family: Arial, sans-serif;
+      font-size: 22px;
+      text-align: center;
+      color: #222;
+      background-color: #fff;
+      padding: 24px;
+    }
+
+    .parola {
+      font-size: 36px;
+      font-weight: bold;
+      margin-bottom: 16px;
+    }
+
+    .frase {
+      font-size: 23px;
+      line-height: 1.5;
+      margin-top: 12px;
+    }
+
+    .traduzione {
+      font-size: 20px;
+      line-height: 1.5;
+      color: #555;
+    }
+
+    .target-word {
+      color: #b42318;
+      font-weight: 700;
+      background: #fff0c2;
+      padding: 0 0.12em;
+      border-radius: 0.15em;
+    }
+
+    #answer {
+      border: 0;
+      border-top: 1px solid #aaa;
+      margin: 28px 0;
+    }
+
+    .card.nightMode {
+      color: #eee;
+      background-color: #222;
+    }
+
+    .nightMode .traduzione {
+      color: #bbb;
+    }
+
+    .nightMode .target-word {
+      color: #ffb4a8;
+      background: #4a3b10;
+    }
+  </style>
+</head>
+<body>
+  <!-- ISTRUZIONI
+    Questo file raccoglie i template da copiare nell'editor delle carte di Anki.
+    Non è un mazzo da importare né un'anteprima delle carte.
+    La procedura completa è in GUIDA-TSV.md.
+
+    TIPO DI NOTE: «Russo», con questi cinque campi, in quest'ordine e con
+    questi nomi esatti (maiuscole comprese):
+
+      ID, Russo, Italiano, FraseRusso, FraseItaliano
+
+    TIPI DI CARTA: tre, con questi nomi:
+
+      1. Russo → Italiano
+      2. Italiano → Russo
+      3. Frase → Traduzione
+
+    Per ogni fronte e retro copia solo il contenuto del relativo blocco
+    <template>, senza includere i tag <template> e </template>.
+
+    PAROLE SENZA FRASE
+    I campi FraseRusso e FraseItaliano possono restare vuoti. Le parti che
+    li usano sono racchiuse in {{#FraseRusso}} ... {{/FraseRusso}}, quindi:
+    - nelle carte 1 e 2 la frase compare solo se c'è;
+    - la carta 3 viene creata soltanto per le note con una frase.
+    Il campo ID non compare mai sulle carte: serve solo ad Anki per
+    riconoscere le note quando si reimporta il file.
+  -->
+
+  <!-- CARTA 1: RUSSO → ITALIANO — FRONTE -->
+  <template id="russo-italiano-fronte">
+    <div class="parola" lang="ru">{{Russo}}</div>
+  </template>
+
+  <!-- CARTA 1: RUSSO → ITALIANO — RETRO -->
+  <template id="russo-italiano-retro">
+    {{FrontSide}}
+
+    <hr id="answer">
+
+    <div class="parola" lang="it">{{Italiano}}</div>
+
+    {{#FraseRusso}}
+    <div class="frase" lang="ru">{{FraseRusso}}</div>
+    <div class="frase traduzione" lang="it">{{FraseItaliano}}</div>
+    {{/FraseRusso}}
+  </template>
+
+  <!-- CARTA 2: ITALIANO → RUSSO — FRONTE -->
+  <template id="italiano-russo-fronte">
+    <div class="parola" lang="it">{{Italiano}}</div>
+  </template>
+
+  <!-- CARTA 2: ITALIANO → RUSSO — RETRO -->
+  <template id="italiano-russo-retro">
+    {{FrontSide}}
+
+    <hr id="answer">
+
+    <div class="parola" lang="ru">{{Russo}}</div>
+
+    {{#FraseRusso}}
+    <div class="frase" lang="ru">{{FraseRusso}}</div>
+    <div class="frase traduzione" lang="it">{{FraseItaliano}}</div>
+    {{/FraseRusso}}
+  </template>
+
+  <!-- CARTA 3: FRASE → TRADUZIONE — FRONTE
+    Viene creata solo se FraseRusso non è vuoto. La parola da imparare
+    è già evidenziata nella frase. -->
+  <template id="frase-traduzione-fronte">
+    {{#FraseRusso}}
+    <div class="frase" lang="ru">{{FraseRusso}}</div>
+    {{/FraseRusso}}
+  </template>
+
+  <!-- CARTA 3: FRASE → TRADUZIONE — RETRO -->
+  <template id="frase-traduzione-retro">
+    {{FrontSide}}
+
+    <hr id="answer">
+
+    <div class="frase traduzione" lang="it">{{FraseItaliano}}</div>
+    <div class="frase" lang="it">{{Russo}} = {{Italiano}}</div>
+  </template>
+</body>
+</html>

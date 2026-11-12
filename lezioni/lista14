@@ -1,99 +1,100 @@
-теннис	tennis	sport-e-giochi	tennis	По субботам мы играем в теннис.	Il sabato giochiamo a tennis.
-футбол	calcio	sport-e-giochi	futbol	Мой брат любит футбол.	A mio fratello piace il calcio.
-хоккей	hockey	sport-e-giochi	hokkey	Сегодня мы смотрим хоккей.	Oggi guardiamo l'hockey.
-шахматы	scacchi	sport-e-giochi	shahmaty	Дедушка учит меня играть в шахматы.	Il nonno mi insegna a giocare a scacchi.
-карты	carte	sport-e-giochi	karty	Вечером мы играем в карты.	La sera giochiamo a carte.
-баскетбол	basket	sport-e-giochi	basketbol	Дети играют в баскетбол в спортзале.	I bambini giocano a basket in palestra.
-пианино	pianoforte	musica-e-strumenti	pianino	Моя сестра играет на пианино.	Mia sorella suona il pianoforte.
-гитара	chitarra	musica-e-strumenti	gitara	Эта гитара принадлежит моему брату.	Questa chitarra appartiene a mio fratello.
-скрипка	violino	musica-e-strumenti	skripka	Скрипка лежит рядом с пианино.	Il violino è accanto al pianoforte.
-флейта	flauto	musica-e-strumenti	fleyta	Мне нравится, как звучит флейта.	Mi piace il suono del flauto.
-саксофон	saxofono	musica-e-strumenti	saksofon	Мой друг играет на **саксофоне**.	Il mio amico suona il sassofono.
-барабаны	batteria	musica-e-strumenti	barabany	Он хочет научиться играть на **барабанах**.	Vuole imparare a suonare la batteria.
-компьютер	computer	casa-e-oggetti	kompyuter	Я использую компьютер для работы.	Uso il computer per lavorare.
-север	nord	direzioni-e-geografia	sever	Летом мы поедем на север.	D'estate andremo a nord.
-юг	sud	direzioni-e-geografia	yug	Эта дорога ведёт на юг.	Questa strada porta a sud.
-запад	ovest	direzioni-e-geografia	zapad	На карте запад слева.	Sulla mappa l'ovest è a sinistra.
-восток	est	direzioni-e-geografia	vostok	Мы едем на восток.	Viaggiamo verso est.
-завод	fabbrica	luoghi-in-citta	zavod	Мой отец работает на **заводе**.	Mio padre lavora in fabbrica.
-рынок	mercato	luoghi-in-citta	rynok	Этот рынок открыт по субботам.	Questo mercato è aperto il sabato.
-станция	stazione	luoghi-in-citta	stantsiya	Следующая станция рядом с центром города.	La prossima stazione è vicino al centro della città.
-семья	famiglia	persone-e-famiglia	semya	Вся семья собирается за столом.	Tutta la famiglia si riunisce a tavola.
-каникулы	vacanze	sport-e-giochi	kanikuly	Летом у школьников каникулы.	D'estate gli scolari hanno le vacanze.
-командировка	trasferta	viaggi-e-trasporti	komandirovka	Завтра у меня командировка в другой город.	Domani ho una trasferta in un'altra città.
-горы	montagne	natura-e-luoghi	gory	Из окна видны горы.	Dalla finestra si vedono le montagne.
-масло	burro	cibo-e-bevande	maslo	На столе есть хлеб и масло.	Sul tavolo ci sono pane e burro.
-варенье	marmellata	cibo-e-bevande	varene	Бабушка готовит варенье из малины.	La nonna prepara la marmellata di lamponi.
-выставка	mostra	arte-e-cultura	vystavka	Эта выставка мне очень нравится.	Questa mostra mi piace molto.
-исключения	eccezioni	grammatica	isklyucheniya	У этого правила есть исключения.	Questa regola ha delle eccezioni.
-лес	foresta	natura-e-luoghi	les	Мы любим гулять в **лесу**.	Ci piace passeggiare nella foresta.
-сад	giardino	natura-e-luoghi	sad	Наш сад весной очень красивый.	Il nostro giardino è molto bello in primavera.
-порт	porto	luoghi-in-citta	port	Порт находится рядом с городом.	Il porto si trova vicino alla città.
-угол	angolo	luoghi-in-citta	ugol	Этот угол комнаты слишком тёмный.	Questo angolo della stanza è troppo buio.
-берег	riva	natura-e-luoghi	bereg	Мы идём на берег реки.	Andiamo sulla riva del fiume.
-шкаф	armadio	casa-e-oggetti	shkaf	Шкаф стоит между кроватью и столом.	L'armadio è tra il letto e il tavolo.
-пол	pavimento	casa-e-oggetti	pol	На пол упала книга.	Un libro è caduto sul pavimento.
-дерево	albero	natura-e-luoghi	derevo	Это дерево растёт у нашего дома.	Questo albero cresce vicino a casa nostra.
-лодка	barca	natura-e-luoghi	lodka	Лодка стоит у берега.	La barca è ferma vicino alla riva.
-самолёт	aereo	viaggi-e-trasporti	samoliot	Наш самолёт вылетает утром.	Il nostro aereo parte la mattina.
-ковёр	tappeto	casa-e-oggetti	kovior	На полу лежит мягкий ковёр.	Sul pavimento c'è un tappeto morbido.
-волк	lupo	animali	volk	В лесу живёт волк.	Nella foresta vive un lupo.
-покупать	comprare	verbi	pokupat	Мы **покупаем** овощи на рынке.	Compriamo le verdure al mercato.
-солнце	sole	natura-e-luoghi	solntse	Утром в окно светит солнце.	La mattina il sole illumina la finestra.
-солнечно	soleggiato	avverbi	solnechno	Сегодня солнечно, пойдём гулять.	Oggi c'è il sole, andiamo a passeggiare.
-ясно	limpido	avverbi	yasno	Сегодня ясно, на небе нет облаков.	Oggi il cielo è limpido, non ci sono nuvole.
-ветер	vento	meteo-e-stagioni	veter	На улице сильный ветер.	Fuori c'è un vento forte.
-ветрено	ventoso	avverbi	vetreno	Сегодня ветрено, надень куртку.	Oggi c'è vento, mettiti il giubbino.
-дождь	pioggia	meteo-e-stagioni	dozhd	За окном идёт дождь.	Fuori dalla finestra piove.
-дождливо	piovoso	avverbi	dozhdlivo	Осенью здесь часто дождливо.	In autunno qui il tempo è spesso piovoso.
-ливень	acquazzone	meteo-e-stagioni	liven	Начался ливень, и мы остались дома.	È iniziato un acquazzone e siamo rimasti a casa.
-снег	neve	meteo-e-stagioni	sneg	Дети смотрят, как идёт снег.	I bambini guardano la neve cadere.
-снежно	nevoso	avverbi	snezhno	Зимой здесь холодно и снежно.	D'inverno qui fa freddo e nevica molto.
-облако	nuvola	natura-e-luoghi	oblako	В небе белое облако.	Nel cielo c'è una nuvola bianca.
-облачно	nuvoloso	avverbi	oblachno	Сегодня облачно, но тепло.	Oggi è nuvoloso ma fa caldo.
-туча	nuvolone	natura-e-luoghi	tucha	Над городом тёмная туча.	Sopra la città c'è un nuvolone scuro.
-пасмурно	buio	avverbi	pasmurno	На улице пасмурно, солнца не видно.	Fuori il cielo è coperto, il sole non si vede.
-гроза	temporale	meteo-e-stagioni	groza	Ночью была гроза.	Stanotte c'è stato un temporale.
-ураган	uragano	meteo-e-stagioni	uragan	После **урагана** на дороге лежат деревья.	Dopo l'uragano ci sono alberi sulla strada.
-радуга	arcobaleno	meteo-e-stagioni	raduga	После дождя в небе появилась радуга.	Dopo la pioggia è apparso un arcobaleno nel cielo.
-холодно	freddo	avverbi	holodno	Мне холодно, я хочу горячего чаю.	Ho freddo, voglio del tè caldo.
-прохладно	freschino	avverbi	prohladno	Вечером у моря прохладно.	La sera vicino al mare fa freschino.
-тепло	tiepido	avverbi	teplo	В комнате тепло и уютно.	Nella stanza si sta al caldo ed è accogliente.
-жарко	caldo	avverbi	zharko	Летом здесь очень жарко.	D'estate qui fa molto caldo.
-погода	tempo	meteo-e-stagioni	pogoda	Сегодня хорошая погода.	Oggi c'è bel tempo.
-времена года	stagioni	tempo-e-date	vremena-goda	Мы изучаем времена года на русском языке.	Studiamo le stagioni in russo.
-зима	inverno	tempo-e-date	zima	В этом году зима холодная.	Quest'anno l'inverno è freddo.
-весна	primavera	tempo-e-date	vesna	Весна — моё любимое время года.	La primavera è la mia stagione preferita.
-лето	estate	tempo-e-date	leto	Скоро лето, и мы поедем на море.	Presto sarà estate e andremo al mare.
-осень	autunno	tempo-e-date	osen	Мне нравится осень в нашем городе.	Mi piace l'autunno nella nostra città.
-январь	gennaio	tempo-e-date	yanvar	Январь — первый месяц года.	Gennaio è il primo mese dell'anno.
-февраль	febbraio	tempo-e-date	fevral	Февраль — самый короткий месяц.	Febbraio è il mese più corto.
-март	marzo	tempo-e-date	mart	В **марте** начинается весна.	A marzo inizia la primavera.
-апрель	aprile	tempo-e-date	aprel	В **апреле** мы часто гуляем в саду.	Ad aprile passeggiamo spesso in giardino.
-май	maggio	tempo-e-date	may	В **мае** в саду много цветов.	A maggio in giardino ci sono molti fiori.
-июнь	giugno	tempo-e-date	iyun	В **июне** у детей начинаются каникулы.	A giugno iniziano le vacanze dei bambini.
-июль	luglio	tempo-e-date	iyul	В **июле** мы отдыхаем у моря.	A luglio siamo in vacanza al mare.
-август	agosto	tempo-e-date	avgust	В **августе** я поеду в Италию.	Ad agosto andrò in Italia.
-сентябрь	settembre	tempo-e-date	sentyabr	В **сентябре** дети снова идут в школу.	A settembre i bambini tornano a scuola.
-октябрь	ottobre	tempo-e-date	oktyabr	В **октябре** здесь часто идёт дождь.	A ottobre qui piove spesso.
-ноябрь	novembre	tempo-e-date	noyabr	В **ноябре** дни короткие.	A novembre le giornate sono corte.
-декабрь	dicembre	tempo-e-date	dekabr	В **декабре** мы готовимся к Новому году.	A dicembre ci prepariamo per Capodanno.
-отмечать	celebrare	verbi	otmechat	Мы **отмечаем** день рождения дома.	Festeggiamo il compleanno a casa.
-кататься на коньках	pattinare	sport-e-giochi	katatsya-na-konkah	Зимой дети любят кататься на коньках.	D'inverno ai bambini piace pattinare sul ghiaccio.
-пляж	spiaggia	natura-e-luoghi	plyazh	Этот пляж рядом с нашей гостиницей.	Questa spiaggia è vicino al nostro albergo.
-ягоды	bacche	cibo-e-bevande	yagody	Летом мы собираем ягоды в лесу.	D'estate raccogliamo bacche nella foresta.
-снеговик	pupazzo di neve	feste	snegovik	Во дворе стоит большой снеговик.	Nel cortile c'è un grande pupazzo di neve.
-каштаны	castagne	cibo-e-bevande	kashtany	Осенью мы собираем каштаны.	In autunno raccogliamo castagne.
-печенье	biscotti	cibo-e-bevande	pechene	Бабушка печёт печенье для детей.	La nonna prepara i biscotti per i bambini.
-сладости	dolci	cibo-e-bevande	sladosti	На празднике были сладости и фрукты.	Alla festa c'erano dolci e frutta.
-сидеть	restare	verbi	sidet	В выходные я не люблю сидеть дома.	Nel weekend non mi piace restare a casa.
-загорать	prendere il sole	verbi	zagorat	Летом мы любим загорать на пляже.	D'estate ci piace prendere il sole sulla spiaggia.
-печь	cuocere	verbi	pech	По воскресеньям папа **печёт** хлеб.	La domenica papà cuoce il pane al forno.
-собирать	raccogliere	verbi	sobirat	Дети **собирают** красивые листья в саду.	I bambini raccolgono foglie belle in giardino.
-мечтать	sognare	verbi	mechtat	Я **мечтаю** поехать в Россию.	Sogno di andare in Russia.
-гости	ospiti	feste	gosti	Сегодня к нам придут гости.	Oggi verranno ospiti a casa nostra.
-точка	punto	scuola-e-lingua	tochka	В конце предложения стоит точка.	Alla fine della frase c'è un punto.
-тренироваться	allenarsi	sport-e-giochi	trenirovatsya	Наша команда **тренируется** каждый день.	La nostra squadra si allena ogni giorno.
-закрываться	chiudersi	verbi	zakryvatsya	Магазин **закрывается** в восемь вечера.	Il negozio chiude alle otto di sera.
-туристическое	agenzia viaggi	viaggi-e-trasporti	turisticheskoe	Это туристическое агентство рядом с вокзалом.	Questa agenzia di viaggi è vicino alla stazione.
-сайт	website	scuola-e-lingua	sayt	На этом **сайте** можно изучать русский язык.	Su questo sito si può studiare la lingua russa.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+теннис	tennis	sport-e-giochi	tennis	По субботам мы играем в <b>теннис</b>.	Il sabato giochiamo a tennis.
+футбол	calcio	sport-e-giochi	futbol	Мой брат любит <b>футбол</b>.	A mio fratello piace il calcio.
+хоккей	hockey	sport-e-giochi	hokkey	Сегодня мы смотрим <b>хоккей</b>.	Oggi guardiamo l'hockey.
+шахматы	scacchi	sport-e-giochi	shahmaty	Дедушка учит меня играть в <b>шахматы</b>.	Il nonno mi insegna a giocare a scacchi.
+карты	carte	sport-e-giochi	karty	Вечером мы играем в <b>карты</b>.	La sera giochiamo a carte.
+баскетбол	basket	sport-e-giochi	basketbol	Дети играют в <b>баскетбол</b> в спортзале.	I bambini giocano a basket in palestra.
+пианино	pianoforte	arte-e-cultura	pianino	Моя сестра играет на <b>пианино</b>.	Mia sorella suona il pianoforte.
+гитара	chitarra	arte-e-cultura	gitara	Эта <b>гитара</b> принадлежит моему брату.	Questa chitarra appartiene a mio fratello.
+скрипка	violino	arte-e-cultura	skripka	<b>Скрипка</b> лежит рядом с пианино.	Il violino è accanto al pianoforte.
+флейта	flauto	arte-e-cultura	fleyta	Мне нравится, как звучит <b>флейта</b>.	Mi piace il suono del flauto.
+саксофон	saxofono	arte-e-cultura	saksofon	Мой друг играет на <b>саксофоне</b>.	Il mio amico suona il sassofono.
+барабаны	batteria	arte-e-cultura	barabany	Он хочет научиться играть на <b>барабанах</b>.	Vuole imparare a suonare la batteria.
+компьютер	computer	casa-e-oggetti	kompyuter	Я использую <b>компьютер</b> для работы.	Uso il computer per lavorare.
+север	nord	natura-e-luoghi	sever	Летом мы поедем на <b>север</b>.	D'estate andremo a nord.
+юг	sud	natura-e-luoghi	yug	Эта дорога ведёт на <b>юг</b>.	Questa strada porta a sud.
+запад	ovest	natura-e-luoghi	zapad	На карте <b>запад</b> слева.	Sulla mappa l'ovest è a sinistra.
+восток	est	natura-e-luoghi	vostok	Мы едем на <b>восток</b>.	Viaggiamo verso est.
+завод	fabbrica	luoghi-in-citta	zavod	Мой отец работает на <b>заводе</b>.	Mio padre lavora in fabbrica.
+рынок	mercato	luoghi-in-citta	rynok	Этот <b>рынок</b> открыт по субботам.	Questo mercato è aperto il sabato.
+станция	stazione	luoghi-in-citta	stantsiya	Следующая <b>станция</b> рядом с центром города.	La prossima stazione è vicino al centro della città.
+семья	famiglia	persone-e-famiglia	semya	Вся <b>семья</b> собирается за столом.	Tutta la famiglia si riunisce a tavola.
+каникулы	vacanze	sport-e-giochi	kanikuly	Летом у школьников <b>каникулы</b>.	D'estate gli scolari hanno le vacanze.
+командировка	trasferta	viaggi-e-trasporti	komandirovka	Завтра у меня <b>командировка</b> в другой город.	Domani ho una trasferta in un'altra città.
+горы	montagne	natura-e-luoghi	gory	Из окна видны <b>горы</b>.	Dalla finestra si vedono le montagne.
+масло	burro	cibo-e-bevande	maslo	На столе есть хлеб и <b>масло</b>.	Sul tavolo ci sono pane e burro.
+варенье	marmellata	cibo-e-bevande	varene	Бабушка готовит <b>варенье</b> из малины.	La nonna prepara la marmellata di lamponi.
+выставка	mostra	arte-e-cultura	vystavka	Эта <b>выставка</b> мне очень нравится.	Questa mostra mi piace molto.
+исключения	eccezioni	scuola-e-lingua	isklyucheniya	У этого правила есть <b>исключения</b>.	Questa regola ha delle eccezioni.
+лес	foresta	natura-e-luoghi	les	Мы любим гулять в <b>лесу</b>.	Ci piace passeggiare nella foresta.
+сад	giardino	natura-e-luoghi	sad	Наш <b>сад</b> весной очень красивый.	Il nostro giardino è molto bello in primavera.
+порт	porto	luoghi-in-citta	port	<b>Порт</b> находится рядом с городом.	Il porto si trova vicino alla città.
+угол	angolo	luoghi-in-citta	ugol	Этот <b>угол</b> комнаты слишком тёмный.	Questo angolo della stanza è troppo buio.
+берег	riva	natura-e-luoghi	bereg	Мы идём на <b>берег</b> реки.	Andiamo sulla riva del fiume.
+шкаф	armadio	casa-e-oggetti	shkaf	<b>Шкаф</b> стоит между кроватью и столом.	L'armadio è tra il letto e il tavolo.
+пол	pavimento	casa-e-oggetti	pol	На <b>пол</b> упала книга.	Un libro è caduto sul pavimento.
+дерево	albero	natura-e-luoghi	derevo	Это <b>дерево</b> растёт у нашего дома.	Questo albero cresce vicino a casa nostra.
+лодка	barca	natura-e-luoghi	lodka	<b>Лодка</b> стоит у берега.	La barca è ferma vicino alla riva.
+самолёт	aereo	viaggi-e-trasporti	samoliot	Наш <b>самолёт</b> вылетает утром.	Il nostro aereo parte la mattina.
+ковёр	tappeto	casa-e-oggetti	kovior	На полу лежит мягкий <b>ковёр</b>.	Sul pavimento c'è un tappeto morbido.
+волк	lupo	animali	volk	В лесу живёт <b>волк</b>.	Nella foresta vive un lupo.
+покупать	comprare	verbi,acquisti-e-negozi	pokupat	Мы <b>покупаем</b> овощи на рынке.	Compriamo le verdure al mercato.
+солнце	sole	natura-e-luoghi	solntse	Утром в окно светит <b>солнце</b>.	La mattina il sole illumina la finestra.
+солнечно	soleggiato	avverbi,meteo-e-stagioni	solnechno	Сегодня <b>солнечно</b>, пойдём гулять.	Oggi c'è il sole, andiamo a passeggiare.
+ясно	limpido	avverbi	yasno	Сегодня <b>ясно</b>, на небе нет облаков.	Oggi il cielo è limpido, non ci sono nuvole.
+ветер	vento	meteo-e-stagioni	veter	На улице сильный <b>ветер</b>.	Fuori c'è un vento forte.
+ветрено	ventoso	avverbi,meteo-e-stagioni	vetreno	Сегодня <b>ветрено</b>, надень куртку.	Oggi c'è vento, mettiti il giubbino.
+дождь	pioggia	meteo-e-stagioni	dozhd	За окном идёт <b>дождь</b>.	Fuori dalla finestra piove.
+дождливо	piovoso	avverbi,meteo-e-stagioni	dozhdlivo	Осенью здесь часто <b>дождливо</b>.	In autunno qui il tempo è spesso piovoso.
+ливень	acquazzone	meteo-e-stagioni	liven	Начался <b>ливень</b>, и мы остались дома.	È iniziato un acquazzone e siamo rimasti a casa.
+снег	neve	meteo-e-stagioni	sneg	Дети смотрят, как идёт <b>снег</b>.	I bambini guardano la neve cadere.
+снежно	nevoso	avverbi,meteo-e-stagioni	snezhno	Зимой здесь холодно и <b>снежно</b>.	D'inverno qui fa freddo e nevica molto.
+облако	nuvola	natura-e-luoghi	oblako	В небе белое <b>облако</b>.	Nel cielo c'è una nuvola bianca.
+облачно	nuvoloso	avverbi,meteo-e-stagioni	oblachno	Сегодня <b>облачно</b>, но тепло.	Oggi è nuvoloso ma fa caldo.
+туча	nuvolone	natura-e-luoghi	tucha	Над городом тёмная <b>туча</b>.	Sopra la città c'è un nuvolone scuro.
+пасмурно	buio	avverbi,meteo-e-stagioni	pasmurno	На улице <b>пасмурно</b>, солнца не видно.	Fuori il cielo è coperto, il sole non si vede.
+гроза	temporale	meteo-e-stagioni	groza	Ночью была <b>гроза</b>.	Stanotte c'è stato un temporale.
+ураган	uragano	meteo-e-stagioni	uragan	После <b>урагана</b> на дороге лежат деревья.	Dopo l'uragano ci sono alberi sulla strada.
+радуга	arcobaleno	meteo-e-stagioni	raduga	После дождя в небе появилась <b>радуга</b>.	Dopo la pioggia è apparso un arcobaleno nel cielo.
+холодно	freddo	avverbi,meteo-e-stagioni	holodno	Мне <b>холодно</b>, я хочу горячего чаю.	Ho freddo, voglio del tè caldo.
+прохладно	freschino	avverbi,meteo-e-stagioni	prohladno	Вечером у моря <b>прохладно</b>.	La sera vicino al mare fa freschino.
+тепло	tiepido	avverbi,meteo-e-stagioni	teplo	В комнате <b>тепло</b> и уютно.	Nella stanza si sta al caldo ed è accogliente.
+жарко	caldo	avverbi,meteo-e-stagioni	zharko	Летом здесь очень <b>жарко</b>.	D'estate qui fa molto caldo.
+погода	tempo	meteo-e-stagioni	pogoda	Сегодня хорошая <b>погода</b>.	Oggi c'è bel tempo.
+времена года	stagioni	tempo-e-date	vremena-goda	Мы изучаем <b>времена года</b> на русском языке.	Studiamo le stagioni in russo.
+зима	inverno	tempo-e-date	zima	В этом году <b>зима</b> холодная.	Quest'anno l'inverno è freddo.
+весна	primavera	tempo-e-date	vesna	<b>Весна</b> — моё любимое время года.	La primavera è la mia stagione preferita.
+лето	estate	tempo-e-date	leto	Скоро <b>лето</b>, и мы поедем на море.	Presto sarà estate e andremo al mare.
+осень	autunno	tempo-e-date	osen	Мне нравится <b>осень</b> в нашем городе.	Mi piace l'autunno nella nostra città.
+январь	gennaio	tempo-e-date	yanvar	<b>Январь</b> — первый месяц года.	Gennaio è il primo mese dell'anno.
+февраль	febbraio	tempo-e-date	fevral	<b>Февраль</b> — самый короткий месяц.	Febbraio è il mese più corto.
+март	marzo	tempo-e-date	mart	В <b>марте</b> начинается весна.	A marzo inizia la primavera.
+апрель	aprile	tempo-e-date	aprel	В <b>апреле</b> мы часто гуляем в саду.	Ad aprile passeggiamo spesso in giardino.
+май	maggio	tempo-e-date	may	В <b>мае</b> в саду много цветов.	A maggio in giardino ci sono molti fiori.
+июнь	giugno	tempo-e-date	iyun	В <b>июне</b> у детей начинаются каникулы.	A giugno iniziano le vacanze dei bambini.
+июль	luglio	tempo-e-date	iyul	В <b>июле</b> мы отдыхаем у моря.	A luglio siamo in vacanza al mare.
+август	agosto	tempo-e-date	avgust	В <b>августе</b> я поеду в Италию.	Ad agosto andrò in Italia.
+сентябрь	settembre	tempo-e-date	sentyabr	В <b>сентябре</b> дети снова идут в школу.	A settembre i bambini tornano a scuola.
+октябрь	ottobre	tempo-e-date	oktyabr	В <b>октябре</b> здесь часто идёт дождь.	A ottobre qui piove spesso.
+ноябрь	novembre	tempo-e-date	noyabr	В <b>ноябре</b> дни короткие.	A novembre le giornate sono corte.
+декабрь	dicembre	tempo-e-date	dekabr	В <b>декабре</b> мы готовимся к Новому году.	A dicembre ci prepariamo per Capodanno.
+отмечать	celebrare	verbi,feste	otmechat	Мы <b>отмечаем</b> день рождения дома.	Festeggiamo il compleanno a casa.
+кататься на коньках	pattinare	sport-e-giochi	katatsya-na-konkah	Зимой дети любят <b>кататься на коньках</b>.	D'inverno ai bambini piace pattinare sul ghiaccio.
+пляж	spiaggia	natura-e-luoghi	plyazh	Этот <b>пляж</b> рядом с нашей гостиницей.	Questa spiaggia è vicino al nostro albergo.
+ягоды	bacche	cibo-e-bevande	yagody	Летом мы собираем <b>ягоды</b> в лесу.	D'estate raccogliamo bacche nella foresta.
+снеговик	pupazzo di neve	feste	snegovik	Во дворе стоит большой <b>снеговик</b>.	Nel cortile c'è un grande pupazzo di neve.
+каштаны	castagne	cibo-e-bevande	kashtany	Осенью мы собираем <b>каштаны</b>.	In autunno raccogliamo castagne.
+печенье	biscotti	cibo-e-bevande	pechene	Бабушка печёт <b>печенье</b> для детей.	La nonna prepara i biscotti per i bambini.
+сладости	dolci	cibo-e-bevande	sladosti	На празднике были <b>сладости</b> и фрукты.	Alla festa c'erano dolci e frutta.
+сидеть	restare	verbi	sidet	В выходные я не люблю <b>сидеть</b> дома.	Nel weekend non mi piace restare a casa.
+загорать	prendere il sole	verbi	zagorat	Летом мы любим <b>загорать</b> на пляже.	D'estate ci piace prendere il sole sulla spiaggia.
+печь	cuocere	verbi,cibo-e-bevande	pech	По воскресеньям папа <b>печёт</b> хлеб.	La domenica papà cuoce il pane al forno.
+собирать	raccogliere	verbi	sobirat	Дети <b>собирают</b> красивые листья в саду.	I bambini raccolgono foglie belle in giardino.
+мечтать	sognare	verbi,concetti-astratti	mechtat	Я <b>мечтаю</b> поехать в Россию.	Sogno di andare in Russia.
+гости	ospiti	feste	gosti	Сегодня к нам придут <b>гости</b>.	Oggi verranno ospiti a casa nostra.
+точка	punto	scuola-e-lingua	tochka	В конце предложения стоит <b>точка</b>.	Alla fine della frase c'è un punto.
+тренироваться	allenarsi	sport-e-giochi	trenirovatsya	Наша команда <b>тренируется</b> каждый день.	La nostra squadra si allena ogni giorno.
+закрываться	chiudersi	verbi	zakryvatsya	Магазин <b>закрывается</b> в восемь вечера.	Il negozio chiude alle otto di sera.
+туристическое	agenzia viaggi	viaggi-e-trasporti	turisticheskoe	Это <b>туристическое</b> агентство рядом с вокзалом.	Questa agenzia di viaggi è vicino alla stazione.
+сайт	website	scuola-e-lingua	sayt	На этом <b>сайте</b> можно изучать русский язык.	Su questo sito si può studiare la lingua russa.

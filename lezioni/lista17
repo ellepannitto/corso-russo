@@ -1,44 +1,45 @@
-цвета	colori	aggettivi	cveta	Какие цвета тебе нравятся?	Quali colori ti piacciono?
-белый	bianco	aggettivi	belyj	На столе стоит белый стакан.	Sul tavolo c'è un bicchiere bianco.
-чёрный	nero	aggettivi	chernyj	Этот кот чёрный.	Questo gatto è nero.
-серый	grigio	aggettivi	seryj	У него серый свитер.	Lui ha un maglione grigio.
-жёлтый	giallo	aggettivi	zheltyj	Этот цветок жёлтый.	Questo fiore è giallo.
-красный	rosso	aggettivi	krasnyj	Я покупаю красный шарф.	Compro una sciarpa rossa.
-розовый	rosa	aggettivi	rozovyj	Мне нравится этот розовый цветок.	Mi piace questo fiore rosa.
-оранжевый	arancione	aggettivi	oranzhevyj	У неё оранжевый рюкзак.	Lei ha uno zaino arancione.
-коричневый	marrone	aggettivi	korichnevyj	Этот шкаф коричневый.	Questo armadio è marrone.
-синий	blu	aggettivi	sinij	На стуле лежит синий свитер.	Sulla sedia c'è un maglione blu.
-голубой	azzurro	aggettivi	goluboj	Голубой шарф подходит к её глазам.	La sciarpa azzurra si abbina ai suoi occhi.
-зелёный	verde	aggettivi	zelenyj	Я люблю зелёный чай.	Mi piace il tè verde.
-фиолетовый	viola	aggettivi	fioletovyj	Этот фиолетовый шарф для мамы.	Questa sciarpa viola è per la mamma.
-огурец	cetriolo	cibo-e-bevande	ogurec	Я режу огурец для салата.	Taglio un cetriolo per l'insalata.
-животное	animale	animali	zhivotnoe	Это животное живёт в лесу.	Questo animale vive nella foresta.
-трава	erba	natura-e-luoghi	trava	После дождя трава мокрая.	Dopo la pioggia l'erba è bagnata.
-добрый	buono (di una persona)	aggettivi	dobryj	Мой дедушка очень добрый.	Mio nonno è molto buono.
-злой	cattivo (di una persona)	aggettivi	zloj	В этой сказке есть злой волшебник.	In questa fiaba c'è un mago cattivo.
-умный	intelligente	aggettivi	umnyj	Он умный студент и быстро всё понимает.	È uno studente intelligente e capisce tutto velocemente.
-сильный	forte	aggettivi	silnyj	Мой брат сильный и любит спорт.	Mio fratello è forte e ama lo sport.
-толстый	grosso	aggettivi	tolstyj	Это толстый словарь.	Questo è un dizionario grosso.
-вкусный	buono (di un cibo)	aggettivi	vkusnyj	Мама готовит вкусный обед.	La mamma prepara un pranzo buono.
-корова	mucca	animali	korova	Корова стоит на лугу.	La mucca è nel prato.
-свинья	maiale	animali	svinja	Свинья ест картофель.	Il maiale mangia patate.
-кошка	gatto	animali	koshka	Кошка играет с мячом.	Il gatto gioca con la palla.
-слон	elefante	animali	slon	Слон пьёт воду.	L'elefante beve acqua.
-обезьяна	scimmia	animali	obezjana	Обезьяна ест банан.	La scimmia mangia una banana.
-медведь	orso	animali	medved	Медведь живёт в лесу.	L'orso vive nella foresta.
-собака	cane	animali	sobaka	Наша собака любит детей.	Il nostro cane ama i bambini.
-мышь	topo	animali	mysh	Под столом сидит маленькая мышь.	Sotto il tavolo c'è un topolino.
-крокодил	coccodrillo	animali	krokodil	Крокодил лежит у воды.	Il coccodrillo è disteso vicino all'acqua.
-слышать	sentire	verbi	slyshat	Я **слышу**, как поют птицы.	Sento gli uccelli cantare.
-слушать	ascoltare	verbi	slushat	Мы **слушаем** преподавателя.	Ascoltiamo l'insegnante.
-громко	rumorosamente a voce-alta	avverbi	gromko	Дети громко смеются.	I bambini ridono rumorosamente.
-снег	neve	meteo-e-stagioni	sneg	На улице идёт снег.	Fuori nevica.
-наушники	cuffie	casa-e-oggetti	naushniki	Я надеваю наушники, чтобы слушать музыку.	Metto le cuffie per ascoltare la musica.
-смотреть	guardare	verbi	smotret	Она **смотрит** на картину.	Lei guarda il quadro.
-видеть	vedere	verbi	videt	Из окна я **вижу** море.	Dalla finestra vedo il mare.
-самый	il più (superlativo)	pronomi-e-connettori	samyj	Это самый интересный фильм.	Questo è il film più interessante.
-лучше	meglio	avverbi	luchshe	Сегодня я чувствую себя лучше.	Oggi mi sento meglio.
-быть согласным	essere d'accordo	espressioni-utili	byt soglasnym	Я **согласен** с твоим ответом.	Sono d'accordo con la tua risposta.
-столица	capitale	direzioni-e-geografia	stolica	Москва — столица России.	Mosca è la capitale della Russia.
-советский	sovietico	paesi-e-lingue	sovetskij	Мы смотрим старый советский фильм.	Guardiamo un vecchio film sovietico.
-северный	settentrionale nordico	direzioni-e-geografia	severnyj	Сегодня дует северный ветер.	Oggi soffia un vento da nord.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+цвета	colori	aggettivi,colori	cveta	Какие <b>цвета</b> тебе нравятся?	Quali colori ti piacciono?
+белый	bianco	aggettivi,colori	belyj	На столе стоит <b>белый</b> стакан.	Sul tavolo c'è un bicchiere bianco.
+чёрный	nero	aggettivi,colori	chernyj	Этот кот <b>чёрный</b>.	Questo gatto è nero.
+серый	grigio	aggettivi,colori	seryj	У него <b>серый</b> свитер.	Lui ha un maglione grigio.
+жёлтый	giallo	aggettivi,colori	zheltyj	Этот цветок <b>жёлтый</b>.	Questo fiore è giallo.
+красный	rosso	aggettivi,colori	krasnyj	Я покупаю <b>красный</b> шарф.	Compro una sciarpa rossa.
+розовый	rosa	aggettivi,colori	rozovyj	Мне нравится этот <b>розовый</b> цветок.	Mi piace questo fiore rosa.
+оранжевый	arancione	aggettivi,colori	oranzhevyj	У неё <b>оранжевый</b> рюкзак.	Lei ha uno zaino arancione.
+коричневый	marrone	aggettivi,colori	korichnevyj	Этот шкаф <b>коричневый</b>.	Questo armadio è marrone.
+синий	blu	aggettivi,colori	sinij	На стуле лежит <b>синий</b> свитер.	Sulla sedia c'è un maglione blu.
+голубой	azzurro	aggettivi,colori	goluboj	<b>Голубой</b> шарф подходит к её глазам.	La sciarpa azzurra si abbina ai suoi occhi.
+зелёный	verde	aggettivi,colori	zelenyj	Я люблю <b>зелёный</b> чай.	Mi piace il tè verde.
+фиолетовый	viola	aggettivi,colori	fioletovyj	Этот <b>фиолетовый</b> шарф для мамы.	Questa sciarpa viola è per la mamma.
+огурец	cetriolo	cibo-e-bevande	ogurec	Я режу <b>огурец</b> для салата.	Taglio un cetriolo per l'insalata.
+животное	animale	animali	zhivotnoe	Это <b>животное</b> живёт в лесу.	Questo animale vive nella foresta.
+трава	erba	natura-e-luoghi	trava	После дождя <b>трава</b> мокрая.	Dopo la pioggia l'erba è bagnata.
+добрый	buono (di una persona)	aggettivi,persone-e-famiglia	dobryj	Мой дедушка очень <b>добрый</b>.	Mio nonno è molto buono.
+злой	cattivo (di una persona)	aggettivi,persone-e-famiglia	zloj	В этой сказке есть <b>злой</b> волшебник.	In questa fiaba c'è un mago cattivo.
+умный	intelligente	aggettivi,persone-e-famiglia	umnyj	Он <b>умный</b> студент и быстро всё понимает.	È uno studente intelligente e capisce tutto velocemente.
+сильный	forte	aggettivi,persone-e-famiglia	silnyj	Мой брат <b>сильный</b> и любит спорт.	Mio fratello è forte e ama lo sport.
+толстый	grosso	aggettivi,corpo	tolstyj	Это <b>толстый</b> словарь.	Questo è un dizionario grosso.
+вкусный	buono (di un cibo)	aggettivi,cibo-e-bevande	vkusnyj	Мама готовит <b>вкусный</b> обед.	La mamma prepara un pranzo buono.
+корова	mucca	animali	korova	<b>Корова</b> стоит на лугу.	La mucca è nel prato.
+свинья	maiale	animali	svinja	<b>Свинья</b> ест картофель.	Il maiale mangia patate.
+кошка	gatto	animali	koshka	<b>Кошка</b> играет с мячом.	Il gatto gioca con la palla.
+слон	elefante	animali	slon	<b>Слон</b> пьёт воду.	L'elefante beve acqua.
+обезьяна	scimmia	animali	obezjana	<b>Обезьяна</b> ест банан.	La scimmia mangia una banana.
+медведь	orso	animali	medved	<b>Медведь</b> живёт в лесу.	L'orso vive nella foresta.
+собака	cane	animali	sobaka	Наша <b>собака</b> любит детей.	Il nostro cane ama i bambini.
+мышь	topo	animali	mysh	Под столом сидит маленькая <b>мышь</b>.	Sotto il tavolo c'è un topolino.
+крокодил	coccodrillo	animali	krokodil	<b>Крокодил</b> лежит у воды.	Il coccodrillo è disteso vicino all'acqua.
+слышать	sentire	verbi	slyshat	Я <b>слышу</b>, как поют птицы.	Sento gli uccelli cantare.
+слушать	ascoltare	verbi	slushat	Мы <b>слушаем</b> преподавателя.	Ascoltiamo l'insegnante.
+громко	rumorosamente, a voce alta	avverbi	gromko	Дети <b>громко</b> смеются.	I bambini ridono rumorosamente.
+снег	neve	meteo-e-stagioni	sneg	На улице идёт <b>снег</b>.	Fuori nevica.
+наушники	cuffie	casa-e-oggetti	naushniki	Я надеваю <b>наушники</b>, чтобы слушать музыку.	Metto le cuffie per ascoltare la musica.
+смотреть	guardare	verbi	smotret	Она <b>смотрит</b> на картину.	Lei guarda il quadro.
+видеть	vedere	verbi	videt	Из окна я <b>вижу</b> море.	Dalla finestra vedo il mare.
+самый	il più (superlativo)	pronomi-e-connettori	samyj	Это <b>самый</b> интересный фильм.	Questo è il film più interessante.
+лучше	meglio	avverbi	luchshe	Сегодня я чувствую себя <b>лучше</b>.	Oggi mi sento meglio.
+быть согласным	essere d'accordo	espressioni-utili	byt soglasnym	Я <b>согласен</b> с твоим ответом.	Sono d'accordo con la tua risposta.
+столица	capitale	natura-e-luoghi	stolica	Москва — <b>столица</b> России.	Mosca è la capitale della Russia.
+советский	sovietico	paesi-e-lingue	sovetskij	Мы смотрим старый <b>советский</b> фильм.	Guardiamo un vecchio film sovietico.
+северный	settentrionale, nordico	natura-e-luoghi	severnyj	Сегодня дует <b>северный</b> ветер.	Oggi soffia un vento da nord.

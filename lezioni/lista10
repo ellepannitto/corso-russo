@@ -1,50 +1,51 @@
-голова	testa	corpo	golova	У меня болит голова.	Mi fa male la testa.
-ухо	orecchio	corpo	uho	У ребёнка болит ухо.	Al bambino fa male un orecchio.
-уши	orecchie	corpo	ushi	У этой собаки большие уши.	Questo cane ha le orecchie grandi.
-глаз	occhio	corpo	glaz	У меня болит правый глаз.	Mi fa male l'occhio destro.
-глаза	occhi	corpo	glaza	У моей сестры зелёные глаза.	Mia sorella ha gli occhi verdi.
-сердце	cuore	corpo	serdtse	После бега сердце бьётся быстро.	Dopo la corsa il cuore batte velocemente.
-нога	gamba	corpo	noga	После игры у меня болит нога.	Dopo la partita mi fa male una gamba.
-ноги	gambe	corpo	nogi	После долгой прогулки у меня болят ноги.	Dopo una lunga passeggiata mi fanno male le gambe.
-рука	braccio	corpo	ruka	У меня болит левая рука.	Mi fa male il braccio sinistro.
-руки	braccia	corpo	ruki	После тренировки у меня болят руки.	Dopo l'allenamento mi fanno male le braccia.
-тело	corpo	corpo	telo	После работы в саду у меня болит всё тело.	Dopo aver lavorato in giardino mi fa male tutto il corpo.
-помнить	ricordare	verbi	pomnit	Я **помню** этот день.	Ricordo quel giorno.
-понимать	capire	verbi	ponimat	Ты **понимаешь**, что говорит преподаватель?	Capisci cosa dice l'insegnante?
-есть	mangiare	verbi	est	На завтрак я **ем** яйца и хлеб.	A colazione mangio uova e pane.
-пить	bere	verbi	pit	После тренировки я **пью** воду.	Dopo l'allenamento bevo acqua.
-любить	amare	verbi	lyubit	Я **люблю** свою семью.	Amo la mia famiglia.
-хотеть	volere	verbi	hotet	Мы **хотим** поехать на море.	Vogliamo andare al mare.
-готовить	cucinare	verbi	gotovit	Сегодня мой брат **готовит** рыбу.	Oggi mio fratello cucina il pesce.
-писать	scrivere	verbi	pisat	Я **пишу** письмо другу.	Scrivo una lettera a un amico.
-сколько времени	che ore sono	pronomi-e-connettori	skolko-vremeni	Извините, сколько времени? — Сейчас полдень.	Scusi, che ore sono? — È mezzogiorno.
-сколько лет	quanti anni	tempo-e-date	skolko-let	Сколько лет твоему брату?	Quanti anni ha tuo fratello?
-я хочу есть	ho fame	espressioni-utili	ya-hochu-est	Я хочу есть. У нас есть хлеб?	Ho fame. Abbiamo del pane?
-я хочу пить	ho sete	espressioni-utili	ya-hochu-pit	Я хочу пить. Дай мне воды, пожалуйста.	Ho sete. Dammi dell'acqua, per favore.
-я хочу спать	ho sonno	espressioni-utili	ya-hochu-spat	Я хочу спать, уже поздно.	Ho sonno, è già tardi.
-завтрак	colazione	cibo-e-bevande	zavtrak	Сегодня на завтрак у нас яйца.	Oggi a colazione abbiamo le uova.
-обед	pranzo	cibo-e-bevande	obed	Обед уже готов.	Il pranzo è già pronto.
-ужин	cena	cibo-e-bevande	uzhin	Вся семья готовит ужин вместе.	Tutta la famiglia prepara la cena insieme.
-неделя	settimana	tempo-e-date	nedelya	Эта неделя была очень интересной.	Questa settimana è stata molto interessante.
-понедельник	lunedì	tempo-e-date	ponedelnik	В понедельник у меня урок русского языка.	Lunedì ho lezione di russo.
-вторник	martedì	tempo-e-date	vtornik	Во вторник мы идём в бассейн.	Martedì andiamo in piscina.
-среда	mercoledì	tempo-e-date	sreda	Сегодня среда, а завтра четверг.	Oggi è mercoledì e domani è giovedì.
-четверг	giovedì	tempo-e-date	chetverg	В четверг я работаю дома.	Giovedì lavoro a casa.
-пятница	venerdì	tempo-e-date	pyatnitsa	Пятница — мой любимый день недели.	Venerdì è il mio giorno della settimana preferito.
-суббота	sabato	tempo-e-date	subbota	В **субботу** мы играем в теннис.	Sabato giochiamo a tennis.
-воскресенье	domenica	tempo-e-date	voskresene	В воскресенье мы отдыхаем всей семьёй.	Domenica ci riposiamo con tutta la famiglia.
-пример	esempio	scuola-e-lingua	primer	Преподаватель даёт простой пример.	L'insegnante fa un esempio semplice.
-может быть	forse	pronomi-e-connettori	mozhet-byt	Может быть, завтра мы пойдём в кино.	Forse domani andremo al cinema.
-бумага	carta	scuola-e-lingua	bumaga	Бумага для письма лежит на столе.	La carta per la lettera è sul tavolo.
-колбаса	salame	cibo-e-bevande	kolbasa	В холодильнике есть колбаса и сыр.	Nel frigorifero ci sono salame e formaggio.
-рассказ	racconto	scuola-e-lingua	rasskaz	Бабушка читает детям рассказ.	La nonna legge un racconto ai bambini.
-письмо	lettera	scuola-e-lingua	pismo	Это письмо от моего друга.	Questa lettera è del mio amico.
-записка	nota	scuola-e-lingua	zapiska	На столе лежит записка от мамы.	Sul tavolo c'è un biglietto della mamma.
-лес	foresta	natura-e-luoghi	les	Этот лес недалеко от нашего города.	Questa foresta non è lontana dalla nostra città.
-небо	cielo	natura-e-luoghi	nebo	Сегодня небо голубое.	Oggi il cielo è azzurro.
-озеро	lago	natura-e-luoghi	ozero	Летом мы часто ходим на озеро.	D'estate andiamo spesso al lago.
-звезда	stella	natura-e-luoghi	zvezda	В небе видна яркая звезда.	Nel cielo si vede una stella luminosa.
-мост	ponte	natura-e-luoghi	most	Этот мост очень старый.	Questo ponte è molto vecchio.
-ворон	corvo	animali	voron	На дереве сидит ворон.	Su un albero c'è un corvo.
-мусорное ведро	bidone della spazzatura	casa-e-oggetti	musornoe-vedro	Мусорное ведро стоит на кухне.	Il bidone della spazzatura è in cucina.
-открытка	cartolina	casa-e-oggetti	otkrytka	Эта открытка из Франции.	Questa cartolina viene dalla Francia.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+голова	testa	corpo	golova	У меня болит <b>голова</b>.	Mi fa male la testa.
+ухо	orecchio	corpo	uho	У ребёнка болит <b>ухо</b>.	Al bambino fa male un orecchio.
+уши	orecchie	corpo	ushi	У этой собаки большие <b>уши</b>.	Questo cane ha le orecchie grandi.
+глаз	occhio	corpo	glaz	У меня болит правый <b>глаз</b>.	Mi fa male l'occhio destro.
+глаза	occhi	corpo	glaza	У моей сестры зелёные <b>глаза</b>.	Mia sorella ha gli occhi verdi.
+сердце	cuore	corpo	serdtse	После бега <b>сердце</b> бьётся быстро.	Dopo la corsa il cuore batte velocemente.
+нога	gamba	corpo	noga	После игры у меня болит <b>нога</b>.	Dopo la partita mi fa male una gamba.
+ноги	gambe	corpo	nogi	После долгой прогулки у меня болят <b>ноги</b>.	Dopo una lunga passeggiata mi fanno male le gambe.
+рука	braccio	corpo	ruka	У меня болит левая <b>рука</b>.	Mi fa male il braccio sinistro.
+руки	braccia	corpo	ruki	После тренировки у меня болят <b>руки</b>.	Dopo l'allenamento mi fanno male le braccia.
+тело	corpo	corpo	telo	После работы в саду у меня болит всё <b>тело</b>.	Dopo aver lavorato in giardino mi fa male tutto il corpo.
+помнить	ricordare	verbi	pomnit	Я <b>помню</b> этот день.	Ricordo quel giorno.
+понимать	capire	verbi	ponimat	Ты <b>понимаешь</b>, что говорит преподаватель?	Capisci cosa dice l'insegnante?
+есть	mangiare	verbi,cibo-e-bevande	est	На завтрак я <b>ем</b> яйца и хлеб.	A colazione mangio uova e pane.
+пить	bere	verbi,cibo-e-bevande	pit	После тренировки я <b>пью</b> воду.	Dopo l'allenamento bevo acqua.
+любить	amare	verbi,concetti-astratti	lyubit	Я <b>люблю</b> свою семью.	Amo la mia famiglia.
+хотеть	volere	verbi	hotet	Мы <b>хотим</b> поехать на море.	Vogliamo andare al mare.
+готовить	cucinare	verbi,cibo-e-bevande	gotovit	Сегодня мой брат <b>готовит</b> рыбу.	Oggi mio fratello cucina il pesce.
+писать	scrivere	verbi,scuola-e-lingua	pisat	Я <b>пишу</b> письмо другу.	Scrivo una lettera a un amico.
+сколько времени	che ore sono	pronomi-e-connettori	skolko-vremeni	Извините, <b>сколько времени</b>? — Сейчас полдень.	Scusi, che ore sono? — È mezzogiorno.
+сколько лет	quanti anni	tempo-e-date	skolko-let	<b>Сколько лет</b> твоему брату?	Quanti anni ha tuo fratello?
+я хочу есть	ho fame	espressioni-utili	ya-hochu-est	<b>Я хочу есть</b>. У нас есть хлеб?	Ho fame. Abbiamo del pane?
+я хочу пить	ho sete	espressioni-utili	ya-hochu-pit	<b>Я хочу пить</b>. Дай мне воды, пожалуйста.	Ho sete. Dammi dell'acqua, per favore.
+я хочу спать	ho sonno	espressioni-utili	ya-hochu-spat	<b>Я хочу спать</b>, уже поздно.	Ho sonno, è già tardi.
+завтрак	colazione	cibo-e-bevande	zavtrak	Сегодня на <b>завтрак</b> у нас яйца.	Oggi a colazione abbiamo le uova.
+обед	pranzo	cibo-e-bevande	obed	<b>Обед</b> уже готов.	Il pranzo è già pronto.
+ужин	cena	cibo-e-bevande	uzhin	Вся семья готовит <b>ужин</b> вместе.	Tutta la famiglia prepara la cena insieme.
+неделя	settimana	tempo-e-date	nedelya	Эта <b>неделя</b> была очень интересной.	Questa settimana è stata molto interessante.
+понедельник	lunedì	tempo-e-date	ponedelnik	В <b>понедельник</b> у меня урок русского языка.	Lunedì ho lezione di russo.
+вторник	martedì	tempo-e-date	vtornik	Во <b>вторник</b> мы идём в бассейн.	Martedì andiamo in piscina.
+среда	mercoledì	tempo-e-date	sreda	Сегодня <b>среда</b>, а завтра четверг.	Oggi è mercoledì e domani è giovedì.
+четверг	giovedì	tempo-e-date	chetverg	В <b>четверг</b> я работаю дома.	Giovedì lavoro a casa.
+пятница	venerdì	tempo-e-date	pyatnitsa	<b>Пятница</b> — мой любимый день недели.	Venerdì è il mio giorno della settimana preferito.
+суббота	sabato	tempo-e-date	subbota	В <b>субботу</b> мы играем в теннис.	Sabato giochiamo a tennis.
+воскресенье	domenica	tempo-e-date	voskresene	В <b>воскресенье</b> мы отдыхаем всей семьёй.	Domenica ci riposiamo con tutta la famiglia.
+пример	esempio	scuola-e-lingua	primer	Преподаватель даёт простой <b>пример</b>.	L'insegnante fa un esempio semplice.
+может быть	forse	pronomi-e-connettori	mozhet-byt	<b>Может быть</b>, завтра мы пойдём в кино.	Forse domani andremo al cinema.
+бумага	carta	scuola-e-lingua	bumaga	<b>Бумага</b> для письма лежит на столе.	La carta per la lettera è sul tavolo.
+колбаса	salame	cibo-e-bevande	kolbasa	В холодильнике есть <b>колбаса</b> и сыр.	Nel frigorifero ci sono salame e formaggio.
+рассказ	racconto	scuola-e-lingua	rasskaz	Бабушка читает детям <b>рассказ</b>.	La nonna legge un racconto ai bambini.
+письмо	lettera	scuola-e-lingua	pismo	Это <b>письмо</b> от моего друга.	Questa lettera è del mio amico.
+записка	nota	scuola-e-lingua	zapiska	На столе лежит <b>записка</b> от мамы.	Sul tavolo c'è un biglietto della mamma.
+лес	foresta	natura-e-luoghi	les	Этот <b>лес</b> недалеко от нашего города.	Questa foresta non è lontana dalla nostra città.
+небо	cielo	natura-e-luoghi	nebo	Сегодня <b>небо</b> голубое.	Oggi il cielo è azzurro.
+озеро	lago	natura-e-luoghi	ozero	Летом мы часто ходим на <b>озеро</b>.	D'estate andiamo spesso al lago.
+звезда	stella	natura-e-luoghi	zvezda	В небе видна яркая <b>звезда</b>.	Nel cielo si vede una stella luminosa.
+мост	ponte	natura-e-luoghi	most	Этот <b>мост</b> очень старый.	Questo ponte è molto vecchio.
+ворон	corvo	animali	voron	На дереве сидит <b>ворон</b>.	Su un albero c'è un corvo.
+мусорное ведро	bidone della spazzatura	casa-e-oggetti	musornoe-vedro	<b>Мусорное ведро</b> стоит на кухне.	Il bidone della spazzatura è in cucina.
+открытка	cartolina	casa-e-oggetti	otkrytka	Эта <b>открытка</b> из Франции.	Questa cartolina viene dalla Francia.

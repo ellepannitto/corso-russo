@@ -1,39 +1,40 @@
-кошелёк	portafogli	casa-e-oggetti	kosheliok	Мой кошелёк лежит в сумке.	Il mio portafogli è nella borsa.
-остров	isola	natura-e-luoghi	ostrov	Мы хотим поехать на этот остров.	Vogliamo andare su quest'isola.
-пальма	palma	natura-e-luoghi	palma	Возле отеля растёт пальма.	Vicino all'hotel cresce una palma.
-деревня	paese/villaggio	natura-e-luoghi	derevnya	Моя бабушка живёт в **деревне**.	Mia nonna vive in un villaggio.
-прекрасно	ottimo	avverbi	prekrasno	Прекрасно, теперь мы можем отдыхать!	Ottimo, adesso possiamo riposarci!
-статьи	articoli	scuola-e-lingua	stati	Эти статьи рассказывают об искусстве.	Questi articoli parlano d'arte.
-художник	pittore	professioni	hudozhnik	Художник рисует картину.	Il pittore dipinge un quadro.
-слишком	troppo eccessivamente	avverbi	slishkom	Этот фильм слишком длинный.	Questo film è troppo lungo.
-сообщения	messaggi	scuola-e-lingua	soobshchenija	Я читаю сообщения от друзей.	Leggo i messaggi degli amici.
-разговаривать	parlare con qualcuno	verbi	razgovarivat	Мы **разговариваем** о работе.	Parliamo del lavoro.
-спорить	discutere litigare	verbi	sporit	Братья часто **спорят** о футболе.	I fratelli discutono spesso di calcio.
-искусство	arte	arte-e-cultura	iskusstvo	Меня интересует современное искусство.	Mi interessa l'arte contemporanea.
-Бог	Dio	arte-e-cultura	Bog	Моя бабушка верит в **Бога**.	Mia nonna crede in Dio.
-здоровье	salute	stato-e-condizioni	zdorove	Спорт полезен для **здоровья**.	Lo sport fa bene alla salute.
-религия	religione	arte-e-cultura	religija	Религия — тема этой статьи.	La religione è il tema di questo articolo.
-наука	scienza	scuola-e-lingua	nauka	Наука помогает нам понимать мир.	La scienza ci aiuta a capire il mondo.
-война	guerra	arte-e-cultura	vojna	Этот фильм рассказывает о **войне**.	Questo film parla della guerra.
-обо всём	di tutto	espressioni-utili	obo vsem	Мы разговариваем обо всём.	Parliamo di tutto.
-зарплата	stipendio	professioni	zarplata	У него хорошая зарплата.	Lui ha un buono stipendio.
-помогать	aiutare	verbi	pomogat	Я **помогаю** сестре делать домашнее задание.	Aiuto mia sorella a fare i compiti.
-документальный фильм	documentario	arte-e-cultura	dokumentalnyj film	Мы смотрим документальный фильм о природе.	Guardiamo un documentario sulla natura.
-боевик	film d'azione	arte-e-cultura	boevik	Мой брат хочет посмотреть боевик.	Mio fratello vuole guardare un film d'azione.
-фильм ужасов	film horror	arte-e-cultura	film uzhasov	Я не хочу смотреть фильм ужасов перед сном.	Non voglio guardare un film horror prima di dormire.
-фантастика	fantascienza	arte-e-cultura	fantastika	Фантастика — мой любимый жанр.	La fantascienza è il mio genere preferito.
-приключение	avventura	arte-e-cultura	prikljuchenie	Поездка на остров была настоящим **приключением**.	Il viaggio sull'isola è stato una vera avventura.
-мультфильм	cartone animato	arte-e-cultura	multfilm	Дети смотрят мультфильм о животных.	I bambini guardano un cartone animato sugli animali.
-рассказ	storia racconto	arte-e-cultura	rasskaz	Этот рассказ написал мой друг.	Questo racconto l'ha scritto il mio amico.
-сказка	fiaba	arte-e-cultura	skazka	Бабушка читает внучке **сказку**.	La nonna legge una fiaba alla nipote.
-детектив	giallo	arte-e-cultura	detektiv	Я читаю интересный детектив.	Leggo un giallo interessante.
-стихотворение	poesia	arte-e-cultura	stichotvorenie	Ученик читает стихотворение вслух.	L'alunno legge una poesia ad alta voce.
-называться	chiamarsi	verbi	nazyvatsja	Как **называется** эта книга?	Come si chiama questo libro?
-стройный	snello	aggettivi	strojnyj	Мой брат высокий и стройный.	Mio fratello è alto e snello.
-неудачник	perdente	persone-e-famiglia	neudachnik	Он думает, что он неудачник, но это неправда.	Lui pensa di essere un perdente, ma non è vero.
-жениться	sposarsi	verbi	zhenitsja	Мой брат хочет жениться.	Mio fratello vuole sposarsi.
-сказать	dire	verbi	skazat	Я хочу сказать тебе спасибо.	Voglio dirti grazie.
-погиб	morì rimase-ucciso	verbi	pogib	Герой рассказа погиб на войне.	Il protagonista del racconto morì in guerra.
-дуэль	duello	arte-e-cultura	duel	В конце романа происходит дуэль.	Alla fine del romanzo si svolge un duello.
-получить	ricevere	verbi	poluchit	Вчера я **получил** письмо от друга.	Ieri ho ricevuto una lettera da un amico.
-обманывать	imbrogliare tradire	verbi	obmanyvat	Не **обманывай** меня, скажи правду.	Non ingannarmi, dimmi la verità.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+кошелёк	portafogli	casa-e-oggetti	kosheliok	Мой <b>кошелёк</b> лежит в сумке.	Il mio portafogli è nella borsa.
+остров	isola	natura-e-luoghi	ostrov	Мы хотим поехать на этот <b>остров</b>.	Vogliamo andare su quest'isola.
+пальма	palma	natura-e-luoghi	palma	Возле отеля растёт <b>пальма</b>.	Vicino all'hotel cresce una palma.
+деревня	paese/villaggio	natura-e-luoghi	derevnya	Моя бабушка живёт в <b>деревне</b>.	Mia nonna vive in un villaggio.
+прекрасно	ottimo	avverbi,espressioni-utili	prekrasno	<b>Прекрасно</b>, теперь мы можем отдыхать!	Ottimo, adesso possiamo riposarci!
+статьи	articoli	scuola-e-lingua	stati	Эти <b>статьи</b> рассказывают об искусстве.	Questi articoli parlano d'arte.
+художник	pittore	professioni	hudozhnik	<b>Художник</b> рисует картину.	Il pittore dipinge un quadro.
+слишком	troppo, eccessivamente	avverbi	slishkom	Этот фильм <b>слишком</b> длинный.	Questo film è troppo lungo.
+сообщения	messaggi	scuola-e-lingua	soobshchenija	Я читаю <b>сообщения</b> от друзей.	Leggo i messaggi degli amici.
+разговаривать	parlare con qualcuno	verbi,scuola-e-lingua	razgovarivat	Мы <b>разговариваем</b> о работе.	Parliamo del lavoro.
+спорить	discutere, litigare	verbi	sporit	Братья часто <b>спорят</b> о футболе.	I fratelli discutono spesso di calcio.
+искусство	arte	arte-e-cultura	iskusstvo	Меня интересует современное <b>искусство</b>.	Mi interessa l'arte contemporanea.
+Бог	Dio	arte-e-cultura	Bog	Моя бабушка верит в <b>Бога</b>.	Mia nonna crede in Dio.
+здоровье	salute	salute	zdorove	Спорт полезен для <b>здоровья</b>.	Lo sport fa bene alla salute.
+религия	religione	arte-e-cultura	religija	<b>Религия</b> — тема этой статьи.	La religione è il tema di questo articolo.
+наука	scienza	scuola-e-lingua	nauka	<b>Наука</b> помогает нам понимать мир.	La scienza ci aiuta a capire il mondo.
+война	guerra	arte-e-cultura	vojna	Этот фильм рассказывает о <b>войне</b>.	Questo film parla della guerra.
+обо всём	di tutto	espressioni-utili	obo vsem	Мы разговариваем <b>обо всём</b>.	Parliamo di tutto.
+зарплата	stipendio	professioni	zarplata	У него хорошая <b>зарплата</b>.	Lui ha un buono stipendio.
+помогать	aiutare	verbi	pomogat	Я <b>помогаю</b> сестре делать домашнее задание.	Aiuto mia sorella a fare i compiti.
+документальный фильм	documentario	arte-e-cultura	dokumentalnyj film	Мы смотрим <b>документальный фильм</b> о природе.	Guardiamo un documentario sulla natura.
+боевик	film d'azione	arte-e-cultura	boevik	Мой брат хочет посмотреть <b>боевик</b>.	Mio fratello vuole guardare un film d'azione.
+фильм ужасов	film horror	arte-e-cultura	film uzhasov	Я не хочу смотреть <b>фильм ужасов</b> перед сном.	Non voglio guardare un film horror prima di dormire.
+фантастика	fantascienza	arte-e-cultura	fantastika	<b>Фантастика</b> — мой любимый жанр.	La fantascienza è il mio genere preferito.
+приключение	avventura	arte-e-cultura	prikljuchenie	Поездка на остров была настоящим <b>приключением</b>.	Il viaggio sull'isola è stato una vera avventura.
+мультфильм	cartone animato	arte-e-cultura	multfilm	Дети смотрят <b>мультфильм</b> о животных.	I bambini guardano un cartone animato sugli animali.
+рассказ	storia, racconto	arte-e-cultura	rasskaz	Этот <b>рассказ</b> написал мой друг.	Questo racconto l'ha scritto il mio amico.
+сказка	fiaba	arte-e-cultura	skazka	Бабушка читает внучке <b>сказку</b>.	La nonna legge una fiaba alla nipote.
+детектив	giallo	arte-e-cultura	detektiv	Я читаю интересный <b>детектив</b>.	Leggo un giallo interessante.
+стихотворение	poesia	arte-e-cultura	stichotvorenie	Ученик читает <b>стихотворение</b> вслух.	L'alunno legge una poesia ad alta voce.
+называться	chiamarsi	verbi	nazyvatsja	Как <b>называется</b> эта книга?	Come si chiama questo libro?
+стройный	snello	aggettivi,corpo	strojnyj	Мой брат высокий и <b>стройный</b>.	Mio fratello è alto e snello.
+неудачник	perdente	persone-e-famiglia	neudachnik	Он думает, что он <b>неудачник</b>, но это неправда.	Lui pensa di essere un perdente, ma non è vero.
+жениться	sposarsi	verbi,persone-e-famiglia	zhenitsja	Мой брат хочет <b>жениться</b>.	Mio fratello vuole sposarsi.
+сказать	dire	verbi,scuola-e-lingua	skazat	Я хочу <b>сказать</b> тебе спасибо.	Voglio dirti grazie.
+погиб	morì rimase-ucciso	verbi,morte-e-memoria	pogib	Герой рассказа <b>погиб</b> на войне.	Il protagonista del racconto morì in guerra.
+дуэль	duello	arte-e-cultura	duel	В конце романа происходит <b>дуэль</b>.	Alla fine del romanzo si svolge un duello.
+получить	ricevere	verbi	poluchit	Вчера я <b>получил</b> письмо от друга.	Ieri ho ricevuto una lettera da un amico.
+обманывать	imbrogliare, tradire	verbi	obmanyvat	Не <b>обманывай</b> меня, скажи правду.	Non ingannarmi, dimmi la verità.

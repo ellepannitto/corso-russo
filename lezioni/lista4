@@ -1,54 +1,55 @@
-слева	a sinistra	avverbi	sleva	Аптека слева.	La farmacia è a sinistra.
-справа	a destra	avverbi	sprava	Банк справа.	La banca è a destra.
-тут	qui	avverbi	tut	Тут школа.	Qui c'è una scuola.
-здесь	qui	avverbi	zdes	Здесь остановка.	Qui c'è la fermata.
-там	lì	avverbi	tam	Там вокзал.	Lì c'è la stazione.
-аптека	farmacia	luoghi-in-citta	apteka	Аптека рядом с больницей.	La farmacia è vicino all'ospedale.
-больница	ospedale	luoghi-in-citta	bolnitsa	Больница в городе.	L'ospedale è in città.
-полиция	polizia	luoghi-in-citta	politsiya	Полиция рядом.	La polizia è qui vicino.
-гостиница	albergo	luoghi-in-citta	gostinitsa	Гостиница рядом с вокзалом.	L'albergo è vicino alla stazione.
-отель	hotel	luoghi-in-citta	otel	Отель большой.	L'hotel è grande.
-памятник	monumento	luoghi-in-citta	pamyatnik	На площади стоит памятник.	Sulla piazza c'è un monumento.
-вокзал	stazione	luoghi-in-citta	vokzal	Вокзал находится недалеко от гостиницы.	La stazione si trova vicino all'albergo.
-аэропорт	aeroporto	viaggi-e-trasporti	aeroport	Аэропорт далеко от центра города.	L'aeroporto è lontano dal centro della città.
-банк	banca	luoghi-in-citta	bank	Банк открывается в девять утра.	La banca apre alle nove del mattino.
-стадион	stadio	luoghi-in-citta	stadion	Этот стадион очень большой.	Questo stadio è molto grande.
-зоопарк	zoo	luoghi-in-citta	zoopark	В воскресенье мы идём в зоопарк.	Domenica andiamo allo zoo.
-далеко	lontano	avverbi	daleko	Мой друг живёт далеко.	Il mio amico abita lontano.
-недалеко	vicino	avverbi	nedaleko	Магазин недалеко от нашего дома.	Il negozio è vicino a casa nostra.
-близко	vicino	avverbi	blizko	Не сиди слишком близко к экрану.	Non stare seduto troppo vicino allo schermo.
-магазин	negozio	luoghi-in-citta	magazin	Этот магазин продаёт одежду.	Questo negozio vende vestiti.
-супермаркет	supermercato	luoghi-in-citta	supermarket	Рядом с домом есть супермаркет.	Vicino a casa c'è un supermercato.
-почта	posta	luoghi-in-citta	pochta	Почта сегодня закрыта.	Oggi la posta è chiusa.
-церковь	chiesa	luoghi-in-citta	tserkov	Эта церковь очень старая.	Questa chiesa è molto antica.
-парковка	parcheggio	luoghi-in-citta	parkovka	У гостиницы есть парковка.	L'albergo ha un parcheggio.
-остановка	fermata	viaggi-e-trasporti	ostanovka	Автобусная остановка рядом со школой.	La fermata dell'autobus è vicino alla scuola.
-заправка	benzinaio	luoghi-in-citta	zapravka	На этой дороге есть заправка.	Su questa strada c'è un benzinaio.
-школа	scuola	scuola-e-lingua	shkola	Наша школа рядом с парком.	La nostra scuola è vicino al parco.
-университет	università	luoghi-in-citta	universitet	Мой брат поступил в университет.	Mio fratello si è iscritto all'università.
-чемодан	valigia	viaggi-e-trasporti	chemodan	Этот чемодан слишком тяжёлый.	Questa valigia è troppo pesante.
-бензин	benzina	viaggi-e-trasporti	benzin	Нам нужен бензин для машины.	Ci serve benzina per la macchina.
-есть	c'è / mangiare	verbi	est	В этом городе есть университет.	In questa città c'è un'università.
-чай	tè	cibo-e-bevande	chay	Я люблю пить чай с лимоном.	Mi piace bere il tè con il limone.
-не за что	di nulla	saluti-e-cortesia	ne-za-chto	— Спасибо за помощь! — Не за что.	— Grazie per l'aiuto! — Di nulla.
-так жаль	che peccato	saluti-e-cortesia	tak-zhal	Так жаль, что ты не можешь прийти.	Che peccato che tu non possa venire.
-конечно	certo	avverbi	konechno	Конечно, я помогу тебе.	Certo, ti aiuterò.
-уже	già	avverbi	uzhe	Дети уже дома.	I bambini sono già a casa.
-чашка	tazza	stoviglie-e-posate	chashka	Эта чашка для кофе.	Questa tazza è per il caffè.
-числа	numeri	scuola-e-lingua	chisla	Ученик пишет числа в тетради.	L'alunno scrive i numeri sul quaderno.
-страна	paese	paesi-e-lingue	strana	Италия — моя родная страна.	L'Italia è il mio paese natale.
-ложка	cucchiaio	stoviglie-e-posate	lozhka	Ложка лежит рядом с тарелкой.	Il cucchiaio è accanto al piatto.
-вилка	forchetta	stoviglie-e-posate	vilka	Где моя вилка?	Dov'è la mia forchetta?
-тарелка	piatto	stoviglie-e-posate	tarelka	На столе стоит чистая тарелка.	Sul tavolo c'è un piatto pulito.
-нож	coltello	stoviglie-e-posate	nozh	Этот нож очень острый.	Questo coltello è molto affilato.
-игрушки	giocattoli	casa-e-oggetti	igrushki	Дети убирают игрушки в шкаф.	I bambini mettono i giocattoli nell'armadio.
-океан	oceano	natura-e-luoghi	okean	Из окна отеля виден океан.	Dalla finestra dell'hotel si vede l'oceano.
-остров	isola	natura-e-luoghi	ostrov	На этом **острове** есть маленькая деревня.	Su quest'isola c'è un piccolo villaggio.
-пляж	spiaggia	natura-e-luoghi	plyazh	Летом мы часто ходим на пляж.	D'estate andiamo spesso in spiaggia.
-самолёт	aereo	viaggi-e-trasporti	samoliot	Наш самолёт вылетает завтра утром.	Il nostro aereo parte domani mattina.
-бассейн	piscina	viaggi-e-trasporti	basseyn	Бассейн закрывается в восемь.	La piscina chiude alle otto.
-сад	giardino	natura-e-luoghi	sad	За домом есть сад.	Dietro la casa c'è un giardino.
-корт	campo	natura-e-luoghi	kort	Этот корт рядом с бассейном.	Questo campo da tennis è vicino alla piscina.
-каждый	ogni	aggettivi	kazhdyy	Каждый вечер я читаю книгу.	Ogni sera leggo un libro.
-почти	quasi	avverbi	pochti	Домашнее задание почти готово.	I compiti sono quasi finiti.
-работа	lavoro	scuola-e-lingua	rabota	Моя работа мне нравится.	Il mio lavoro mi piace.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+слева	a sinistra	avverbi,spazio-e-direzioni	sleva	Аптека <b>слева</b>.	La farmacia è a sinistra.
+справа	a destra	avverbi,spazio-e-direzioni	sprava	Банк <b>справа</b>.	La banca è a destra.
+тут	qui	avverbi,spazio-e-direzioni	tut	<b>Тут</b> школа.	Qui c'è una scuola.
+здесь	qui	avverbi,spazio-e-direzioni	zdes	<b>Здесь</b> остановка.	Qui c'è la fermata.
+там	lì	avverbi,spazio-e-direzioni	tam	<b>Там</b> вокзал.	Lì c'è la stazione.
+аптека	farmacia	luoghi-in-citta	apteka	<b>Аптека</b> рядом с больницей.	La farmacia è vicino all'ospedale.
+больница	ospedale	luoghi-in-citta	bolnitsa	<b>Больница</b> в городе.	L'ospedale è in città.
+полиция	polizia	luoghi-in-citta	politsiya	<b>Полиция</b> рядом.	La polizia è qui vicino.
+гостиница	albergo	luoghi-in-citta	gostinitsa	<b>Гостиница</b> рядом с вокзалом.	L'albergo è vicino alla stazione.
+отель	hotel	luoghi-in-citta	otel	<b>Отель</b> большой.	L'hotel è grande.
+памятник	monumento	luoghi-in-citta	pamyatnik	На площади стоит <b>памятник</b>.	Sulla piazza c'è un monumento.
+вокзал	stazione	luoghi-in-citta	vokzal	<b>Вокзал</b> находится недалеко от гостиницы.	La stazione si trova vicino all'albergo.
+аэропорт	aeroporto	viaggi-e-trasporti	aeroport	<b>Аэропорт</b> далеко от центра города.	L'aeroporto è lontano dal centro della città.
+банк	banca	luoghi-in-citta	bank	<b>Банк</b> открывается в девять утра.	La banca apre alle nove del mattino.
+стадион	stadio	luoghi-in-citta	stadion	Этот <b>стадион</b> очень большой.	Questo stadio è molto grande.
+зоопарк	zoo	luoghi-in-citta	zoopark	В воскресенье мы идём в <b>зоопарк</b>.	Domenica andiamo allo zoo.
+далеко	lontano	avverbi,spazio-e-direzioni	daleko	Мой друг живёт <b>далеко</b>.	Il mio amico abita lontano.
+недалеко	vicino	avverbi,spazio-e-direzioni	nedaleko	Магазин <b>недалеко</b> от нашего дома.	Il negozio è vicino a casa nostra.
+близко	vicino	avverbi,spazio-e-direzioni	blizko	Не сиди слишком <b>близко</b> к экрану.	Non stare seduto troppo vicino allo schermo.
+магазин	negozio	luoghi-in-citta	magazin	Этот <b>магазин</b> продаёт одежду.	Questo negozio vende vestiti.
+супермаркет	supermercato	luoghi-in-citta	supermarket	Рядом с домом есть <b>супермаркет</b>.	Vicino a casa c'è un supermercato.
+почта	posta	luoghi-in-citta	pochta	<b>Почта</b> сегодня закрыта.	Oggi la posta è chiusa.
+церковь	chiesa	luoghi-in-citta	tserkov	Эта <b>церковь</b> очень старая.	Questa chiesa è molto antica.
+парковка	parcheggio	luoghi-in-citta	parkovka	У гостиницы есть <b>парковка</b>.	L'albergo ha un parcheggio.
+остановка	fermata	viaggi-e-trasporti	ostanovka	Автобусная <b>остановка</b> рядом со школой.	La fermata dell'autobus è vicino alla scuola.
+заправка	benzinaio	luoghi-in-citta	zapravka	На этой дороге есть <b>заправка</b>.	Su questa strada c'è un benzinaio.
+школа	scuola	scuola-e-lingua	shkola	Наша <b>школа</b> рядом с парком.	La nostra scuola è vicino al parco.
+университет	università	luoghi-in-citta	universitet	Мой брат поступил в <b>университет</b>.	Mio fratello si è iscritto all'università.
+чемодан	valigia	viaggi-e-trasporti	chemodan	Этот <b>чемодан</b> слишком тяжёлый.	Questa valigia è troppo pesante.
+бензин	benzina	viaggi-e-trasporti	benzin	Нам нужен <b>бензин</b> для машины.	Ci serve benzina per la macchina.
+есть	c'è / mangiare	verbi,cibo-e-bevande	est	В этом городе <b>есть</b> университет.	In questa città c'è un'università.
+чай	tè	cibo-e-bevande	chay	Я люблю пить <b>чай</b> с лимоном.	Mi piace bere il tè con il limone.
+не за что	di nulla	saluti-e-cortesia	ne-za-chto	— Спасибо за помощь! — <b>Не за что</b>.	— Grazie per l'aiuto! — Di nulla.
+так жаль	che peccato	saluti-e-cortesia	tak-zhal	<b>Так жаль</b>, что ты не можешь прийти.	Che peccato che tu non possa venire.
+конечно	certo	avverbi,espressioni-utili	konechno	<b>Конечно</b>, я помогу тебе.	Certo, ti aiuterò.
+уже	già	avverbi,tempo-e-date	uzhe	Дети <b>уже</b> дома.	I bambini sono già a casa.
+чашка	tazza	casa-e-oggetti	chashka	Эта <b>чашка</b> для кофе.	Questa tazza è per il caffè.
+числа	numeri	scuola-e-lingua	chisla	Ученик пишет <b>числа</b> в тетради.	L'alunno scrive i numeri sul quaderno.
+страна	paese	paesi-e-lingue	strana	Италия — моя родная <b>страна</b>.	L'Italia è il mio paese natale.
+ложка	cucchiaio	casa-e-oggetti	lozhka	<b>Ложка</b> лежит рядом с тарелкой.	Il cucchiaio è accanto al piatto.
+вилка	forchetta	casa-e-oggetti	vilka	Где моя <b>вилка</b>?	Dov'è la mia forchetta?
+тарелка	piatto	casa-e-oggetti	tarelka	На столе стоит чистая <b>тарелка</b>.	Sul tavolo c'è un piatto pulito.
+нож	coltello	casa-e-oggetti	nozh	Этот <b>нож</b> очень острый.	Questo coltello è molto affilato.
+игрушки	giocattoli	casa-e-oggetti	igrushki	Дети убирают <b>игрушки</b> в шкаф.	I bambini mettono i giocattoli nell'armadio.
+океан	oceano	natura-e-luoghi	okean	Из окна отеля виден <b>океан</b>.	Dalla finestra dell'hotel si vede l'oceano.
+остров	isola	natura-e-luoghi	ostrov	На этом <b>острове</b> есть маленькая деревня.	Su quest'isola c'è un piccolo villaggio.
+пляж	spiaggia	natura-e-luoghi	plyazh	Летом мы часто ходим на <b>пляж</b>.	D'estate andiamo spesso in spiaggia.
+самолёт	aereo	viaggi-e-trasporti	samoliot	Наш <b>самолёт</b> вылетает завтра утром.	Il nostro aereo parte domani mattina.
+бассейн	piscina	viaggi-e-trasporti	basseyn	<b>Бассейн</b> закрывается в восемь.	La piscina chiude alle otto.
+сад	giardino	natura-e-luoghi	sad	За домом есть <b>сад</b>.	Dietro la casa c'è un giardino.
+корт	campo	natura-e-luoghi	kort	Этот <b>корт</b> рядом с бассейном.	Questo campo da tennis è vicino alla piscina.
+каждый	ogni	aggettivi,pronomi-e-connettori	kazhdyy	<b>Каждый</b> вечер я читаю книгу.	Ogni sera leggo un libro.
+почти	quasi	avverbi	pochti	Домашнее задание <b>почти</b> готово.	I compiti sono quasi finiti.
+работа	lavoro	scuola-e-lingua	rabota	Моя <b>работа</b> мне нравится.	Il mio lavoro mi piace.

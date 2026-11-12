@@ -1,0 +1,82 @@
+russo	italiano	categoria	id	frase-russo	frase-italiano
+дача	dacia, casa di campagna	casa-e-oggetti	dacha	Летом мы живём на <b>даче</b>.	In estate viviamo alla dacia.
+дачник	chi ha una dacia, villeggiante	persone-e-famiglia	dachnik	Мой дедушка — <b>дачник</b>.	Mio nonno ha una dacia (e ci passa il tempo).
+дачный	di dacia, della dacia	aggettivi	dachnyj	Это <b>дачный</b> посёлок.	Questo è un villaggio di dacie.
+подарок	regalo	casa-e-oggetti	podarok	Это <b>подарок</b> для мамы.	Questo è un regalo per la mamma.
+участок	appezzamento di terreno, lotto	natura-e-luoghi	uchastok	У нас маленький <b>участок</b>.	Abbiamo un piccolo appezzamento.
+земля	terra, terreno	natura-e-luoghi	zemlya	Он купил <b>землю</b> за городом.	Ha comprato un terreno fuori città.
+усадьба	tenuta, residenza di campagna	casa-e-oggetti	usadba	Это старая <b>усадьба</b>.	Questa è una vecchia tenuta.
+посёлок	villaggio, borgata	luoghi-in-citta	posyolok	Мы живём в маленьком <b>посёлке</b>.	Viviamo in un piccolo villaggio.
+пригород	periferia, dintorni della città	luoghi-in-citta	prigorod	Они живут в <b>пригороде</b>.	Vivono nella periferia.
+недалеко от	non lontano da, vicino a	avverbi,spazio-e-direzioni	nedaleko-ot	Дача <b>недалеко от</b> города.	La dacia è vicino alla città.
+второй дом	seconda casa	casa-e-oggetti	vtoroj-dom	Дача — это <b>второй дом</b>.	La dacia è una seconda casa.
+коттедж	villetta, cottage	casa-e-oggetti	kottedzh	Они построили большой <b>коттедж</b>.	Hanno costruito una grande villetta.
+этаж	piano (di un edificio)	casa-e-oggetti	etazh	Дом на два <b>этажа</b>.	La casa è su due piani.
+двухэтажный	a due piani	aggettivi,casa-e-oggetti	dvuhetazhnyj	У нас <b>двухэтажный</b> дом.	Abbiamo una casa a due piani.
+крыша	tetto	casa-e-oggetti	krysha	У дома красная <b>крыша</b>.	La casa ha il tetto rosso.
+забор	recinzione, steccato	casa-e-oggetti	zabor	Вокруг участка высокий <b>забор</b>.	Intorno al terreno c'è un'alta recinzione.
+лавка	panchina	casa-e-oggetti	lavka	В саду стоит красная <b>лавка</b>.	In giardino c'è una panchina rossa.
+качели	altalena (a dondolo)	casa-e-oggetti	kacheli	Дети сидят на <b>качелях</b>.	I bambini sono seduti sull'altalena.
+беседка	gazebo, pergolato	casa-e-oggetti	besedka	Мы пьём чай в <b>беседке</b>.	Beviamo il tè nel gazebo.
+веранда	veranda	casa-e-oggetti	veranda	Мы завтракаем на <b>веранде</b>.	Facciamo colazione in veranda.
+самовар	samovar	casa-e-oggetti	samovar	На столе стоит <b>самовар</b>.	Sul tavolo c'è un samovar.
+мангал	braciere per grigliare	casa-e-oggetti	mangal	На даче есть <b>мангал</b>.	Alla dacia c'è un braciere.
+шашлык	spiedini di carne alla griglia	cibo-e-bevande	shashlyk	Мы жарим <b>шашлык</b> на даче.	Alla dacia grigliamo gli spiedini.
+жарить	friggere, arrostire	verbi,cibo-e-bevande	zharit	Папа <b>жарит</b> мясо.	Il papà arrostisce la carne.
+костёр	falò	natura-e-luoghi	kostyor	Вечером мы сидим у <b>костра</b>.	La sera siamo seduti intorno al falò.
+огородик	piccolo orto	natura-e-luoghi	ogorodik	У бабушки небольшой <b>огородик</b>.	La nonna ha un piccolo orto.
+грядка	aiuola, filare dell'orto	natura-e-luoghi	gryadka	На <b>грядке</b> растёт капуста.	Sull'aiuola cresce il cavolo.
+теплица	serra	natura-e-luoghi	teplica	В <b>теплице</b> растут помидоры.	Nella serra crescono i pomodori.
+цветник	aiuola fiorita	natura-e-luoghi	cvetnik	Перед домом красивый <b>цветник</b>.	Davanti alla casa c'è una bella aiuola fiorita.
+газон	prato (curato)	natura-e-luoghi	gazon	Дети играют на <b>газоне</b>.	I bambini giocano sul prato.
+куст	cespuglio	natura-e-luoghi	kust	Ягоды растут на <b>кусте</b>.	Le bacche crescono sul cespuglio.
+купаться	fare il bagno	verbi,natura-e-luoghi	kupatsya	Летом мы любим <b>купаться</b> в реке.	In estate ci piace fare il bagno nel fiume.
+песок	sabbia	natura-e-luoghi	pesok	Дети играют в <b>песке</b>.	I bambini giocano nella sabbia.
+гриб	fungo	cibo-e-bevande	grib	В лесу мы нашли белый <b>гриб</b>.	Nel bosco abbiamo trovato un porcino.
+смородина	ribes	cibo-e-bevande	smorodina	У нас растёт красная <b>смородина</b>.	Da noi cresce il ribes rosso.
+ежевика	mora (di rovo)	cibo-e-bevande	ezhevika	Бабушка собирает <b>ежевику</b>.	La nonna raccoglie le more.
+помидор	pomodoro	cibo-e-bevande	pomidor	В теплице растут красные <b>помидоры</b>.	Nella serra crescono pomodori rossi.
+кабачок	zucchina	cibo-e-bevande	kabachok	Мальчик держит большой <b>кабачок</b>.	Il bambino tiene una grande zucchina.
+перец	peperone, pepe	cibo-e-bevande	perec	В теплице растёт сладкий <b>перец</b>.	Nella serra cresce il peperone dolce.
+консервы	conserve	cibo-e-bevande	konservy	Бабушка делает <b>консервы</b> на зиму.	La nonna prepara le conserve per l'inverno.
+банка	barattolo	casa-e-oggetti,cibo-e-bevande	banka	Это <b>банка</b> с огурцами.	Questo è un barattolo di cetrioli.
+урожай	raccolto	natura-e-luoghi	urozhaj	В этом году хороший <b>урожай</b>.	Quest'anno c'è un buon raccolto.
+сажать	piantare	verbi,natura-e-luoghi	sazhat	Весной мы <b>сажаем</b> цветы.	In primavera piantiamo i fiori.
+поливать	annaffiare	verbi,natura-e-luoghi	polivat	Я <b>поливаю</b> цветы каждый вечер.	Annaffio i fiori ogni sera.
+работать в огороде	lavorare nell'orto	verbi,natura-e-luoghi	rabotat-v-ogorode	Летом мы много <b>работаем в огороде</b>.	In estate lavoriamo molto nell'orto.
+трудиться	lavorare duramente, faticare	verbi	truditsya	Они усиленно <b>трудятся</b> в огороде.	Lavorano duramente nell'orto.
+строительство	costruzione, edilizia	concetti-astratti	stroitelstvo	<b>Строительство</b> дома — это долго.	La costruzione di una casa richiede tempo.
+кирпич	mattone	casa-e-oggetti	kirpich	Дом из красного <b>кирпича</b>.	La casa è di mattoni rossi.
+отдых	riposo, vacanza	concetti-astratti	otdyh	Дача — место для <b>отдыха</b>.	La dacia è un luogo di riposo.
+проводить	trascorrere, passare (tempo)	verbi,tempo-e-date	provodit	Мы <b>проводим</b> лето на даче.	Passiamo l'estate alla dacia.
+сезон	stagione (periodo)	tempo-e-date	sezon	Дачный <b>сезон</b> начинается весной.	La stagione delle dacie inizia in primavera.
+курорт	località di villeggiatura	luoghi-in-citta	kurort	Сочи — известный <b>курорт</b>.	Soči è una nota località di villeggiatura.
+железная дорога	ferrovia	viaggi-e-trasporti	zheleznaya-doroga	Посёлок стоит у <b>железной дороги</b>.	Il villaggio sorge vicino alla ferrovia.
+добираться	arrivare, raggiungere (con fatica)	verbi,viaggi-e-trasporti	dobiratsya	Как вы <b>добираетесь</b> до дачи?	Come arrivate alla dacia?
+знакомство	conoscenza	persone-e-famiglia	znakomstvo	Это наше первое <b>знакомство</b>.	Questa è la nostra prima conoscenza.
+общественный	pubblico, sociale	aggettivi	obshchestvennyj	Станция — <b>общественное</b> место.	La stazione è un luogo pubblico.
+бал	ballo, festa danzante	arte-e-cultura	bal	На даче был настоящий <b>бал</b>.	Alla dacia c'era un vero ballo.
+спектакль	spettacolo teatrale	arte-e-cultura	spektakl	Мы смотрим <b>спектакль</b> на даче.	Guardiamo uno spettacolo alla dacia.
+музыкант	musicista	professioni	muzykant	Приехали <b>музыканты</b>.	Sono arrivati dei musicisti.
+композитор	compositore	professioni	kompozitor	Этот <b>композитор</b> жил на даче.	Questo compositore viveva alla dacia.
+поэт	poeta	professioni	poet	Этот <b>поэт</b> любит природу.	Questo poeta ama la natura.
+литература	letteratura	scuola-e-lingua	literatura	Я люблю русскую <b>литературу</b>.	Amo la letteratura russa.
+чиновник	funzionario, burocrate	professioni	chinovnik	<b>Чиновник</b> получил дачу в подарок.	Il funzionario ha ricevuto una dacia in dono.
+император	imperatore	persone-e-famiglia	imperator	<b>Император</b> жил во дворце.	L'imperatore viveva nel palazzo.
+власть	potere, autorità	concetti-astratti	vlast	Советская <b>власть</b> забрала дачи.	Il potere sovietico confiscò le dacie.
+партия	partito	concetti-astratti	partiya	<b>Партия</b> дала землю рабочим.	Il partito diede la terra agli operai.
+рабочий	operaio	professioni	rabochij	Мой дедушка — <b>рабочий</b>.	Mio nonno è un operaio.
+привилегия	privilegio	concetti-astratti	privilegiya	Дача — это <b>привилегия</b>.	La dacia è un privilegio.
+богатство	ricchezza	concetti-astratti	bogatstvo	Дача — символ <b>богатства</b>.	La dacia è un simbolo di ricchezza.
+традиция	tradizione	arte-e-cultura	tradiciya	Дача хранит <b>традиции</b>.	La dacia custodisce le tradizioni.
+разрешать	permettere	verbi	razreshat	Закон <b>разрешает</b> строить дома.	La legge permette di costruire case.
+запрет	divieto	concetti-astratti	zapret	Власти сняли <b>запрет</b> на дома.	Le autorità hanno tolto il divieto sulle case.
+продажа	vendita	acquisti-e-negozi	prodazha	Участки вышли в свободную <b>продажу</b>.	I terreni sono andati in libera vendita.
+владелец	proprietario	persone-e-famiglia	vladelec	<b>Владелец</b> дачи живёт в городе.	Il proprietario della dacia vive in città.
+выживание	sopravvivenza	concetti-astratti	vyzhivanie	Дача — средство <b>выживания</b>.	La dacia è un mezzo di sopravvivenza.
+голодный	affamato	aggettivi	golodnyj	Дети <b>голодные</b>.	I bambini hanno fame.
+трудности	difficoltà	concetti-astratti	trudnosti	В 80-е годы начались <b>трудности</b>.	Negli anni '80 sono iniziate le difficoltà.
+прокормить	sfamare, mantenere (nutrire)	verbi,cibo-e-bevande	prokormit	Дача помогала <b>прокормить</b> семью.	La dacia aiutava a sfamare la famiglia.
+детский сад	asilo	scuola-e-lingua	detskij-sad	Малыши ходят в <b>детский сад</b>.	I piccoli vanno all'asilo.
+малыш	bimbo piccolo	persone-e-famiglia	malysh	<b>Малыш</b> спит на улице.	Il bimbo dorme all'aperto.
+дневной сон	sonnellino pomeridiano	tempo-e-date	dnevnoj-son	Дети спят <b>дневной сон</b> на улице.	I bambini fanno il sonnellino all'aperto.

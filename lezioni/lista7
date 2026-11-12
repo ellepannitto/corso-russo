@@ -1,57 +1,58 @@
-напиток	bevanda	cibo-e-bevande	napitok	Чай — мой любимый напиток.	Il tè è la mia bevanda preferita.
-напитки	bevande	cibo-e-bevande	napitki	В холодильнике есть холодные напитки.	Nel frigorifero ci sono bevande fredde.
-чай	tè	cibo-e-bevande	chay	На завтрак я пью чай.	A colazione bevo il tè.
-пиво	birra	cibo-e-bevande	pivo	Папа покупает пиво в магазине.	Papà compra la birra al negozio.
-вино	vino	cibo-e-bevande	vino	Это вино из Италии.	Questo vino viene dall'Italia.
-вода	acqua	cibo-e-bevande	voda	Вода в бутылке ещё холодная.	L'acqua nella bottiglia è ancora fredda.
-сок	succo	cibo-e-bevande	sok	Ты хочешь сок или воду?	Vuoi del succo o dell'acqua?
-ещё	ancora	avverbi	eshchio	Дети ещё спят.	I bambini dormono ancora.
-уже	già	avverbi	uzhe	Я уже знаю ответ.	So già la risposta.
-язык	lingua	scuola-e-lingua	yazyk	Мне нравится русский язык.	Mi piace la lingua russa.
-Италия	Italia	paesi-e-lingue	italiya	Италия — моя страна.	L'Italia è il mio paese.
-Россия	Russia	paesi-e-lingue	rossiya	Россия — большая страна.	La Russia è un paese grande.
-США	USA	paesi-e-lingue	ssha	Мой брат живёт в США.	Mio fratello vive negli Stati Uniti.
-Англия	Inghilterra	paesi-e-lingue	angliya	Англия далеко от моего дома.	L'Inghilterra è lontana da casa mia.
-Германия	Germania	paesi-e-lingue	germaniya	На этой карте есть Германия.	Su questa mappa c'è la Germania.
-Испания	Spagna	paesi-e-lingue	ispaniya	Испания — красивая страна.	La Spagna è un bel paese.
-Китай	Cina	paesi-e-lingue	kitay	Я хочу поехать в Китай.	Voglio andare in Cina.
-Франция	Francia	paesi-e-lingue	frantsiya	Франция — любимая страна моей сестры.	La Francia è il paese preferito di mia sorella.
-как по-русски?	come si dice in russo?	saluti-e-cortesia	kak-po-russki	Как по-русски «libro»? — Книга.	Come si dice «libro» in russo? — Книга.
-что значит?	cosa significa?	saluti-e-cortesia	chto-znachit	Что значит «спасибо»? — Это «grazie» по-итальянски.	Cosa significa «спасибо»? — È «grazie» in italiano.
-сначала	prima	orari-e-frequenza	snachala	Сначала мы завтракаем, потом работаем.	Prima facciamo colazione, poi lavoriamo.
-потом	dopo	orari-e-frequenza	potom	Сейчас я читаю, потом буду гулять.	Adesso leggo, dopo andrò a passeggiare.
-немного	un po'	avverbi	nemnogo	Я немного говорю по-русски.	Parlo un po' di russo.
-наречия	avverbi	scuola-e-lingua	narechiya	«Быстро» и «медленно» — наречия.	«Velocemente» e «lentamente» sono avverbi.
-хорошо	bene	avverbi	horosho	Моя сестра хорошо плавает.	Mia sorella nuota bene.
-плохо	male	avverbi	ploho	Я плохо слышу, говори громче.	Sento male, parla più forte.
-громко	a voce alta	avverbi	gromko	Ученик громко читает рассказ.	L'alunno legge il racconto a voce alta.
-тихо	a bassa voce	avverbi	tiho	Говори тихо, дети спят.	Parla a bassa voce, i bambini dormono.
-быстро	velocemente	avverbi	bystro	Мой брат быстро бегает.	Mio fratello corre velocemente.
-медленно	lentamente	avverbi	medlenno	Преподаватель говорит медленно.	L'insegnante parla lentamente.
-интересно	interessante	aggettivi	interesno	Мне интересно изучать русский язык.	Per me è interessante studiare la lingua russa.
-скучно	noioso	aggettivi	skuchno	Мне скучно весь день сидеть дома.	Per me è noioso stare a casa tutto il giorno.
-прекрасно	meravigliosamente	avverbi	prekrasno	Она прекрасно играет на гитаре.	Lei suona la chitarra meravigliosamente.
-ужасно	terribilmente	avverbi	uzhasno	Сегодня ужасно жарко.	Oggi fa terribilmente caldo.
-правильно	correttamente	aggettivi	pravilno	Ты правильно отвечаешь на вопрос.	Rispondi correttamente alla domanda.
-красиво	bello	aggettivi	krasivo	Как красиво в этом саду!	Che bello in questo giardino!
-долго	a lungo	avverbi	dolgo	Мы долго гуляем по городу.	Passeggiamo a lungo per la città.
-точно	esattamente	avverbi	tochno	Урок начинается точно в десять.	La lezione inizia esattamente alle dieci.
-отлично	perfetto	avverbi	otlichno	Отлично, теперь всё понятно!	Perfetto, ora è tutto chiaro!
-понятно	chiaro	aggettivi	ponyatno	Теперь мне понятно, что делать.	Adesso mi è chiaro cosa fare.
-очень	molto	avverbi	ochen	Этот фильм очень интересный.	Questo film è molto interessante.
-слишком	troppo	avverbi	slishkom	Этот чемодан слишком тяжёлый.	Questa valigia è troppo pesante.
-много	molto	avverbi	mnogo	У меня много книг.	Ho molti libri.
-мало	poco	avverbi	malo	У нас мало времени.	Abbiamo poco tempo.
-весь	tutto	aggettivi	ves	Я весь день работаю дома.	Lavoro a casa tutto il giorno.
-вся	tutta	aggettivi	vsya	Сегодня вся семья ужинает вместе.	Oggi tutta la famiglia cena insieme.
-всё	tutto	aggettivi	vsio	Я всё понимаю.	Capisco tutto.
-все	tutti	aggettivi	vse	Все студенты читают.	Tutti gli studenti leggono.
-почему	perché?	pronomi-e-connettori	pochemu	Почему ты не завтракаешь?	Perché non fai colazione?
-потому что	perché	pronomi-e-connettori	potomu-chto	Я дома, потому что сегодня выходной.	Sono a casa perché oggi è un giorno libero.
-может быть	forse	pronomi-e-connettori	mozhet-byt	Может быть, завтра будет дождь.	Forse domani pioverà.
-как всегда	come sempre	avverbi	kak-vsegda	Как всегда, папа читает газету.	Come sempre, papà legge il giornale.
-бутерброд	panino	cibo-e-bevande	buterbrod	Я ем бутерброд с сыром.	Mangio un panino al formaggio.
-кабинет	studio	scuola-e-lingua	kabinet	Мой кабинет рядом с гостиной.	Il mio studio è vicino al salotto.
-отвечать за	essere responsabile di	verbi	otvechat-za	Менеджер **отвечает за** работу команды.	Il manager è responsabile del lavoro della squadra.
-отвечать на	rispondere a	verbi	otvechat-na	Преподаватель **отвечает на** вопросы студентов.	L'insegnante risponde alle domande degli studenti.
-стахановец	stakanovista	professioni	stahanovets	Он настоящий стахановец: работает весь день.	È un vero stakanovista: lavora tutto il giorno.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+напиток	bevanda	cibo-e-bevande	napitok	Чай — мой любимый <b>напиток</b>.	Il tè è la mia bevanda preferita.
+напитки	bevande	cibo-e-bevande	napitki	В холодильнике есть холодные <b>напитки</b>.	Nel frigorifero ci sono bevande fredde.
+чай	tè	cibo-e-bevande	chay	На завтрак я пью <b>чай</b>.	A colazione bevo il tè.
+пиво	birra	cibo-e-bevande	pivo	Папа покупает <b>пиво</b> в магазине.	Papà compra la birra al negozio.
+вино	vino	cibo-e-bevande	vino	Это <b>вино</b> из Италии.	Questo vino viene dall'Italia.
+вода	acqua	cibo-e-bevande	voda	<b>Вода</b> в бутылке ещё холодная.	L'acqua nella bottiglia è ancora fredda.
+сок	succo	cibo-e-bevande	sok	Ты хочешь <b>сок</b> или воду?	Vuoi del succo o dell'acqua?
+ещё	ancora	avverbi,tempo-e-date	eshchio	Дети <b>ещё</b> спят.	I bambini dormono ancora.
+уже	già	avverbi,tempo-e-date	uzhe	Я <b>уже</b> знаю ответ.	So già la risposta.
+язык	lingua	scuola-e-lingua	yazyk	Мне нравится русский <b>язык</b>.	Mi piace la lingua russa.
+Италия	Italia	paesi-e-lingue	italiya	<b>Италия</b> — моя страна.	L'Italia è il mio paese.
+Россия	Russia	paesi-e-lingue	rossiya	<b>Россия</b> — большая страна.	La Russia è un paese grande.
+США	USA	paesi-e-lingue	ssha	Мой брат живёт в <b>США</b>.	Mio fratello vive negli Stati Uniti.
+Англия	Inghilterra	paesi-e-lingue	angliya	<b>Англия</b> далеко от моего дома.	L'Inghilterra è lontana da casa mia.
+Германия	Germania	paesi-e-lingue	germaniya	На этой карте есть <b>Германия</b>.	Su questa mappa c'è la Germania.
+Испания	Spagna	paesi-e-lingue	ispaniya	<b>Испания</b> — красивая страна.	La Spagna è un bel paese.
+Китай	Cina	paesi-e-lingue	kitay	Я хочу поехать в <b>Китай</b>.	Voglio andare in Cina.
+Франция	Francia	paesi-e-lingue	frantsiya	<b>Франция</b> — любимая страна моей сестры.	La Francia è il paese preferito di mia sorella.
+как по-русски?	come si dice in russo?	saluti-e-cortesia	kak-po-russki	<b>Как по-русски</b> «libro»? — Книга.	Come si dice «libro» in russo? — Книга.
+что значит?	cosa significa?	saluti-e-cortesia	chto-znachit	<b>Что значит</b> «спасибо»? — Это «grazie» по-итальянски.	Cosa significa «спасибо»? — È «grazie» in italiano.
+сначала	prima	tempo-e-date	snachala	<b>Сначала</b> мы завтракаем, потом работаем.	Prima facciamo colazione, poi lavoriamo.
+потом	dopo	tempo-e-date	potom	Сейчас я читаю, <b>потом</b> буду гулять.	Adesso leggo, dopo andrò a passeggiare.
+немного	un po'	avverbi	nemnogo	Я <b>немного</b> говорю по-русски.	Parlo un po' di russo.
+наречия	avverbi	scuola-e-lingua	narechiya	«Быстро» и «медленно» — <b>наречия</b>.	«Velocemente» e «lentamente» sono avverbi.
+хорошо	bene	avverbi,espressioni-utili	horosho	Моя сестра <b>хорошо</b> плавает.	Mia sorella nuota bene.
+плохо	male	avverbi,espressioni-utili	ploho	Я <b>плохо</b> слышу, говори громче.	Sento male, parla più forte.
+громко	a voce alta	avverbi	gromko	Ученик <b>громко</b> читает рассказ.	L'alunno legge il racconto a voce alta.
+тихо	a bassa voce	avverbi	tiho	Говори <b>тихо</b>, дети спят.	Parla a bassa voce, i bambini dormono.
+быстро	velocemente	avverbi	bystro	Мой брат <b>быстро</b> бегает.	Mio fratello corre velocemente.
+медленно	lentamente	avverbi	medlenno	Преподаватель говорит <b>медленно</b>.	L'insegnante parla lentamente.
+интересно	interessante	aggettivi	interesno	Мне <b>интересно</b> изучать русский язык.	Per me è interessante studiare la lingua russa.
+скучно	noioso	aggettivi	skuchno	Мне <b>скучно</b> весь день сидеть дома.	Per me è noioso stare a casa tutto il giorno.
+прекрасно	meravigliosamente	avverbi,espressioni-utili	prekrasno	Она <b>прекрасно</b> играет на гитаре.	Lei suona la chitarra meravigliosamente.
+ужасно	terribilmente	avverbi,espressioni-utili	uzhasno	Сегодня <b>ужасно</b> жарко.	Oggi fa terribilmente caldo.
+правильно	correttamente	aggettivi	pravilno	Ты <b>правильно</b> отвечаешь на вопрос.	Rispondi correttamente alla domanda.
+красиво	bello	aggettivi	krasivo	Как <b>красиво</b> в этом саду!	Che bello in questo giardino!
+долго	a lungo	avverbi,tempo-e-date	dolgo	Мы <b>долго</b> гуляем по городу.	Passeggiamo a lungo per la città.
+точно	esattamente	avverbi	tochno	Урок начинается <b>точно</b> в десять.	La lezione inizia esattamente alle dieci.
+отлично	perfetto	avverbi,espressioni-utili	otlichno	<b>Отлично</b>, теперь всё понятно!	Perfetto, ora è tutto chiaro!
+понятно	chiaro	aggettivi,espressioni-utili	ponyatno	Теперь мне <b>понятно</b>, что делать.	Adesso mi è chiaro cosa fare.
+очень	molto	avverbi	ochen	Этот фильм <b>очень</b> интересный.	Questo film è molto interessante.
+слишком	troppo	avverbi	slishkom	Этот чемодан <b>слишком</b> тяжёлый.	Questa valigia è troppo pesante.
+много	molto	avverbi	mnogo	У меня <b>много</b> книг.	Ho molti libri.
+мало	poco	avverbi	malo	У нас <b>мало</b> времени.	Abbiamo poco tempo.
+весь	tutto	aggettivi,pronomi-e-connettori	ves	Я <b>весь</b> день работаю дома.	Lavoro a casa tutto il giorno.
+вся	tutta	aggettivi,pronomi-e-connettori	vsya	Сегодня <b>вся</b> семья ужинает вместе.	Oggi tutta la famiglia cena insieme.
+всё	tutto	aggettivi,pronomi-e-connettori	vsio	Я <b>всё</b> понимаю.	Capisco tutto.
+все	tutti	aggettivi,pronomi-e-connettori	vse	<b>Все</b> студенты читают.	Tutti gli studenti leggono.
+почему	perché?	pronomi-e-connettori	pochemu	<b>Почему</b> ты не завтракаешь?	Perché non fai colazione?
+потому что	perché	pronomi-e-connettori	potomu-chto	Я дома, <b>потому что</b> сегодня выходной.	Sono a casa perché oggi è un giorno libero.
+может быть	forse	pronomi-e-connettori	mozhet-byt	<b>Может быть</b>, завтра будет дождь.	Forse domani pioverà.
+как всегда	come sempre	avverbi,tempo-e-date	kak-vsegda	<b>Как всегда</b>, папа читает газету.	Come sempre, papà legge il giornale.
+бутерброд	panino	cibo-e-bevande	buterbrod	Я ем <b>бутерброд</b> с сыром.	Mangio un panino al formaggio.
+кабинет	studio	scuola-e-lingua	kabinet	Мой <b>кабинет</b> рядом с гостиной.	Il mio studio è vicino al salotto.
+отвечать за	essere responsabile di	verbi	otvechat-za	Менеджер <b>отвечает за</b> работу команды.	Il manager è responsabile del lavoro della squadra.
+отвечать на	rispondere a	verbi,scuola-e-lingua	otvechat-na	Преподаватель <b>отвечает на</b> вопросы студентов.	L'insegnante risponde alle domande degli studenti.
+стахановец	stakanovista	professioni	stahanovets	Он настоящий <b>стахановец</b>: работает весь день.	È un vero stakanovista: lavora tutto il giorno.

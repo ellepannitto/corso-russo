@@ -1,0 +1,135 @@
+russo	italiano	categoria	id	frase-russo	frase-italiano
+хвост	coda	corpo	hvost	У кота длинный <b>хвост</b>.	Il gatto ha una coda lunga.
+лапа	zampa	corpo	lapa	У кошки четыре <b>лапы</b>.	La gatta ha quattro zampe.
+усы	baffi	corpo	usy	У кота белые <b>усы</b>.	Il gatto ha i baffi bianchi.
+шерсть	pelo	corpo	sherst	У кошки серая <b>шерсть</b>.	La gatta ha il pelo grigio.
+короткошёрстный	a pelo corto	aggettivi,animali	korotkosherstnyj	У меня <b>короткошёрстная</b> кошка.	Ho una gatta a pelo corto.
+длинношёрстный	a pelo lungo	aggettivi,animali	dlinnosherstnyj	У неё <b>длинношёрстный</b> кот.	Lei ha un gatto a pelo lungo.
+лысый	senza pelo, pelato	aggettivi,animali	lysyj	Сфинкс — это <b>лысая</b> кошка.	La sfinx è un gatto senza pelo.
+рыжий	rosso (di pelo), fulvo	aggettivi,animali	ryzhij	У него <b>рыжий</b> кот.	Lui ha un gatto rosso.
+трёхцветный	tricolore	aggettivi,animali	trehcvetnyj	У нас <b>трёхцветная</b> кошка.	Abbiamo una gatta tricolore.
+полосатый	a righe, tigrato	aggettivi,animali	polosatyj	Мой кот <b>полосатый</b>.	Il mio gatto è tigrato.
+пятнистый	macchiato	aggettivi,animali	pyatnistyj	Эта кошка <b>пятнистая</b>.	Questa gatta è macchiata.
+кошка в смокинге	gatta "smoking" (bianca e nera)	animali	koshka-v-smokinge	Это <b>кошка в смокинге</b>.	Questa è una gatta "smoking" (bianca e nera).
+кот-химера	gatto chimera (muso di due colori)	animali	kot-himera	Это <b>кот-химера</b>.	Questo è un gatto chimera.
+вислоухий	con le orecchie pendenti	aggettivi,animali	vislouhij	У меня <b>вислоухий</b> кот.	Ho un gatto con le orecchie pendenti.
+завитой	arricciato	aggettivi,animali	zavitoj	У кота <b>завитые</b> уши.	Il gatto ha le orecchie arricciate.
+прямой	dritto	aggettivi	pryamoj	У кошки <b>прямые</b> уши.	La gatta ha le orecchie dritte.
+пушистый	soffice, peloso	aggettivi,animali	pushistyj	У кошки <b>пушистый</b> хвост.	La gatta ha la coda soffice.
+разноцветный	di colori diversi	aggettivi	raznocvetnyj	У кота <b>разноцветные</b> глаза.	Il gatto ha gli occhi di colori diversi.
+ореховый	color nocciola	aggettivi	orehovyj	У неё <b>ореховые</b> глаза.	Lei ha gli occhi color nocciola.
+лоток	lettiera (vaschetta)	casa-e-oggetti	lotok	<b>Лоток</b> стоит в ванной.	La lettiera è in bagno.
+закрытый	chiuso	aggettivi	zakrytyj	У нас <b>закрытый</b> лоток.	Abbiamo una lettiera chiusa.
+открытый	aperto	aggettivi	otkrytyj	У неё <b>открытый</b> лоток.	Lei ha una lettiera aperta.
+наполнитель для туалета	sabbia per gatti (granuli per la lettiera)	casa-e-oggetti	napolnitel-dlya-tualeta	В лотке <b>наполнитель для туалета</b>.	Nella lettiera c'è la sabbia per gatti.
+лопатка	paletta	casa-e-oggetti	lopatka	<b>Лопатка</b> лежит у лотка.	La paletta è vicino alla lettiera.
+миска для корма	ciotola per il cibo	casa-e-oggetti	miska-dlya-korma	Это <b>миска для корма</b>.	Questa è la ciotola per il cibo.
+миска для воды	ciotola per l'acqua	casa-e-oggetti	miska-dlya-vody	Это <b>миска для воды</b>.	Questa è la ciotola per l'acqua.
+корм	cibo per animali, mangime	cibo-e-bevande	korm	Кошка ест <b>корм</b>.	La gatta mangia il cibo.
+сухой	secco	aggettivi,cibo-e-bevande	suhoj	Это <b>сухой</b> корм.	Questo è cibo secco.
+влажный	umido	aggettivi,cibo-e-bevande	vlazhnyj	Это <b>влажный</b> корм.	Questo è cibo umido.
+переноска	trasportino	viaggi-e-trasporti	perenoska	Кошка сидит в <b>переноске</b>.	La gatta è nel trasportino.
+игрушка	giocattolo	casa-e-oggetti	igrushka	У кошки много <b>игрушек</b>.	La gatta ha molti giochi.
+мячик	pallina	casa-e-oggetti	myachik	У кошки красный <b>мячик</b>.	La gatta ha una pallina rossa.
+мышка	topolino (giocattolo)	casa-e-oggetti	myshka	Кошка играет с <b>мышкой</b>.	La gatta gioca con il topolino.
+щётка	spazzola	casa-e-oggetti	shchetka	Это <b>щётка</b> для кошки.	Questa è la spazzola per il gatto.
+когтеточка	tiragraffi	casa-e-oggetti	kogtetochka	Кошка любит <b>когтеточку</b>.	La gatta ama il tiragraffi.
+лежанка	cuccia, lettino	casa-e-oggetti	lezhanka	Кошка спит на <b>лежанке</b>.	La gatta dorme sulla cuccia.
+порода	razza	animali	poroda	Это очень красивая <b>порода</b>.	Questa è una razza molto bella.
+мейн-кун	Maine Coon	animali	mejn-kun	<b>Мейн-кун</b> — очень большой кот.	Il Maine Coon è un gatto molto grande.
+сфинкс	sfinx (gatto senza pelo)	animali	sfinks	<b>Сфинкс</b> — лысый кот.	La sfinx è un gatto senza pelo.
+сибирская кошка	gatto siberiano	animali	sibirskaya-koshka	<b>Сибирская кошка</b> — пушистая.	Il gatto siberiano è soffice.
+британская короткошёрстная	British Shorthair	animali	britanskaya-korotkosherstnaya	У неё <b>британская короткошёрстная</b> кошка.	Lei ha un British Shorthair.
+персидский кот	gatto persiano	animali	persidskij-kot	<b>Персидский кот</b> очень пушистый.	Il gatto persiano è molto soffice.
+сиамская кошка	gatto siamese	animali	siamskaya-koshka	У них <b>сиамская кошка</b>.	Hanno un gatto siamese.
+невская маскарадная кошка	gatto Neva Masquerade	animali	nevskaya-maskaradnaya-koshka	У <b>невской маскарадной кошки</b> голубые глаза.	Il gatto Neva Masquerade ha gli occhi azzurri.
+бенгальская кошка	gatto del Bengala	animali	bengalskaya-koshka	<b>Бенгальская кошка</b> — пятнистая.	Il gatto del Bengala è macchiato.
+турецкая кошка	gatto turco	animali	tureckaya-koshka	<b>Турецкая кошка</b> — белая.	Il gatto turco è bianco.
+русская голубая кошка	blu di Russia	animali	russkaya-golubaya-koshka	У <b>русской голубой кошки</b> зелёные глаза.	Il blu di Russia ha gli occhi verdi.
+обычная кошка	gatto comune	animali	obychnaya-koshka	У нас <b>обычная кошка</b>.	Abbiamo un gatto comune.
+Эрмитаж	l'Ermitage	luoghi-in-citta	ermitazh	<b>Эрмитаж</b> — большой музей.	L'Ermitage è un grande museo.
+Санкт-Петербург	San Pietroburgo	luoghi-in-citta	sankt-peterburg	<b>Санкт-Петербург</b> — красивый город.	San Pietroburgo è una bella città.
+Зимний дворец	Palazzo d'Inverno	luoghi-in-citta	zimnij-dvorec	Кошки живут в <b>Зимнем дворце</b>.	I gatti vivono nel Palazzo d'Inverno.
+дворец	palazzo (reale)	luoghi-in-citta	dvorec	Это старый <b>дворец</b>.	Questo è un vecchio palazzo.
+императрица	imperatrice	persone-e-famiglia	imperatritsa	<b>Императрица</b> любит кошек.	L'imperatrice ama i gatti.
+век	secolo	tempo-e-date	vek	Это было в восемнадцатом <b>веке</b>.	Era nel diciottesimo secolo.
+завести	prendere (un animale), mettere su	verbi,animali	zavesti	Она <b>завела</b> кошку.	Ha preso una gatta.
+защищать	proteggere, difendere	verbi,animali	zashchishchat	Кошка <b>защищает</b> дом от мышей.	La gatta protegge la casa dai topi.
+крыса	ratto	animali	krysa	Это не мышь, это <b>крыса</b>.	Non è un topo, è un ratto.
+символ	simbolo	arte-e-cultura	simvol	Кошка — <b>символ</b> музея.	Il gatto è il simbolo del museo.
+любимец	beniamino, cocco	persone-e-famiglia	lyubimec	Кот — <b>любимец</b> семьи.	Il gatto è il beniamino della famiglia.
+известный	famoso, noto	aggettivi	izvestnyj	Это <b>известный</b> музей.	Questo è un museo famoso.
+подвал	scantinato	casa-e-oggetti	podval	Кошки живут в <b>подвале</b>.	I gatti vivono nello scantinato.
+сотрудник	dipendente, collaboratore	professioni	sotrudnik	Этот <b>сотрудник</b> кормит кошек.	Questo dipendente dà da mangiare ai gatti.
+волонтёр	volontario	professioni	volonter	<b>Волонтёры</b> кормят кошек.	I volontari danno da mangiare ai gatti.
+посетитель	visitatore	persone-e-famiglia	posetitel	В музее много <b>посетителей</b>.	Nel museo ci sono molti visitatori.
+хранитель	custode, guardiano	professioni	hranitel	Кошка — <b>хранитель</b> музея.	Il gatto è il custode del museo.
+начальник	capo, responsabile	professioni	nachalnik	Он — <b>начальник</b> кошек.	Lui è il capo dei gatti.
+ветеринар	veterinario	professioni	veterinar	Это наш <b>ветеринар</b>.	Questo è il nostro veterinario.
+ветеринарная клиника	clinica veterinaria	luoghi-in-citta	veterinarnaya-klinika	У кошек есть <b>ветеринарная клиника</b>.	I gatti hanno una clinica veterinaria.
+лечить	curare	verbi,salute	lechit	Ветеринар <b>лечит</b> кошку.	Il veterinario cura la gatta.
+кормить	dare da mangiare, nutrire	verbi,cibo-e-bevande	kormit	Я <b>кормлю</b> кошку два раза в день.	Do da mangiare alla gatta due volte al giorno.
+ухаживать за	prendersi cura di	verbi	uhazhivat-za	Волонтёры <b>ухаживают за</b> кошками.	I volontari si prendono cura dei gatti.
+заботиться о	occuparsi di, prendersi cura di	verbi	zabotitsya-o	Мы <b>заботимся о</b> кошке.	Ci occupiamo della gatta.
+охранять	sorvegliare, proteggere	verbi,animali	ohranyat	Кошки <b>охраняют</b> музей.	I gatti sorvegliano il museo.
+усыновлять	adottare	verbi,animali	usynovlyat	Люди <b>усыновляют</b> кошек.	Le persone adottano i gatti.
+привезти	portare (con un mezzo)	verbi,viaggi-e-trasporti	privezti	Кошек <b>привезли</b> из Казани.	I gatti sono stati portati da Kazan'.
+исчезнуть	scomparire	verbi	ischeznut	Кошка <b>исчезла</b> из дома.	La gatta è scomparsa da casa.
+считать	ritenere, considerare	verbi	schitat-ritenere	Люди <b>считают</b>, что кошки умные.	La gente ritiene che i gatti siano intelligenti.
+появляться	apparire, comparire	verbi	poyavlyatsya	Кошки <b>появляются</b> в книгах.	I gatti compaiono nei libri.
+существовать	esistere	verbi	sushchestvovat	<b>Существуют</b> книги о кошках.	Esistono libri sui gatti.
+изображать	raffigurare, ritrarre	verbi,arte-e-cultura	izobrazhat	Художники <b>изображают</b> кошек.	Gli artisti ritraggono i gatti.
+познакомиться с	fare conoscenza con, conoscere	verbi,persone-e-famiglia	poznakomitsya-s	Дети могут <b>познакомиться с</b> кошками.	I bambini possono conoscere i gatti.
+узнать	scoprire, venire a sapere	verbi	uznat	Я хочу <b>узнать</b> историю кошек.	Voglio scoprire la storia dei gatti.
+взять	prendere	verbi	vzyat	Я могу <b>взять</b> кошку?	Posso prendere una gatta?
+поощрять	incoraggiare	verbi	poshchryat	Учитель <b>поощряет</b> детей.	L'insegnante incoraggia i bambini.
+избегать	evitare	verbi	izbegat	Этот кот <b>избегает</b> людей.	Questo gatto evita le persone.
+звать	chiamare	verbi	zvat	Я <b>зову</b> кошку.	Chiamo la gatta.
+сувенир	souvenir	acquisti-e-negozi	suvenir	В магазине продают <b>сувениры</b>.	Nel negozio vendono souvenir.
+кружка	tazza (grande)	casa-e-oggetti	kruzhka	Это кошачья <b>кружка</b>.	Questa è una tazza con i gatti.
+календарь	calendario	casa-e-oggetti	kalendar	Это кошачий <b>календарь</b>.	Questo è un calendario con i gatti.
+социальные сети	social network	espressioni-utili	socialnye-seti	У кошек есть страницы в <b>социальных сетях</b>.	I gatti hanno pagine sui social.
+подписчик	follower	persone-e-famiglia	podpischik	У музея много <b>подписчиков</b>.	Il museo ha molti follower.
+фотограф	fotografo	professioni	fotograf	<b>Фотографы</b> любят кошек.	I fotografi amano i gatti.
+экспонат	pezzo esposto	arte-e-cultura	eksponat	В зале много <b>экспонатов</b>.	Nella sala ci sono molti pezzi esposti.
+зал	sala	luoghi-in-citta	zal	В музее большой <b>зал</b>.	Nel museo c'è una grande sala.
+выставочный зал	sala espositiva	luoghi-in-citta	vystavochnyj-zal	Кошки не ходят в <b>выставочный зал</b>.	I gatti non vanno nella sala espositiva.
+произведение искусства	opera d'arte	arte-e-cultura	proizvedenie-iskusstva	Это <b>произведение искусства</b>.	Questa è un'opera d'arte.
+блокада	assedio	tempo-e-date	blokada	Это было во время <b>блокады</b> Ленинграда.	Era durante l'assedio di Leningrado.
+общение	contatto, comunicazione	concetti-astratti	obshchenie	Кошка любит <b>общение</b> с людьми.	La gatta ama il contatto con le persone.
+независимость	indipendenza	concetti-astratti	nezavisimost	Кошки любят <b>независимость</b>.	I gatti amano l'indipendenza.
+кошачий	di gatto, da gatto	aggettivi,animali	koshachij	Это <b>кошачий</b> домик.	Questa è una casetta per gatti.
+домик	casetta	casa-e-oggetti	domik	У кошки есть <b>домик</b>.	La gatta ha una casetta.
+кормушка	mangiatoia	casa-e-oggetti	kormushka	В подвале стоят <b>кормушки</b>.	Nello scantinato ci sono delle mangiatoie.
+спальное место	posto per dormire	casa-e-oggetti	spalnoe-mesto	У кошки есть <b>спальное место</b>.	La gatta ha un posto per dormire.
+укрытие	rifugio, riparo	casa-e-oggetti	ukrytie	Кошке нужно <b>укрытие</b>.	La gatta ha bisogno di un rifugio.
+коробка	scatola	casa-e-oggetti	korobka	Кошка сидит в <b>коробке</b>.	La gatta è seduta in una scatola.
+одеяло	coperta	casa-e-oggetti	odeyalo	Кошка спит на <b>одеяле</b>.	La gatta dorme sulla coperta.
+территория	territorio	natura-e-luoghi	territoriya	У каждой кошки своя <b>территория</b>.	Ogni gatta ha il suo territorio.
+зона	zona	natura-e-luoghi	zona	В подвале есть разные <b>зоны</b>.	Nello scantinato ci sono zone diverse.
+служебный	di servizio	aggettivi	sluzhebnyj	Это <b>служебная</b> зона.	Questa è una zona di servizio.
+помещение	locale, ambiente	casa-e-oggetti	pomeshchenie	В музее много <b>помещений</b>.	Nel museo ci sono molti locali.
+пространство	spazio	concetti-astratti	prostranstvo	У кошки есть своё <b>пространство</b>.	La gatta ha il suo spazio.
+коридор	corridoio	casa-e-oggetti	koridor	В подвале длинный <b>коридор</b>.	Nello scantinato c'è un lungo corridoio.
+кормление	pasto, alimentazione (degli animali)	cibo-e-bevande	kormlenie	Это зона <b>кормления</b>.	Questa è la zona dei pasti.
+расписание	orario	tempo-e-date	raspisanie	Кошек кормят по <b>расписанию</b>.	Ai gatti si dà da mangiare secondo l'orario.
+реестр	registro	concetti-astratti	reestr	Имена кошек есть в <b>реестре</b>.	I nomi dei gatti sono nel registro.
+прививка	vaccinazione	salute	privivka	У кошки есть <b>прививки</b>.	La gatta ha le vaccinazioni.
+медицинский осмотр	visita medica	salute	medicinskij-osmotr	Новые кошки проходят <b>медицинский осмотр</b>.	I gatti nuovi fanno una visita medica.
+стерилизованный	sterilizzato	aggettivi,animali	sterilizovannyj	Наша кошка <b>стерилизованная</b>.	La nostra gatta è sterilizzata.
+кастрированный	castrato	aggettivi,animali	kastrirovannyj	Наш кот <b>кастрированный</b>.	Il nostro gatto è castrato.
+собеседование	colloquio	concetti-astratti	sobesedovanie	У нас завтра <b>собеседование</b>.	Domani abbiamo un colloquio.
+проверка	controllo, verifica	concetti-astratti	proverka	Завтра будет <b>проверка</b>.	Domani ci sarà un controllo.
+официальный	ufficiale	aggettivi	ofitsialnyj	У кошки есть <b>официальный</b> паспорт.	La gatta ha un passaporto ufficiale.
+неофициальный	non ufficiale	aggettivi	neofitsialnyj	Кошка — <b>неофициальный</b> символ музея.	La gatta è il simbolo non ufficiale del museo.
+до сих пор	ancora, fino ad ora	avverbi,tempo-e-date	do-sih-por	Кошки <b>до сих пор</b> живут в музее.	I gatti vivono ancora nel museo.
+ежедневно	ogni giorno, quotidianamente	avverbi,tempo-e-date	ezhednevno	Волонтёры <b>ежедневно</b> кормят кошек.	I volontari danno da mangiare ai gatti ogni giorno.
+ежегодно	ogni anno	avverbi,tempo-e-date	ezhegodno	<b>Ежегодно</b> в музее праздник кошек.	Ogni anno nel museo c'è la festa dei gatti.
+в среднем	in media	avverbi	v-srednem	Кошки живут <b>в среднем</b> десять лет.	I gatti vivono in media dieci anni.
+благодаря	grazie a	pronomi-e-connettori	blagodarya	<b>Благодаря</b> музею кошки живут хорошо.	Grazie al museo i gatti vivono bene.
+любой	qualsiasi, ogni	pronomi-e-connettori	lyuboj	<b>Любой</b> может взять кошку.	Chiunque può prendere una gatta.
+угощение	leccornia, dolcetto	cibo-e-bevande	ugoshchenie	У нас есть <b>угощения</b> для кошки.	Abbiamo delle leccornie per il gatto.
+спонсор	sponsor	persone-e-famiglia	sponsor	Это наш <b>спонсор</b>.	Questo è il nostro sponsor.
+пожертвование	donazione	concetti-astratti	pozhertvovanie	Музей получает <b>пожертвования</b>.	Il museo riceve donazioni.
+фонд	fondazione, fondo	concetti-astratti	fond	У кошек есть <b>фонд</b>.	I gatti hanno una fondazione.
+алфавит	alfabeto	scuola-e-lingua	alfavit	Это русский <b>алфавит</b>.	Questo è l'alfabeto russo.

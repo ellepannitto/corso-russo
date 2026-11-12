@@ -1,23 +1,24 @@
-сначала	prima	orari-e-frequenza	snachala	Сначала я делаю домашнее задание, потом отдыхаю.	Prima faccio i compiti a casa, poi mi riposo.
-потом	dopo	orari-e-frequenza	potom	Сейчас мы обедаем, а потом пойдём гулять.	Adesso pranziamo, poi andremo a passeggiare.
-правда	vero	pronomi-e-connettori	pravda	Это правда: моя сестра живёт в Италии.	È vero: mia sorella vive in Italia.
-неправда	falso	pronomi-e-connettori	nepravda	Это неправда, я не курю.	Non è vero, io non fumo.
-игра	gioco	sport-e-giochi	igra	Эта игра очень интересная.	Questo gioco è molto interessante.
-начинать	iniziare	verbi	nachinat	Мы **начинаем** урок в девять.	Iniziamo la lezione alle nove.
-заканчивать	finire	verbi	zakanchivat	Я **заканчиваю** работу в шесть.	Finisco di lavorare alle sei.
-кончать	finire	verbi	konchat	Мы **кончаем** читать рассказ.	Finiamo di leggere il racconto.
-танцевать	ballare	sport-e-giochi	tantsevat	Мои друзья любят танцевать.	Ai miei amici piace ballare.
-плавание	nuoto	sport-e-giochi	plavanie	Плавание — мой любимый спорт.	Il nuoto è il mio sport preferito.
-мне нравится	mi piace	gusti-e-preferenze	mne-nravitsya	Мне нравится эта песня.	Mi piace questa canzone.
-тебе нравится	ti piace	gusti-e-preferenze	tebe-nravitsya	Тебе нравится плавать в море?	Ti piace nuotare in mare?
-ему нравится	gli piace	gusti-e-preferenze	emu-nravitsya	Ему нравится играть в футбол.	Gli piace giocare a calcio.
-ей нравится	le piace	gusti-e-preferenze	ey-nravitsya	Ей нравится читать рассказы.	Le piace leggere racconti.
-нам нравится	ci piace	gusti-e-preferenze	nam-nravitsya	Нам нравится гулять вместе.	Ci piace passeggiare insieme.
-вам нравится	vi piace	gusti-e-preferenze	vam-nravitsya	Вам нравится русский язык?	Vi piace la lingua russa?
-им нравится	a loro piace	gusti-e-preferenze	im-nravitsya	Им нравится этот город.	A loro piace questa città.
-гранат	melograno	cibo-e-bevande	granat	Я покупаю гранат на рынке.	Compro un melograno al mercato.
-хурма	kaki	cibo-e-bevande	hurma	Эта хурма очень вкусная.	Questo kaki è molto buono.
-грейпфрут	pompelmo	cibo-e-bevande	greypfrut	На завтрак я ем грейпфрут.	A colazione mangio un pompelmo.
-лапша	noodles	cibo-e-bevande	lapsha	Сегодня на обед лапша с овощами.	Oggi a pranzo ci sono noodles con verdure.
-макароны	pasta	cibo-e-bevande	makarony	Я готовлю макароны с сыром.	Preparo la pasta al formaggio.
-ракушки	conchiglie	casa-e-oggetti	rakushki	Дети собирают ракушки на пляже.	I bambini raccolgono conchiglie sulla spiaggia.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+сначала	prima	tempo-e-date	snachala	<b>Сначала</b> я делаю домашнее задание, потом отдыхаю.	Prima faccio i compiti a casa, poi mi riposo.
+потом	dopo	tempo-e-date	potom	Сейчас мы обедаем, а <b>потом</b> пойдём гулять.	Adesso pranziamo, poi andremo a passeggiare.
+правда	vero	pronomi-e-connettori	pravda	Это <b>правда</b>: моя сестра живёт в Италии.	È vero: mia sorella vive in Italia.
+неправда	falso	pronomi-e-connettori	nepravda	Это <b>неправда</b>, я не курю.	Non è vero, io non fumo.
+игра	gioco	sport-e-giochi	igra	Эта <b>игра</b> очень интересная.	Questo gioco è molto interessante.
+начинать	iniziare	verbi,tempo-e-date	nachinat	Мы <b>начинаем</b> урок в девять.	Iniziamo la lezione alle nove.
+заканчивать	finire	verbi,tempo-e-date	zakanchivat	Я <b>заканчиваю</b> работу в шесть.	Finisco di lavorare alle sei.
+кончать	finire	verbi,tempo-e-date	konchat	Мы <b>кончаем</b> читать рассказ.	Finiamo di leggere il racconto.
+танцевать	ballare	sport-e-giochi	tantsevat	Мои друзья любят <b>танцевать</b>.	Ai miei amici piace ballare.
+плавание	nuoto	sport-e-giochi	plavanie	<b>Плавание</b> — мой любимый спорт.	Il nuoto è il mio sport preferito.
+мне нравится	mi piace	espressioni-utili	mne-nravitsya	<b>Мне нравится</b> эта песня.	Mi piace questa canzone.
+тебе нравится	ti piace	espressioni-utili	tebe-nravitsya	<b>Тебе нравится</b> плавать в море?	Ti piace nuotare in mare?
+ему нравится	gli piace	espressioni-utili	emu-nravitsya	<b>Ему нравится</b> играть в футбол.	Gli piace giocare a calcio.
+ей нравится	le piace	espressioni-utili	ey-nravitsya	<b>Ей нравится</b> читать рассказы.	Le piace leggere racconti.
+нам нравится	ci piace	espressioni-utili	nam-nravitsya	<b>Нам нравится</b> гулять вместе.	Ci piace passeggiare insieme.
+вам нравится	vi piace	espressioni-utili	vam-nravitsya	<b>Вам нравится</b> русский язык?	Vi piace la lingua russa?
+им нравится	a loro piace	espressioni-utili	im-nravitsya	<b>Им нравится</b> этот город.	A loro piace questa città.
+гранат	melograno	cibo-e-bevande	granat	Я покупаю <b>гранат</b> на рынке.	Compro un melograno al mercato.
+хурма	kaki	cibo-e-bevande	hurma	Эта <b>хурма</b> очень вкусная.	Questo kaki è molto buono.
+грейпфрут	pompelmo	cibo-e-bevande	greypfrut	На завтрак я ем <b>грейпфрут</b>.	A colazione mangio un pompelmo.
+лапша	noodles	cibo-e-bevande	lapsha	Сегодня на обед <b>лапша</b> с овощами.	Oggi a pranzo ci sono noodles con verdure.
+макароны	pasta	cibo-e-bevande	makarony	Я готовлю <b>макароны</b> с сыром.	Preparo la pasta al formaggio.
+ракушки	conchiglie	casa-e-oggetti	rakushki	Дети собирают <b>ракушки</b> на пляже.	I bambini raccolgono conchiglie sulla spiaggia.

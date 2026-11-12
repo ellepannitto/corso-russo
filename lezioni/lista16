@@ -1,17 +1,18 @@
-вставать	alzarsi	verbi	vstavat	По будням я **встаю** рано.	Nei giorni feriali mi alzo presto.
-продавать	vendere	verbi	prodavat	Этот магазин **продаёт** книги.	Questo negozio vende libri.
-уставать	stancarsi	verbi	ustavat	После работы я часто **устаю**.	Dopo il lavoro mi stanco spesso.
-давать	dare affittare	verbi	davat	Преподаватель **даёт** нам новое задание.	L'insegnante ci dà un nuovo compito.
-спать	dormire	verbi	spat	Ребёнок **спит** в своей комнате.	Il bambino dorme nella sua stanza.
-принимать душ	fare la doccia	espressioni-utili	prinimat dush	После тренировки я **принимаю душ**.	Dopo l'allenamento faccio la doccia.
-принимать ванну	fare il bagno	espressioni-utili	prinimat vannu	Вечером я люблю принимать ванну.	La sera mi piace fare il bagno.
-принимать таблетки	prendere le medicine	espressioni-utili	prinimat tabletki	Она **принимает таблетки** по назначению врача.	Lei prende le medicine prescritte dal medico.
-принимать подарки	ricevere regali	espressioni-utili	prinimat podarki	Он с радостью **принимает подарки** от друзей.	Accetta con gioia i regali degli amici.
-принимать гостей	ricevere gli ospiti	espressioni-utili	prinimat gostej	В субботу мы **принимаем гостей**.	Sabato riceviamo ospiti.
-принимать пациентов	visitare i pazienti	espressioni-utili	prinimat pacientov	Врач **принимает пациентов** с девяти утра.	Il medico visita i pazienti dalle nove del mattino.
-вне	fuori all'esterno	avverbi	vne	Сегодня мы обедаем вне дома.	Oggi pranziamo fuori casa.
-бухгалтер	ragioniere	professioni	buhgalter	Моя сестра работает **бухгалтером**.	Mia sorella lavora come ragioniera.
-снова	di nuovo ancora	avverbi	snova	Снова идёт дождь.	Piove di nuovo.
-зарядка	ginnastica	sport-e-giochi	zarjadka	Утром я делаю **зарядку**.	La mattina faccio ginnastica.
-печенье	biscotto	cibo-e-bevande	pechene	Возьми печенье к чаю.	Prendi un biscotto da mangiare con il tè.
-конечно	naturalmente certamente	avverbi	konechno	Конечно, ты можешь прийти с другом.	Certamente, puoi venire con un amico.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+вставать	alzarsi	verbi	vstavat	По будням я <b>встаю</b> рано.	Nei giorni feriali mi alzo presto.
+продавать	vendere	verbi,acquisti-e-negozi	prodavat	Этот магазин <b>продаёт</b> книги.	Questo negozio vende libri.
+уставать	stancarsi	verbi	ustavat	После работы я часто <b>устаю</b>.	Dopo il lavoro mi stanco spesso.
+давать	dare, affittare	verbi	davat	Преподаватель <b>даёт</b> нам новое задание.	L'insegnante ci dà un nuovo compito.
+спать	dormire	verbi	spat	Ребёнок <b>спит</b> в своей комнате.	Il bambino dorme nella sua stanza.
+принимать душ	fare la doccia	espressioni-utili	prinimat dush	После тренировки я <b>принимаю душ</b>.	Dopo l'allenamento faccio la doccia.
+принимать ванну	fare il bagno	espressioni-utili	prinimat vannu	Вечером я люблю <b>принимать ванну</b>.	La sera mi piace fare il bagno.
+принимать таблетки	prendere le medicine	espressioni-utili	prinimat tabletki	Она <b>принимает таблетки</b> по назначению врача.	Lei prende le medicine prescritte dal medico.
+принимать подарки	ricevere regali	espressioni-utili	prinimat podarki	Он с радостью <b>принимает подарки</b> от друзей.	Accetta con gioia i regali degli amici.
+принимать гостей	ricevere gli ospiti	espressioni-utili	prinimat gostej	В субботу мы <b>принимаем гостей</b>.	Sabato riceviamo ospiti.
+принимать пациентов	visitare i pazienti	espressioni-utili	prinimat pacientov	Врач <b>принимает пациентов</b> с девяти утра.	Il medico visita i pazienti dalle nove del mattino.
+вне	fuori all'esterno	avverbi,spazio-e-direzioni	vne	Сегодня мы обедаем <b>вне</b> дома.	Oggi pranziamo fuori casa.
+бухгалтер	ragioniere	professioni	buhgalter	Моя сестра работает <b>бухгалтером</b>.	Mia sorella lavora come ragioniera.
+снова	di nuovo ancora	avverbi,tempo-e-date	snova	<b>Снова</b> идёт дождь.	Piove di nuovo.
+зарядка	ginnastica	sport-e-giochi	zarjadka	Утром я делаю <b>зарядку</b>.	La mattina faccio ginnastica.
+печенье	biscotto	cibo-e-bevande	pechene	Возьми <b>печенье</b> к чаю.	Prendi un biscotto da mangiare con il tè.
+конечно	naturalmente, certamente	avverbi,espressioni-utili	konechno	<b>Конечно</b>, ты можешь прийти с другом.	Certamente, puoi venire con un amico.

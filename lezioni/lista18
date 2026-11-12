@@ -1,17 +1,18 @@
-можно	si può	espressioni-utili	mozhno	Здесь можно сесть?	Ci si può sedere qui?
-нельзя	è vietato non si può	espressioni-utili	nelzja	В музее нельзя трогать картины.	Nel museo non si possono toccare i quadri.
-нужно	c'è bisogno bisogna	espressioni-utili	nuzhno	Мне нужно купить хлеб.	Ho bisogno di comprare il pane.
-надо	si deve bisogna	espressioni-utili	nado	Надо закончить домашнее задание.	Bisogna finire i compiti a casa.
-мочь	potere	verbi	moch	Сегодня я не **могу** прийти.	Oggi non posso venire.
-уметь	saper fare	verbi	umet	Моя сестра **умеет** плавать.	Mia sorella sa nuotare.
-грипп	influenza	stato-e-condizioni	gripp	У него грипп, поэтому он дома.	Lui ha l'influenza, perciò è a casa.
-соседка	vicina di casa	persone-e-famiglia	sosedka	Моя соседка работает в школе.	La mia vicina lavora a scuola.
-деревня	villaggio	natura-e-luoghi	derevnja	Эта деревня находится рядом с лесом.	Questo villaggio si trova vicino alla foresta.
-природа	natura	natura-e-luoghi	priroda	Я люблю **природу** и часто гуляю в лесу.	Amo la natura e passeggio spesso nella foresta.
-дорога	strada	viaggi-e-trasporti	doroga	Эта дорога ведёт к озеру.	Questa strada porta al lago.
-поезд	treno	viaggi-e-trasporti	poezd	Поезд отправляется через десять минут.	Il treno parte tra dieci minuti.
-царь	zar	arte-e-cultura	car	В этой сказке царь живёт во дворце.	In questa fiaba lo zar vive in un palazzo.
-монах	monaco	arte-e-cultura	monah	Монах читает книгу в монастыре.	Il monaco legge un libro nel monastero.
-операция	operazione	stato-e-condizioni	operacija	Операция прошла хорошо.	L'operazione è andata bene.
-химия	chimica	scuola-e-lingua	himija	Химия — мой любимый предмет.	La chimica è la mia materia preferita.
-фрилансер	freelancer	professioni	frilanser	Он фрилансер и работает дома.	Lui è un freelance e lavora a casa.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+можно	si può	espressioni-utili	mozhno	Здесь <b>можно</b> сесть?	Ci si può sedere qui?
+нельзя	è vietato, non si può	espressioni-utili	nelzja	В музее <b>нельзя</b> трогать картины.	Nel museo non si possono toccare i quadri.
+нужно	c'è bisogno bisogna	espressioni-utili	nuzhno	Мне <b>нужно</b> купить хлеб.	Ho bisogno di comprare il pane.
+надо	si deve, bisogna	espressioni-utili	nado	<b>Надо</b> закончить домашнее задание.	Bisogna finire i compiti a casa.
+мочь	potere	verbi	moch	Сегодня я не <b>могу</b> прийти.	Oggi non posso venire.
+уметь	saper fare	verbi	umet	Моя сестра <b>умеет</b> плавать.	Mia sorella sa nuotare.
+грипп	influenza	salute	gripp	У него <b>грипп</b>, поэтому он дома.	Lui ha l'influenza, perciò è a casa.
+соседка	vicina di casa	persone-e-famiglia	sosedka	Моя <b>соседка</b> работает в школе.	La mia vicina lavora a scuola.
+деревня	villaggio	natura-e-luoghi	derevnja	Эта <b>деревня</b> находится рядом с лесом.	Questo villaggio si trova vicino alla foresta.
+природа	natura	natura-e-luoghi	priroda	Я люблю <b>природу</b> и часто гуляю в лесу.	Amo la natura e passeggio spesso nella foresta.
+дорога	strada	viaggi-e-trasporti	doroga	Эта <b>дорога</b> ведёт к озеру.	Questa strada porta al lago.
+поезд	treno	viaggi-e-trasporti	poezd	<b>Поезд</b> отправляется через десять минут.	Il treno parte tra dieci minuti.
+царь	zar	arte-e-cultura	car	В этой сказке <b>царь</b> живёт во дворце.	In questa fiaba lo zar vive in un palazzo.
+монах	monaco	arte-e-cultura	monah	<b>Монах</b> читает книгу в монастыре.	Il monaco legge un libro nel monastero.
+операция	operazione	salute	operacija	<b>Операция</b> прошла хорошо.	L'operazione è andata bene.
+химия	chimica	scuola-e-lingua	himija	<b>Химия</b> — мой любимый предмет.	La chimica è la mia materia preferita.
+фрилансер	freelancer	professioni	frilanser	Он <b>фрилансер</b> и работает дома.	Lui è un freelance e lavora a casa.

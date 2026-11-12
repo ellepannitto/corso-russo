@@ -1,97 +1,97 @@
-семья	famiglia	persone-e-famiglia	semya	Моя семья дома.	La mia famiglia è a casa.
-папа	papà	persone-e-famiglia	papa	Папа читает газету.	Papà legge il giornale.
-отец	padre	persone-e-famiglia	otets	Мой отец врач.	Mio padre è medico.
-муж	marito	persone-e-famiglia	muzh	Муж дома.	Il marito è a casa.
-парень	fidanzato	persone-e-famiglia	paren	Мой парень студент.	Il mio fidanzato è studente.
-брат	fratello	persone-e-famiglia	brat	Брат в школе.	Mio fratello è a scuola.
-сын	figlio	persone-e-famiglia	syn	Сын читает книгу.	Il figlio legge un libro.
-дедушка	nonno	persone-e-famiglia	dedushka	Дедушка дома.	Il nonno è a casa.
-внук	nipote	persone-e-famiglia	vnuk	Внук в школе.	Il nipote è a scuola.
-дядя	zio	persone-e-famiglia	dyadya	Дядя читает журнал.	Lo zio legge una rivista.
-племянник	nipote	persone-e-famiglia	plemyannik	Племянник дома.	Il nipote è a casa.
-двоюродный брат	cugino	persone-e-famiglia	dvoyurodnyy-brat	Двоюродный брат студент.	Mio cugino è studente.
-родители	genitori	persone-e-famiglia	roditeli	Родители дома.	I genitori sono a casa.
-мама	mamma	persone-e-famiglia	mama	Мама готовит ужин.	La mamma prepara la cena.
-мать	madre	persone-e-famiglia	mat	Мать читает книгу.	La madre legge un libro.
-жена	moglie	persone-e-famiglia	zhena	Жена дома.	La moglie è a casa.
-девушка	fidanzata	persone-e-famiglia	devushka	Моя девушка дома.	La mia fidanzata è a casa.
-сестра	sorella	persone-e-famiglia	sestra	Сестра читает книгу.	Mia sorella legge un libro.
-дочь	figlia	persone-e-famiglia	doch	Дочь в школе.	La figlia è a scuola.
-дети	figli	persone-e-famiglia	deti	Дети дома.	I figli sono a casa.
-бабушка	nonna	persone-e-famiglia	babushka	Бабушка готовит чай.	La nonna prepara il tè.
-внучка	nipote	persone-e-famiglia	vnuchka	Внучка читает.	La nipote legge.
-тётя	zia	persone-e-famiglia	tiotya	Тётя в городе.	La zia è in città.
-племянница	nipote	persone-e-famiglia	plemyannitsa	Племянница дома.	La nipote è a casa.
-двоюродная сестра	cugina	persone-e-famiglia	dvoyurodnaya-sestra	Двоюродная сестра студентка.	Mia cugina è studentessa.
-скажи	dimmi	saluti-e-cortesia	skazhi	Скажи своё имя.	Dimmi il tuo nome.
-покажи	fammi vedere	saluti-e-cortesia	pokazhi	Покажи мне книгу.	Fammi vedere il libro.
-дай	dammi	saluti-e-cortesia	day	Дай мне воду.	Dammi dell'acqua.
-смотри	guarda	saluti-e-cortesia	smotri	Смотри, это кот.	Guarda, è un gatto.
-где	dove	pronomi-e-connettori	gde	Где моя сумка?	Dov'è la mia borsa?
-банан	banana	cibo-e-bevande	banan	Банан на столе.	La banana è sul tavolo.
-виноград	uva	cibo-e-bevande	vinograd	Виноград на тарелке.	L'uva è nel piatto.
-груша	pera	cibo-e-bevande	grusha	Груша на столе.	La pera è sul tavolo.
-клубника	fragola	cibo-e-bevande	klubnika	Клубника вкусная.	La fragola è buona.
-курица	pollo	cibo-e-bevande	kuritsa	Курица и картофель.	Pollo e patate.
-лимон	limone	cibo-e-bevande	limon	Лимон в чае.	Il limone è nel tè.
-мясо	carne	cibo-e-bevande	myaso	Мясо на тарелке.	La carne è nel piatto.
-рыба	pesce	cibo-e-bevande	ryba	Рыба и хлеб.	Pesce e pane.
-сыр	formaggio	cibo-e-bevande	syr	Сыр на хлебе.	Il formaggio è sul pane.
-хлеб	pane	cibo-e-bevande	hleb	Хлеб на столе.	Il pane è sul tavolo.
-яблоко	mela	cibo-e-bevande	yabloko	Яблоко вкусное.	La mela è buona.
-столовая	mensa	luoghi-in-citta	stolovaya	Столовая в школе.	La mensa è nella scuola.
-песня	canzone	scuola-e-lingua	pesnya	Песня красивая.	La canzone è bella.
-море	mare	natura-e-luoghi	more	Море большое.	Il mare è grande.
-упражнение	esercizio	scuola-e-lingua	uprazhnenie	Упражнение трудное.	L'esercizio è difficile.
-время	tempo	tempo-e-date	vremya	Время урока.	È l'ora della lezione.
-имя	nome	persone-e-famiglia	imya	Моё имя Анна.	Il mio nome è Anna.
-словарь	vocabolario	scuola-e-lingua	slovar	Словарь на столе.	Il vocabolario è sul tavolo.
-кофе	caffè	cibo-e-bevande	kofe	Кофе горячий.	Il caffè è caldo.
-друг	amico	persone-e-famiglia	drug	Друг дома.	L'amico è a casa.
-подруга	amica	persone-e-famiglia	podruga	Подруга читает книгу.	L'amica legge un libro.
-животное	animale	animali	zhivotnoe	Это животное большое.	Questo animale è grande.
-тарелка	piatto	stoviglie-e-posate	tarelka	Тарелка на столе.	Il piatto è sul tavolo.
-капуста	cavolo	cibo-e-bevande	kapusta	Капуста на тарелке.	Il cavolo è nel piatto.
-яйца	uova	cibo-e-bevande	yaytsa	Яйца на столе.	Le uova sono sul tavolo.
-икра	caviale	cibo-e-bevande	ikra	Икра на хлебе.	Il caviale è sul pane.
-еда	cibo	cibo-e-bevande	eda	Еда на столе.	Il cibo è sul tavolo.
-вишня	ciliegia	cibo-e-bevande	vishnya	Вишня сладкая.	La ciliegia è dolce.
-черешня	ciliegia dolce	cibo-e-bevande	chereshnya	Черешня на тарелке.	Le ciliegie dolci sono nel piatto.
-малина	lampone	cibo-e-bevande	malina	Малина вкусная.	Il lampone è buono.
-черника	mirtillo	cibo-e-bevande	chernika	Черника на тарелке.	I mirtilli sono nel piatto.
-горох	piselli	cibo-e-bevande	goroh	Горох и мясо.	Piselli e carne.
-кукуруза	mais	cibo-e-bevande	kukuruza	Кукуруза на тарелке.	Il mais è nel piatto.
-нут	ceci	cibo-e-bevande	nut	Нут и овощи.	Ceci e verdure.
-чечевица	lenticchia	cibo-e-bevande	chechevitsa	Чечевица на тарелке.	Le lenticchie sono nel piatto.
-морковь	carota	cibo-e-bevande	morkov	Морковь и капуста.	Carote e cavolo.
-картофель	patata	cibo-e-bevande	kartofel	Картофель на тарелке.	Le patate sono nel piatto.
-батат	patata dolce	cibo-e-bevande	batat	Батат вкусный.	La patata dolce è buona.
-свёкла	barbabietola	cibo-e-bevande	sviokla	Свёкла на тарелке.	La barbabietola è nel piatto.
-репа	rapa	cibo-e-bevande	repa	Репа и морковь.	Rapa e carota.
-чеснок	aglio	cibo-e-bevande	chesnok	Чеснок и лук.	Aglio e cipolla.
-шпинат	spinaci	cibo-e-bevande	shpinat	Шпинат на тарелке.	Gli spinaci sono nel piatto.
-манго	mango	cibo-e-bevande	mango	Манго на столе.	Il mango è sul tavolo.
-киви	kiwi	cibo-e-bevande	kivi	Киви на тарелке.	Il kiwi è nel piatto.
-баклажан	melanzana	cibo-e-bevande	baklazhan	Баклажан на тарелке.	La melanzana è nel piatto.
-тыква	zucca	cibo-e-bevande	tykva	Тыква большая.	La zucca è grande.
-фасоль	fagioli	cibo-e-bevande	fasol	Фасоль на тарелке.	I fagioli sono nel piatto.
-дыня	melone	cibo-e-bevande	dynya	Дыня сладкая.	Il melone è dolce.
-слива	prugna	cibo-e-bevande	sliva	Слива на столе.	La prugna è sul tavolo.
-очки	occhiali	casa-e-oggetti	ochki	Очки на столе.	Gli occhiali sono sul tavolo.
-трусы	mutande	abbigliamento	trusy	Трусы в шкафу.	Le mutande sono nell'armadio.
-ножницы	forbici	casa-e-oggetti	nozhnitsy	Ножницы на столе.	Le forbici sono sul tavolo.
-лыжи	sci	abbigliamento	lyzhi	Лыжи в шкафу.	Gli sci sono nell'armadio.
-часы	orologio	casa-e-oggetti	chasy	Часы на стене.	L'orologio è sulla parete.
-брюки	pantaloni	abbigliamento	bryuki	Брюки в шкафу.	I pantaloni sono nell'armadio.
-деньги	soldi	casa-e-oggetti	dengi	Деньги в сумке.	I soldi sono nella borsa.
-наушники	cuffie	casa-e-oggetti	naushniki	Наушники на столе.	Le cuffie sono sul tavolo.
-шапка	cappello	abbigliamento	shapka	Шапка на стуле.	Il cappello è sulla sedia.
-колготки	calze	abbigliamento	kolgotki	Колготки в шкафу.	Le calze sono nell'armadio.
-поезд	treno	viaggi-e-trasporti	poezd	Поезд на станции.	Il treno è alla stazione.
-дерево	albero	natura-e-luoghi	derevo	Дерево в саду.	L'albero è in giardino.
-сосед	vicino	persone-e-famiglia	sosed	Сосед дома.	Il vicino è a casa.
-познакомься	ti presento	saluti-e-cortesia	poznakomsya	Познакомься, это мой друг.	Ti presento il mio amico.
-познакомиться	conoscersi	saluti-e-cortesia	poznakomitsya	Рада познакомиться с тобой.	Piacere di conoscerti.
-семья	famiglia	persone-e-famiglia	semya	Семья большая.	La famiglia è grande.
-фамилия	cognome	persone-e-famiglia	familiya	Моя фамилия Романо.	Il mio cognome è Romano.
-отчество	patronimico	persone-e-famiglia	otchestvo	У него русское отчество.	Lui ha un patronimico russo.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+семья	famiglia	persone-e-famiglia	semya	Моя <b>семья</b> дома.	La mia famiglia è a casa.
+папа	papà	persone-e-famiglia	papa	<b>Папа</b> читает газету.	Papà legge il giornale.
+отец	padre	persone-e-famiglia	otets	Мой <b>отец</b> врач.	Mio padre è medico.
+муж	marito	persone-e-famiglia	muzh	<b>Муж</b> дома.	Il marito è a casa.
+парень	fidanzato	persone-e-famiglia	paren	Мой <b>парень</b> студент.	Il mio fidanzato è studente.
+брат	fratello	persone-e-famiglia	brat	<b>Брат</b> в школе.	Mio fratello è a scuola.
+сын	figlio	persone-e-famiglia	syn	<b>Сын</b> читает книгу.	Il figlio legge un libro.
+дедушка	nonno	persone-e-famiglia	dedushka	<b>Дедушка</b> дома.	Il nonno è a casa.
+внук	nipote	persone-e-famiglia	vnuk	<b>Внук</b> в школе.	Il nipote è a scuola.
+дядя	zio	persone-e-famiglia	dyadya	<b>Дядя</b> читает журнал.	Lo zio legge una rivista.
+племянник	nipote	persone-e-famiglia	plemyannik	<b>Племянник</b> дома.	Il nipote è a casa.
+двоюродный брат	cugino	persone-e-famiglia	dvoyurodnyy-brat	<b>Двоюродный брат</b> студент.	Mio cugino è studente.
+родители	genitori	persone-e-famiglia	roditeli	<b>Родители</b> дома.	I genitori sono a casa.
+мама	mamma	persone-e-famiglia	mama	<b>Мама</b> готовит ужин.	La mamma prepara la cena.
+мать	madre	persone-e-famiglia	mat	<b>Мать</b> читает книгу.	La madre legge un libro.
+жена	moglie	persone-e-famiglia	zhena	<b>Жена</b> дома.	La moglie è a casa.
+девушка	fidanzata	persone-e-famiglia	devushka	Моя <b>девушка</b> дома.	La mia fidanzata è a casa.
+сестра	sorella	persone-e-famiglia	sestra	<b>Сестра</b> читает книгу.	Mia sorella legge un libro.
+дочь	figlia	persone-e-famiglia	doch	<b>Дочь</b> в школе.	La figlia è a scuola.
+дети	figli	persone-e-famiglia	deti	<b>Дети</b> дома.	I figli sono a casa.
+бабушка	nonna	persone-e-famiglia	babushka	<b>Бабушка</b> готовит чай.	La nonna prepara il tè.
+внучка	nipote	persone-e-famiglia	vnuchka	<b>Внучка</b> читает.	La nipote legge.
+тётя	zia	persone-e-famiglia	tiotya	<b>Тётя</b> в городе.	La zia è in città.
+племянница	nipote	persone-e-famiglia	plemyannitsa	<b>Племянница</b> дома.	La nipote è a casa.
+двоюродная сестра	cugina	persone-e-famiglia	dvoyurodnaya-sestra	<b>Двоюродная сестра</b> студентка.	Mia cugina è studentessa.
+скажи	dimmi	saluti-e-cortesia	skazhi	<b>Скажи</b> своё имя.	Dimmi il tuo nome.
+покажи	fammi vedere	saluti-e-cortesia	pokazhi	<b>Покажи</b> мне книгу.	Fammi vedere il libro.
+дай	dammi	saluti-e-cortesia	day	<b>Дай</b> мне воду.	Dammi dell'acqua.
+смотри	guarda	saluti-e-cortesia	smotri	<b>Смотри</b>, это кот.	Guarda, è un gatto.
+где	dove	pronomi-e-connettori	gde	<b>Где</b> моя сумка?	Dov'è la mia borsa?
+банан	banana	cibo-e-bevande	banan	<b>Банан</b> на столе.	La banana è sul tavolo.
+виноград	uva	cibo-e-bevande	vinograd	<b>Виноград</b> на тарелке.	L'uva è nel piatto.
+груша	pera	cibo-e-bevande	grusha	<b>Груша</b> на столе.	La pera è sul tavolo.
+клубника	fragola	cibo-e-bevande	klubnika	<b>Клубника</b> вкусная.	La fragola è buona.
+курица	pollo	cibo-e-bevande	kuritsa	<b>Курица</b> и картофель.	Pollo e patate.
+лимон	limone	cibo-e-bevande	limon	<b>Лимон</b> в чае.	Il limone è nel tè.
+мясо	carne	cibo-e-bevande	myaso	<b>Мясо</b> на тарелке.	La carne è nel piatto.
+рыба	pesce	cibo-e-bevande	ryba	<b>Рыба</b> и хлеб.	Pesce e pane.
+сыр	formaggio	cibo-e-bevande	syr	<b>Сыр</b> на хлебе.	Il formaggio è sul pane.
+хлеб	pane	cibo-e-bevande	hleb	<b>Хлеб</b> на столе.	Il pane è sul tavolo.
+яблоко	mela	cibo-e-bevande	yabloko	<b>Яблоко</b> вкусное.	La mela è buona.
+столовая	mensa	luoghi-in-citta	stolovaya	<b>Столовая</b> в школе.	La mensa è nella scuola.
+песня	canzone	scuola-e-lingua	pesnya	<b>Песня</b> красивая.	La canzone è bella.
+море	mare	natura-e-luoghi	more	<b>Море</b> большое.	Il mare è grande.
+упражнение	esercizio	scuola-e-lingua	uprazhnenie	<b>Упражнение</b> трудное.	L'esercizio è difficile.
+время	tempo	tempo-e-date	vremya	<b>Время</b> урока.	È l'ora della lezione.
+имя	nome	persone-e-famiglia	imya	Моё <b>имя</b> Анна.	Il mio nome è Anna.
+словарь	vocabolario	scuola-e-lingua	slovar	<b>Словарь</b> на столе.	Il vocabolario è sul tavolo.
+кофе	caffè	cibo-e-bevande	kofe	<b>Кофе</b> горячий.	Il caffè è caldo.
+друг	amico	persone-e-famiglia	drug	<b>Друг</b> дома.	L'amico è a casa.
+подруга	amica	persone-e-famiglia	podruga	<b>Подруга</b> читает книгу.	L'amica legge un libro.
+животное	animale	animali	zhivotnoe	Это <b>животное</b> большое.	Questo animale è grande.
+тарелка	piatto	casa-e-oggetti	tarelka	<b>Тарелка</b> на столе.	Il piatto è sul tavolo.
+капуста	cavolo	cibo-e-bevande	kapusta	<b>Капуста</b> на тарелке.	Il cavolo è nel piatto.
+яйца	uova	cibo-e-bevande	yaytsa	<b>Яйца</b> на столе.	Le uova sono sul tavolo.
+икра	caviale	cibo-e-bevande	ikra	<b>Икра</b> на хлебе.	Il caviale è sul pane.
+еда	cibo	cibo-e-bevande	eda	<b>Еда</b> на столе.	Il cibo è sul tavolo.
+вишня	ciliegia	cibo-e-bevande	vishnya	<b>Вишня</b> сладкая.	La ciliegia è dolce.
+черешня	ciliegia dolce	cibo-e-bevande	chereshnya	<b>Черешня</b> на тарелке.	Le ciliegie dolci sono nel piatto.
+малина	lampone	cibo-e-bevande	malina	<b>Малина</b> вкусная.	Il lampone è buono.
+черника	mirtillo	cibo-e-bevande	chernika	<b>Черника</b> на тарелке.	I mirtilli sono nel piatto.
+горох	piselli	cibo-e-bevande	goroh	<b>Горох</b> и мясо.	Piselli e carne.
+кукуруза	mais	cibo-e-bevande	kukuruza	<b>Кукуруза</b> на тарелке.	Il mais è nel piatto.
+нут	ceci	cibo-e-bevande	nut	<b>Нут</b> и овощи.	Ceci e verdure.
+чечевица	lenticchia	cibo-e-bevande	chechevitsa	<b>Чечевица</b> на тарелке.	Le lenticchie sono nel piatto.
+морковь	carota	cibo-e-bevande	morkov	<b>Морковь</b> и капуста.	Carote e cavolo.
+картофель	patata	cibo-e-bevande	kartofel	<b>Картофель</b> на тарелке.	Le patate sono nel piatto.
+батат	patata dolce	cibo-e-bevande	batat	<b>Батат</b> вкусный.	La patata dolce è buona.
+свёкла	barbabietola	cibo-e-bevande	sviokla	<b>Свёкла</b> на тарелке.	La barbabietola è nel piatto.
+репа	rapa	cibo-e-bevande	repa	<b>Репа</b> и морковь.	Rapa e carota.
+чеснок	aglio	cibo-e-bevande	chesnok	<b>Чеснок</b> и лук.	Aglio e cipolla.
+шпинат	spinaci	cibo-e-bevande	shpinat	<b>Шпинат</b> на тарелке.	Gli spinaci sono nel piatto.
+манго	mango	cibo-e-bevande	mango	<b>Манго</b> на столе.	Il mango è sul tavolo.
+киви	kiwi	cibo-e-bevande	kivi	<b>Киви</b> на тарелке.	Il kiwi è nel piatto.
+баклажан	melanzana	cibo-e-bevande	baklazhan	<b>Баклажан</b> на тарелке.	La melanzana è nel piatto.
+тыква	zucca	cibo-e-bevande	tykva	<b>Тыква</b> большая.	La zucca è grande.
+фасоль	fagioli	cibo-e-bevande	fasol	<b>Фасоль</b> на тарелке.	I fagioli sono nel piatto.
+дыня	melone	cibo-e-bevande	dynya	<b>Дыня</b> сладкая.	Il melone è dolce.
+слива	prugna	cibo-e-bevande	sliva	<b>Слива</b> на столе.	La prugna è sul tavolo.
+очки	occhiali	casa-e-oggetti	ochki	<b>Очки</b> на столе.	Gli occhiali sono sul tavolo.
+трусы	mutande	abbigliamento	trusy	<b>Трусы</b> в шкафу.	Le mutande sono nell'armadio.
+ножницы	forbici	casa-e-oggetti	nozhnitsy	<b>Ножницы</b> на столе.	Le forbici sono sul tavolo.
+лыжи	sci	abbigliamento	lyzhi	<b>Лыжи</b> в шкафу.	Gli sci sono nell'armadio.
+часы	orologio	casa-e-oggetti	chasy	<b>Часы</b> на стене.	L'orologio è sulla parete.
+брюки	pantaloni	abbigliamento	bryuki	<b>Брюки</b> в шкафу.	I pantaloni sono nell'armadio.
+деньги	soldi	casa-e-oggetti	dengi	<b>Деньги</b> в сумке.	I soldi sono nella borsa.
+наушники	cuffie	casa-e-oggetti	naushniki	<b>Наушники</b> на столе.	Le cuffie sono sul tavolo.
+шапка	cappello	abbigliamento	shapka	<b>Шапка</b> на стуле.	Il cappello è sulla sedia.
+колготки	calze	abbigliamento	kolgotki	<b>Колготки</b> в шкафу.	Le calze sono nell'armadio.
+поезд	treno	viaggi-e-trasporti	poezd	<b>Поезд</b> на станции.	Il treno è alla stazione.
+дерево	albero	natura-e-luoghi	derevo	<b>Дерево</b> в саду.	L'albero è in giardino.
+сосед	vicino	persone-e-famiglia	sosed	<b>Сосед</b> дома.	Il vicino è a casa.
+познакомься	ti presento	saluti-e-cortesia	poznakomsya	<b>Познакомься</b>, это мой друг.	Ti presento il mio amico.
+познакомиться	conoscersi	saluti-e-cortesia	poznakomitsya	Рада <b>познакомиться</b> с тобой.	Piacere di conoscerti.
+фамилия	cognome	persone-e-famiglia	familiya	Моя <b>фамилия</b> Романо.	Il mio cognome è Romano.
+отчество	patronimico	persone-e-famiglia	otchestvo	У него русское <b>отчество</b>.	Lui ha un patronimico russo.

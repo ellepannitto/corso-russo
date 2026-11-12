@@ -1,44 +1,44 @@
-утро	mattina	tempo-e-date	utro	Каждое утро я пью чай.	Ogni mattina bevo il tè.
-полдень	mezzogiorno	tempo-e-date	polden	Мы обедаем в полдень.	Pranziamo a mezzogiorno.
-день	pomeriggio	tempo-e-date	den	Сейчас три часа **дня**, дети делают домашнее задание.	Ora sono le tre del pomeriggio, i bambini fanno i compiti.
-вечер	sera	tempo-e-date	vecher	Каждый вечер мы гуляем вместе.	Ogni sera passeggiamo insieme.
-полночь	mezzanotte	tempo-e-date	polnoch	Уже полночь, пора спать.	È già mezzanotte, è ora di dormire.
-ночь	notte	tempo-e-date	noch	Эта ночь очень холодная.	Questa notte è molto fredda.
-когда	quando	pronomi-e-connettori	kogda	Когда начинается урок?	Quando inizia la lezione?
-во сколько	a che ora	pronomi-e-connettori	vo-skolko	Во сколько ты завтракаешь?	A che ora fai colazione?
-который час	che ora è	pronomi-e-connettori	kotoryy-chas	Скажи, пожалуйста, который час?	Dimmi, per favore, che ora è?
-сколько времени	che ore sono	pronomi-e-connettori	skolko-vremeni	Сколько времени? — Сейчас пять часов.	Che ore sono? — Sono le cinque.
-время	tempo	tempo-e-date	vremya	У тебя есть время читать?	Hai tempo per leggere?
-час	ora	tempo-e-date	chas	Урок начинается через час.	La lezione inizia tra un'ora.
-всегда	sempre	orari-e-frequenza	vsegda	Я всегда завтракаю дома.	Faccio sempre colazione a casa.
-обычно	di solito	orari-e-frequenza	obychno	Обычно мы ужинаем вместе.	Di solito ceniamo insieme.
-часто	spesso	orari-e-frequenza	chasto	Мы часто играем в шахматы.	Giochiamo spesso a scacchi.
-регулярно	regolarmente	orari-e-frequenza	regulyarno	Я регулярно повторяю новые слова.	Ripeto regolarmente le parole nuove.
-иногда	ogni tanto	orari-e-frequenza	inogda	Иногда мы обедаем в ресторане.	Ogni tanto pranziamo al ristorante.
-редко	raramente	orari-e-frequenza	redko	Она редко смотрит новости.	Lei guarda raramente le notizie.
-никогда	mai	avverbi	nikogda	Моя сестра никогда не пьёт кофе.	Mia sorella non beve mai caffè.
-вчера	ieri	tempo-e-date	vchera	Вчера мы гуляли по городу.	Ieri abbiamo passeggiato per la città.
-сегодня	oggi	tempo-e-date	segodnya	Сегодня у нас урок русского языка.	Oggi abbiamo lezione di russo.
-завтра	domani	tempo-e-date	zavtra	Завтра я буду работать дома.	Domani lavorerò a casa.
-сейчас	adesso	orari-e-frequenza	seychas	Сейчас мама готовит обед.	Adesso la mamma prepara il pranzo.
-рано	presto	orari-e-frequenza	rano	Я встаю рано.	Mi alzo presto.
-поздно	tardi	orari-e-frequenza	pozdno	Уже поздно, я хочу спать.	È già tardi, ho sonno.
-давно	da tanto tempo	orari-e-frequenza	davno	Мы давно знаем этого человека.	Conosciamo questa persona da tanto tempo.
-недавно	da poco tempo	orari-e-frequenza	nedavno	Я недавно начал изучать русский язык.	Ho iniziato da poco a studiare il russo.
-как часто	quanto spesso	orari-e-frequenza	kak-chasto	Как часто ты ходишь в бассейн?	Quanto spesso vai in piscina?
-спешка	fretta	orari-e-frequenza	speshka	Зачем такая спешка? У нас ещё есть время.	Perché tanta fretta? Abbiamo ancora tempo.
-ни пуха ни пера	in bocca al lupo	saluti-e-cortesia	ni-puha-ni-pera	Завтра у тебя экзамен? Ни пуха ни пера!	Domani hai un esame? In bocca al lupo!
-к чёрту	al diavolo	saluti-e-cortesia	k-chiortu	— Ни пуха ни пера! — К чёрту!	— In bocca al lupo! — Crepi il lupo!
-что	cosa	pronomi-e-connettori	chto	Что ты читаешь?	Che cosa leggi?
-считать	contare	verbi	schitat	Мой сын **считает** от одного до десяти.	Mio figlio conta da uno a dieci.
-читать	leggere	verbi	chitat	Вечером я **читаю** книгу.	La sera leggo un libro.
-только	solo	pronomi-e-connettori	tolko	У меня только один вопрос.	Ho solo una domanda.
-год	anno	tempo-e-date	god	Я изучаю русский язык уже год.	Studio russo già da un anno.
-месяц	mese	tempo-e-date	mesyats	Через месяц у меня день рождения.	Tra un mese è il mio compleanno.
-прогресс	progresso	scuola-e-lingua	progress	Преподаватель видит мой прогресс.	L'insegnante vede i miei progressi.
-если	se	pronomi-e-connettori	esli	Если хочешь, пойдём гулять.	Se vuoi, andiamo a passeggiare.
-иностранец	straniero	scuola-e-lingua	inostranets	Этот иностранец хорошо говорит по-русски.	Questo straniero parla bene il russo.
-ещё раз	di nuovo	orari-e-frequenza	eshchio-raz	Повтори, пожалуйста, ещё раз.	Ripeti, per favore, ancora una volta.
-домашнее задание	compiti a casa	scuola-e-lingua	domashnee-zadanie	После обеда я делаю домашнее задание.	Dopo pranzo faccio i compiti a casa.
-обычно	di solito	orari-e-frequenza	obychno	Обычно мы ужинаем вместе.	Di solito ceniamo insieme.
-чуть-чуть	un po'	avverbi	chut-chut	Я чуть-чуть понимаю по-русски.	Capisco un po' il russo.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+утро	mattina	tempo-e-date	utro	Каждое <b>утро</b> я пью чай.	Ogni mattina bevo il tè.
+полдень	mezzogiorno	tempo-e-date	polden	Мы обедаем в <b>полдень</b>.	Pranziamo a mezzogiorno.
+день	pomeriggio	tempo-e-date	den	Сейчас три часа <b>дня</b>, дети делают домашнее задание.	Ora sono le tre del pomeriggio, i bambini fanno i compiti.
+вечер	sera	tempo-e-date	vecher	Каждый <b>вечер</b> мы гуляем вместе.	Ogni sera passeggiamo insieme.
+полночь	mezzanotte	tempo-e-date	polnoch	Уже <b>полночь</b>, пора спать.	È già mezzanotte, è ora di dormire.
+ночь	notte	tempo-e-date	noch	Эта <b>ночь</b> очень холодная.	Questa notte è molto fredda.
+когда	quando	pronomi-e-connettori	kogda	<b>Когда</b> начинается урок?	Quando inizia la lezione?
+во сколько	a che ora	pronomi-e-connettori	vo-skolko	<b>Во сколько</b> ты завтракаешь?	A che ora fai colazione?
+который час	che ora è	pronomi-e-connettori	kotoryy-chas	Скажи, пожалуйста, <b>который час</b>?	Dimmi, per favore, che ora è?
+сколько времени	che ore sono	pronomi-e-connettori	skolko-vremeni	<b>Сколько времени</b>? — Сейчас пять часов.	Che ore sono? — Sono le cinque.
+время	tempo	tempo-e-date	vremya	У тебя есть <b>время</b> читать?	Hai tempo per leggere?
+час	ora	tempo-e-date	chas	Урок начинается через <b>час</b>.	La lezione inizia tra un'ora.
+всегда	sempre	tempo-e-date	vsegda	Я <b>всегда</b> завтракаю дома.	Faccio sempre colazione a casa.
+обычно	di solito	tempo-e-date	obychno	<b>Обычно</b> мы ужинаем вместе.	Di solito ceniamo insieme.
+часто	spesso	tempo-e-date	chasto	Мы <b>часто</b> играем в шахматы.	Giochiamo spesso a scacchi.
+регулярно	regolarmente	tempo-e-date	regulyarno	Я <b>регулярно</b> повторяю новые слова.	Ripeto regolarmente le parole nuove.
+иногда	ogni tanto	tempo-e-date	inogda	<b>Иногда</b> мы обедаем в ресторане.	Ogni tanto pranziamo al ristorante.
+редко	raramente	tempo-e-date	redko	Она <b>редко</b> смотрит новости.	Lei guarda raramente le notizie.
+никогда	mai	avverbi,tempo-e-date	nikogda	Моя сестра <b>никогда</b> не пьёт кофе.	Mia sorella non beve mai caffè.
+вчера	ieri	tempo-e-date	vchera	<b>Вчера</b> мы гуляли по городу.	Ieri abbiamo passeggiato per la città.
+сегодня	oggi	tempo-e-date	segodnya	<b>Сегодня</b> у нас урок русского языка.	Oggi abbiamo lezione di russo.
+завтра	domani	tempo-e-date	zavtra	<b>Завтра</b> я буду работать дома.	Domani lavorerò a casa.
+сейчас	adesso	tempo-e-date	seychas	<b>Сейчас</b> мама готовит обед.	Adesso la mamma prepara il pranzo.
+рано	presto	tempo-e-date	rano	Я встаю <b>рано</b>.	Mi alzo presto.
+поздно	tardi	tempo-e-date	pozdno	Уже <b>поздно</b>, я хочу спать.	È già tardi, ho sonno.
+давно	da tanto tempo	tempo-e-date	davno	Мы <b>давно</b> знаем этого человека.	Conosciamo questa persona da tanto tempo.
+недавно	da poco tempo	tempo-e-date	nedavno	Я <b>недавно</b> начал изучать русский язык.	Ho iniziato da poco a studiare il russo.
+как часто	quanto spesso	tempo-e-date	kak-chasto	<b>Как часто</b> ты ходишь в бассейн?	Quanto spesso vai in piscina?
+спешка	fretta	tempo-e-date	speshka	Зачем такая <b>спешка</b>? У нас ещё есть время.	Perché tanta fretta? Abbiamo ancora tempo.
+ни пуха ни пера	in bocca al lupo	saluti-e-cortesia	ni-puha-ni-pera	Завтра у тебя экзамен? <b>Ни пуха ни пера</b>!	Domani hai un esame? In bocca al lupo!
+к чёрту	al diavolo	saluti-e-cortesia	k-chiortu	— Ни пуха ни пера! — <b>К чёрту</b>!	— In bocca al lupo! — Crepi il lupo!
+что	cosa	pronomi-e-connettori	chto	<b>Что</b> ты читаешь?	Che cosa leggi?
+считать	contare	verbi	schitat	Мой сын <b>считает</b> от одного до десяти.	Mio figlio conta da uno a dieci.
+читать	leggere	verbi,scuola-e-lingua	chitat	Вечером я <b>читаю</b> книгу.	La sera leggo un libro.
+только	solo	pronomi-e-connettori	tolko	У меня <b>только</b> один вопрос.	Ho solo una domanda.
+год	anno	tempo-e-date	god	Я изучаю русский язык уже <b>год</b>.	Studio russo già da un anno.
+месяц	mese	tempo-e-date	mesyats	Через <b>месяц</b> у меня день рождения.	Tra un mese è il mio compleanno.
+прогресс	progresso	scuola-e-lingua	progress	Преподаватель видит мой <b>прогресс</b>.	L'insegnante vede i miei progressi.
+если	se	pronomi-e-connettori	esli	<b>Если</b> хочешь, пойдём гулять.	Se vuoi, andiamo a passeggiare.
+иностранец	straniero	scuola-e-lingua	inostranets	Этот <b>иностранец</b> хорошо говорит по-русски.	Questo straniero parla bene il russo.
+ещё раз	di nuovo	tempo-e-date	eshchio-raz	Повтори, пожалуйста, <b>ещё раз</b>.	Ripeti, per favore, ancora una volta.
+домашнее задание	compiti a casa	scuola-e-lingua	domashnee-zadanie	После обеда я делаю <b>домашнее задание</b>.	Dopo pranzo faccio i compiti a casa.
+чуть-чуть	un po'	avverbi	chut-chut	Я <b>чуть-чуть</b> понимаю по-русски.	Capisco un po' il russo.

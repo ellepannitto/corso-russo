@@ -1,0 +1,55 @@
+russo	italiano	categoria	id	frase-russo	frase-italiano
+сладкоежка	goloso di dolci	cibo-e-bevande	sladkoezhka	Мой брат — настоящий <b>сладкоежка</b>.	Mio fratello è un vero goloso di dolci.
+сладости	dolci, dolciumi	cibo-e-bevande	sladosti	Дети любят <b>сладости</b>.	I bambini amano i dolci.
+предпочитать	preferire	verbi	predpochitat	Я <b>предпочитаю</b> чай кофе.	Preferisco il tè al caffè.
+тростниковый сахар	zucchero di canna	cibo-e-bevande	trostnikovyi_sakhar	Я добавляю <b>тростниковый сахар</b> в чай.	Aggiungo zucchero di canna al tè.
+мёд	miele	cibo-e-bevande	myod	Я люблю чай с <b>мёдом</b>.	Mi piace il tè con il miele.
+сладкий	dolce	aggettivi,cibo-e-bevande	sladkii	Этот торт очень <b>сладкий</b>.	Questa torta è molto dolce.
+кондитерская	pasticceria	luoghi-in-citta	konditerskaya	Рядом есть хорошая <b>кондитерская</b>.	Qui vicino c’è una buona pasticceria.
+родной язык	lingua madre	scuola-e-lingua	rodnoi_yazyk	Итальянский — мой <b>родной язык</b>.	L’italiano è la mia lingua madre.
+сделать	fare, realizzare	verbi	sdelat	Мне нужно <b>сделать</b> домашнее задание.	Devo fare i compiti.
+обожать	adorare	verbi,concetti-astratti	obozhat	Я <b>обожаю</b> мороженое.	Adoro il gelato.
+совсем	completamente, del tutto; affatto (con negazione)	avverbi	sovsem	Я <b>совсем</b> не устал.	Non sono affatto stanco.
+ненавидеть	odiare	verbi,concetti-astratti	nenavidet	Я <b>ненавижу</b> пробки.	Odio gli ingorghi.
+самый	il più (superlativo)	scuola-e-lingua	samyi	Это <b>самый</b> красивый парк в городе.	Questo è il parco più bello della città.
+паром	traghetto	viaggi-e-trasporti	parom	Мы поедем на остров на <b>пароме</b>.	Andremo sull’isola in traghetto.
+не бояться	non avere paura	verbi,concetti-astratti	ne_boyatsya	Я <b>не боюсь</b> собак.	Non ho paura dei cani.
+камни	pietre, scogli	natura-e-luoghi	kamni	На пляже лежат большие <b>камни</b>.	Sulla spiaggia ci sono grandi pietre.
+дикий пляж	spiaggia libera, non attrezzata	viaggi-e-trasporti	dikii_plyazh	Мы нашли тихий <b>дикий пляж</b>.	Abbiamo trovato una tranquilla spiaggia non attrezzata.
+зонтик	ombrellone, ombrello	viaggi-e-trasporti	zontik	На пляже у нас есть <b>зонтик</b>.	In spiaggia abbiamo un ombrellone.
+лежак	lettino da spiaggia	viaggi-e-trasporti	lezhak	Я отдыхаю на <b>лежаке</b>.	Mi rilasso sul lettino.
+волна	onda	natura-e-luoghi	volna	Сегодня на море большие <b>волны</b>.	Oggi in mare ci sono onde grandi.
+медуза	medusa	natura-e-luoghi	meduza	В воде плавает <b>медуза</b>.	Nell’acqua nuota una medusa.
+кусать	mordere, pungere	verbi	kusat	Эта собака не <b>кусается</b>.	Questo cane non morde.
+просто	semplicemente	avverbi	prosto	Это <b>просто</b> шутка.	È semplicemente uno scherzo.
+долго	a lungo	avverbi,tempo-e-date	dolgo	Мы <b>долго</b> ждали автобус.	Abbiamo aspettato a lungo l’autobus.
+рядом	vicino, nelle vicinanze	avverbi,spazio-e-direzioni	ryadom	Магазин находится <b>рядом</b>.	Il negozio è qui vicino.
+удобно	comodamente, è comodo	avverbi	udobno	Мне <b>удобно</b> сидеть здесь.	Sto comodo seduto qui.
+последний раз	ultima volta	tempo-e-date	poslednii_raz	Я видел его в <b>последний раз</b> вчера.	L’ho visto l’ultima volta ieri.
+вредная еда	cibo poco salutare, junk food	cibo-e-bevande	vrednaya_eda	<b>Вредная еда</b> может плохо влиять на здоровье.	Il cibo poco salutare può nuocere alla salute.
+подросток	adolescente	persone-e-famiglia	podrostok	Этот <b>подросток</b> любит спорт.	Questo adolescente ama lo sport.
+полезная еда	cibo salutare	cibo-e-bevande	poleznaya_eda	<b>Полезная еда</b> помогает оставаться здоровым.	Il cibo salutare aiuta a mantenersi in salute.
+вечеринка	festa, serata	feste	vecherinka	В субботу у нас будет <b>вечеринка</b>.	Sabato faremo una festa.
+мяч	palla	sport-e-giochi	myach	Дети играют в <b>мяч</b>.	I bambini giocano a palla.
+заказывать	ordinare	verbi	zakazyvat	Я хочу <b>заказать</b> пиццу.	Voglio ordinare una pizza.
+ходить в гости	andare a trovare qualcuno	verbi,persone-e-famiglia	khodit_v_gosti	Мы любим <b>ходить в гости</b> к друзьям.	Ci piace andare a trovare gli amici.
+приглашать гостей	invitare ospiti	verbi,persone-e-famiglia	priglashat_gostei	Мы любим <b>приглашать гостей</b> домой.	Ci piace invitare ospiti a casa.
+напитки	bevande	cibo-e-bevande	napitki	В меню есть холодные <b>напитки</b>.	Nel menù ci sono bevande fredde.
+отпуск	ferie	viaggi-e-trasporti	otpusk	В августе я беру <b>отпуск</b>.	Ad agosto prendo le ferie.
+нырять с маской	fare snorkeling	sport-e-giochi	nyryat_s_maskoi	На море я люблю <b>нырять с маской</b>.	Al mare mi piace fare snorkeling.
+корабль	nave	viaggi-e-trasporti	korabl	Большой <b>корабль</b> выходит из порта.	Una grande nave esce dal porto.
+ракушка	conchiglia	natura-e-luoghi	rakushka	На песке лежит красивая <b>ракушка</b>.	Sulla sabbia c’è una bella conchiglia.
+выбирать	scegliere	verbi,acquisti-e-negozi	vybirat	Мне трудно <b>выбирать</b> подарки.	Per me è difficile scegliere i regali.
+рынок	mercato	luoghi-in-citta	rynok	По субботам мы ходим на <b>рынок</b>.	Il sabato andiamo al mercato.
+мыть посуду	lavare le stoviglie	casa-e-oggetti	myt_posudu	После ужина я буду <b>мыть посуду</b>.	Dopo cena laverò i piatti.
+водить	guidare	verbi,viaggi-e-trasporti	vodit	Я умею <b>водить</b> машину.	So guidare la macchina.
+до	fino a, prima di	scuola-e-lingua	do	Я работаю <b>до</b> шести часов.	Lavoro fino alle sei.
+перед	prima di, davanti a	scuola-e-lingua	pered	<b>Перед</b> ужином я гуляю.	Prima di cena faccio una passeggiata.
+один и тот же	lo stesso, il medesimo	scuola-e-lingua	odin_i_tot_zhe	Мы смотрим <b>один и тот же</b> фильм.	Guardiamo lo stesso film.
+опаздывать	arrivare in ritardo	verbi,tempo-e-date	opazdyvat	Я не люблю <b>опаздывать</b>.	Non mi piace arrivare in ritardo.
+сон	sonno, sogno	salute	son	Хороший <b>сон</b> важен для здоровья.	Un buon sonno è importante per la salute.
+посадка	atterraggio; imbarco	viaggi-e-trasporti	posadka	<b>Посадка</b> самолёта прошла спокойно.	L’atterraggio dell’aereo è avvenuto tranquillamente.
+вкусы	gusti	persone-e-famiglia	vkusy	У нас разные <b>вкусы</b>.	Abbiamo gusti diversi.
+взбитые сливки	panna montata	cibo-e-bevande	vzbitye_slivki	Я люблю клубнику со <b>взбитыми сливками</b>.	Mi piacciono le fragole con la panna montata.
+фисташка	pistacchio	cibo-e-bevande	fistashka	Я люблю мороженое с <b>фисташками</b>.	Mi piace il gelato con i pistacchi.
+фундук	nocciola	cibo-e-bevande	funduk	В этом шоколаде есть <b>фундук</b>.	In questo cioccolato ci sono nocciole.

@@ -1,33 +1,34 @@
-искать	cercare	verbi	iskat	Я **ищу** свою сумку.	Cerco la mia borsa.
-хотеть	volere	verbi	hotet	Мы **хотим** купить новую обувь.	Vogliamo comprare delle scarpe nuove.
-брать	prendere	verbi	brat-2	Я **беру** эту книгу домой.	Porto questo libro a casa.
-одежда	abbigliamento	abbigliamento	odezhda	В этом магазине продаётся одежда для детей.	In questo negozio si vendono vestiti per bambini.
-обувь	scarpe calzature	abbigliamento	obuv	Эта обувь очень удобная.	Queste scarpe sono molto comode.
-размер	taglia	abbigliamento	razmer	Какой у вас размер?	Che taglia porta?
-выбор	scelta	acquisti-e-negozi	vybor	В этом магазине большой выбор обуви.	In questo negozio c'è una grande scelta di scarpe.
-покупка	acquisto	acquisti-e-negozi	pokupka	Это моя первая покупка в этом магазине.	Questo è il mio primo acquisto in questo negozio.
-женский	femminile	aggettivi	zhenskij	Женский отдел находится на втором этаже.	Il reparto donna si trova al secondo piano.
-мужской	maschile	aggettivi	muzhskoj	Этот мужской костюм очень дорогой.	Questo abito da uomo è molto costoso.
-классический	classico	aggettivi	klassicheskij	Он носит классический костюм.	Lui indossa un abito classico.
-удобный	comodo	aggettivi	udobnyj	Это удобный стул.	Questa è una sedia comoda.
-кожаный	di pelle	aggettivi	kozhanyj	У меня кожаный кошелёк.	Ho un portafogli di pelle.
-знаменитый	famoso	aggettivi	znamenityj	Этот знаменитый писатель живёт в нашем городе.	Questo scrittore famoso vive nella nostra città.
-важный	importante	aggettivi	vazhnyj	У меня важный вопрос.	Ho una domanda importante.
-военный	militare	aggettivi	voennyj	Рядом с городом находится военный музей.	Vicino alla città si trova un museo militare.
-рубашка	camicia	abbigliamento	rubashka	Эта рубашка мне велика.	Questa camicia mi sta grande.
-шапка	cappello (di lana)	abbigliamento	shapka	Зимой мне нужна тёплая шапка.	D'inverno mi serve un cappello caldo.
-бесплатно	gratuitamente gratis	acquisti-e-negozi	besplatno	Дети могут посетить музей бесплатно.	I bambini possono visitare il museo gratis.
-пирожное	pasticcino dolce	cibo-e-bevande	pirozhnoe	Я хочу кофе и пирожное.	Vorrei un caffè e un pasticcino.
-покупать	comprare	verbi	pokupat	Я **покупаю** одежду в торговом центре.	Compro i vestiti al centro commerciale.
-продавать	vendere	verbi	prodavat	Они **продают** свою машину.	Vendono la loro macchina.
-куртка	giubbino	abbigliamento	kurtka	Эта куртка мне подходит.	Questo giubbino mi sta bene.
-шуба	pelliccia	abbigliamento	shuba	Шуба висит в шкафу.	La pelliccia è appesa nell'armadio.
-туфли	scarpe	abbigliamento	tufli	Эти туфли мне малы.	Queste scarpe mi stanno piccole.
-брюки	pantaloni	abbigliamento	brjuki	Я ищу чёрные брюки.	Cerco dei pantaloni neri.
-торговый центр	centro commerciale	luoghi-in-citta	torgovyj centr	Новый торговый центр рядом с вокзалом.	Il nuovo centro commerciale è vicino alla stazione.
-дорогой	caro	aggettivi	dorogoj	Этот отель слишком дорогой.	Questo hotel è troppo caro.
-носить	indossare	verbi	nosit	На работу я **ношу** рубашку.	Al lavoro indosso una camicia.
-спокойный	tranquillo	aggettivi	spokojnyj	У нашего преподавателя спокойный голос.	Il nostro insegnante ha una voce tranquilla.
-средний	medio	aggettivi	srednij	Мне нужен средний размер.	Mi serve una taglia media.
-самокат	monopattino	viaggi-e-trasporti	samokat	У моего сына есть самокат.	Mio figlio ha un monopattino.
-свежий	fresco	aggettivi	svezhij	В этом магазине всегда свежий хлеб.	In questo negozio c'è sempre pane fresco.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+искать	cercare	verbi	iskat	Я <b>ищу</b> свою сумку.	Cerco la mia borsa.
+хотеть	volere	verbi	hotet	Мы <b>хотим</b> купить новую обувь.	Vogliamo comprare delle scarpe nuove.
+брать	prendere	verbi	brat-2	Я <b>беру</b> эту книгу домой.	Porto questo libro a casa.
+одежда	abbigliamento	abbigliamento	odezhda	В этом магазине продаётся <b>одежда</b> для детей.	In questo negozio si vendono vestiti per bambini.
+обувь	scarpe, calzature	abbigliamento	obuv	Эта <b>обувь</b> очень удобная.	Queste scarpe sono molto comode.
+размер	taglia	abbigliamento	razmer	Какой у вас <b>размер</b>?	Che taglia porta?
+выбор	scelta	acquisti-e-negozi	vybor	В этом магазине большой <b>выбор</b> обуви.	In questo negozio c'è una grande scelta di scarpe.
+покупка	acquisto	acquisti-e-negozi	pokupka	Это моя первая <b>покупка</b> в этом магазине.	Questo è il mio primo acquisto in questo negozio.
+женский	femminile	aggettivi,persone-e-famiglia	zhenskij	<b>Женский</b> отдел находится на втором этаже.	Il reparto donna si trova al secondo piano.
+мужской	maschile	aggettivi,persone-e-famiglia	muzhskoj	Этот <b>мужской</b> костюм очень дорогой.	Questo abito da uomo è molto costoso.
+классический	classico	aggettivi,arte-e-cultura	klassicheskij	Он носит <b>классический</b> костюм.	Lui indossa un abito classico.
+удобный	comodo	aggettivi,casa-e-oggetti	udobnyj	Это <b>удобный</b> стул.	Questa è una sedia comoda.
+кожаный	di pelle	aggettivi,abbigliamento	kozhanyj	У меня <b>кожаный</b> кошелёк.	Ho un portafogli di pelle.
+знаменитый	famoso	aggettivi	znamenityj	Этот <b>знаменитый</b> писатель живёт в нашем городе.	Questo scrittore famoso vive nella nostra città.
+важный	importante	aggettivi	vazhnyj	У меня <b>важный</b> вопрос.	Ho una domanda importante.
+военный	militare	aggettivi	voennyj	Рядом с городом находится <b>военный</b> музей.	Vicino alla città si trova un museo militare.
+рубашка	camicia	abbigliamento	rubashka	Эта <b>рубашка</b> мне велика.	Questa camicia mi sta grande.
+шапка	cappello (di lana)	abbigliamento	shapka	Зимой мне нужна тёплая <b>шапка</b>.	D'inverno mi serve un cappello caldo.
+бесплатно	gratuitamente, gratis	acquisti-e-negozi	besplatno	Дети могут посетить музей <b>бесплатно</b>.	I bambini possono visitare il museo gratis.
+пирожное	pasticcino, dolce	cibo-e-bevande	pirozhnoe	Я хочу кофе и <b>пирожное</b>.	Vorrei un caffè e un pasticcino.
+покупать	comprare	verbi,acquisti-e-negozi	pokupat	Я <b>покупаю</b> одежду в торговом центре.	Compro i vestiti al centro commerciale.
+продавать	vendere	verbi,acquisti-e-negozi	prodavat	Они <b>продают</b> свою машину.	Vendono la loro macchina.
+куртка	giubbino	abbigliamento	kurtka	Эта <b>куртка</b> мне подходит.	Questo giubbino mi sta bene.
+шуба	pelliccia	abbigliamento	shuba	<b>Шуба</b> висит в шкафу.	La pelliccia è appesa nell'armadio.
+туфли	scarpe	abbigliamento	tufli	Эти <b>туфли</b> мне малы.	Queste scarpe mi stanno piccole.
+брюки	pantaloni	abbigliamento	brjuki	Я ищу чёрные <b>брюки</b>.	Cerco dei pantaloni neri.
+торговый центр	centro commerciale	luoghi-in-citta	torgovyj centr	Новый <b>торговый центр</b> рядом с вокзалом.	Il nuovo centro commerciale è vicino alla stazione.
+дорогой	caro	aggettivi,acquisti-e-negozi	dorogoj	Этот отель слишком <b>дорогой</b>.	Questo hotel è troppo caro.
+носить	indossare	verbi,abbigliamento	nosit	На работу я <b>ношу</b> рубашку.	Al lavoro indosso una camicia.
+спокойный	tranquillo	aggettivi	spokojnyj	У нашего преподавателя <b>спокойный</b> голос.	Il nostro insegnante ha una voce tranquilla.
+средний	medio	aggettivi	srednij	Мне нужен <b>средний</b> размер.	Mi serve una taglia media.
+самокат	monopattino	viaggi-e-trasporti	samokat	У моего сына есть <b>самокат</b>.	Mio figlio ha un monopattino.
+свежий	fresco	aggettivi	svezhij	В этом магазине всегда <b>свежий</b> хлеб.	In questo negozio c'è sempre pane fresco.

@@ -1,9 +1,10 @@
-идти	andare (a piedi)	verbi	idti	Сейчас я **иду** в школу пешком.	Adesso sto andando a scuola a piedi.
-ехать	andare (con un mezzo)	verbi	ehat	Сейчас мы **едем** в город на поезде.	Adesso stiamo andando in città in treno.
-ходить	andare (a piedi, abitualmente)	verbi	hodit	Каждый день я **хожу** в школу пешком.	Ogni giorno vado a scuola a piedi.
-ездить	andare (con un mezzo, abitualmente)	verbi	ezdit	По выходным мы **ездим** в деревню на машине.	Nel weekend andiamo abitualmente al villaggio in macchina.
-скоро	presto	avverbi	skoro	Скоро мы будем дома.	Presto saremo a casa.
-пешком	a piedi	avverbi	peshkom	Магазин близко, пойдём пешком.	Il negozio è vicino, andiamo a piedi.
-рядом	vicino	avverbi	rjadom	Аптека рядом с банком.	La farmacia è vicino alla banca.
-дома	a casa	avverbi	doma	Сегодня я работаю дома.	Oggi lavoro a casa.
-домой	verso casa	avverbi	domoj	После урока я иду домой.	Dopo la lezione vado a casa.
+russo	italiano	categoria	id	frase-russo	frase-italiano
+идти	andare (a piedi)	verbi,viaggi-e-trasporti	idti	Сейчас я <b>иду</b> в школу пешком.	Adesso sto andando a scuola a piedi.
+ехать	andare (con un mezzo)	verbi,viaggi-e-trasporti	ehat	Сейчас мы <b>едем</b> в город на поезде.	Adesso stiamo andando in città in treno.
+ходить	andare (a piedi, abitualmente)	verbi,viaggi-e-trasporti	hodit	Каждый день я <b>хожу</b> в школу пешком.	Ogni giorno vado a scuola a piedi.
+ездить	andare (con un mezzo, abitualmente)	verbi,viaggi-e-trasporti	ezdit	По выходным мы <b>ездим</b> в деревню на машине.	Nel weekend andiamo abitualmente al villaggio in macchina.
+скоро	presto	avverbi,tempo-e-date	skoro	<b>Скоро</b> мы будем дома.	Presto saremo a casa.
+пешком	a piedi	avverbi,spazio-e-direzioni	peshkom	Магазин близко, пойдём <b>пешком</b>.	Il negozio è vicino, andiamo a piedi.
+рядом	vicino	avverbi,spazio-e-direzioni	rjadom	Аптека <b>рядом</b> с банком.	La farmacia è vicino alla banca.
+дома	a casa	avverbi,spazio-e-direzioni	doma	Сегодня я работаю <b>дома</b>.	Oggi lavoro a casa.
+домой	verso casa	avverbi,spazio-e-direzioni	domoj	После урока я иду <b>домой</b>.	Dopo la lezione vado a casa.
