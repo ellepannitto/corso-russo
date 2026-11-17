@@ -1,78 +1,66 @@
-# File per Anki
+# Corso di russo — vocabolario per Anki
 
-Questa cartella contiene file `TSV` pronti da importare in Anki.
+Il vocabolario vive nelle liste in `lezioni/`. Lo script `scripts/generate_anki_from_liste.py` le legge e genera i file da dare a Anki, in `anki/`:
 
-## Formato consigliato
+| File | A cosa serve |
+| --- | --- |
+| `anki/russo.apkg` | Pacchetto pronto da importare (telefono o computer), con tipo di nota e carte già dentro |
+| `anki/vocabolario-completo.tsv` | Stesso vocabolario in forma di tabella, da importare in Anki Desktop |
+| `anki/template-carte.html` | Template e stile delle carte, da cui si generano le carte di entrambi i metodi |
+| `anki/guida.html` (+ `guida.css`) | Guida completa per chi studia, con le istruzioni per `.apkg` e TSV |
 
-Ogni file usa campi separati da tabulazione:
+`GUIDA.md` e `GUIDA-TSV.md` sono le stesse istruzioni in Markdown, rispettivamente per il pacchetto e per il TSV.
 
-1. `ID`
-2. `Front`
-3. `Back`
-4. `Notes`
-5. `ExampleRu`
-6. `ExampleIt`
-7. `Tags`
+## Rigenerare i file
 
+```bash
+pip install -r requirements.txt
+python3 scripts/generate_anki_from_liste.py            # russo.apkg + vocabolario-completo.tsv
+python3 scripts/generate_anki_from_liste.py --solo-tsv # solo vocabolario-completo.tsv
+```
 
-Durante l'import in Anki:
+Se una riga è sbagliata (frase senza la parola da evidenziare, `card_id` vuoto, marcatori non bilanciati…) la generazione si ferma indicando file e riga, prima di modificare gli output.
 
-- scegli `Tipo di nota`: un tipo di nota che includa anche il campo `ID`
-- seleziona `Campi separati da tab`
-- mappa i campi nell'ordine sopra
-- se vuoi, crea un mazzo diverso per ogni file
-- usa `ID` come campo stabile per aggiornare le note senza creare duplicati
+## Tipo di nota e carte
 
-## Note utili
+Tutte le note usano un solo tipo di nota, **Russo**, con cinque campi in quest'ordine: `ID`, `Russo`, `Italiano`, `FraseRusso`, `FraseItaliano`. Ogni nota ha tag di tema e di lezione (es. `animali lez-3`).
 
-- Puoi usare HTML semplice dentro i campi, ad esempio `<br>` per andare a capo.
-- Per audio o immagini, Anki accetta riferimenti come `[sound:file.mp3]` o `<img src="immagine.png">` se i file sono nella collection.
-- Non cambiare gli `ID` dopo il primo import, altrimenti Anki considererà le righe come nuove note.
+Ogni parola genera due carte (**Russo → Italiano**, **Italiano → Russo**) e, se ha una frase d'esempio, una terza, **Frase → Traduzione**. Sul fronte compare la frase russa con la parola evidenziata; sul retro la traduzione della frase.
 
-## Liste lezioni
+Se una parola compare in più liste, nell'output ha una sola nota: i significati vengono uniti (separati da ` / `) e si tiene una sola frase d'esempio, la prima in ordine di lista.
 
-Lo script `scripts/generate_anki_from_liste.py` legge i file in `lezioni/lista*`.
+## Liste delle lezioni
 
-- Formato base: `russo<TAB>italiano<TAB>tema`
-- Formato con ID stabile: `russo<TAB>italiano<TAB>tema<TAB>card_id`
-- Formato con frase d'esempio: `russo<TAB>italiano<TAB>tema<TAB>card_id<TAB>frase_russa<TAB>traduzione_frase`
+Lo script legge tutti i file di `lezioni/` che si chiamano `lista*` o finiscono in `.tsv`. I file senza estensione e con un nome diverso (come `lezioni/extra`, usato per appunti) vengono ignorati.
 
-Le frasi d'esempio generano una terza carta, **Frase → Traduzione**. Sul fronte compaiono la parola e la frase russa, con la parola evidenziata; sul retro la traduzione della parola e quella della frase tra parentesi. Le righe senza frase mantengono soltanto le due carte esistenti.
+Le colonne sono separate da tabulazione. Una riga di intestazione che inizia con `russo` viene saltata. I formati ammessi sono:
 
-### Evidenziare le forme flesse
+- `russo`, `italiano`, `categoria`
+- `russo`, `italiano`, `categoria`, `id`
+- `russo`, `italiano`, `categoria`, `id`, `frase-russo`, `frase-italiano`
 
-Nella colonna `frase_russa`, racchiudi tra `**` la parola o l'espressione da evidenziare:
+L'`id` è l'identificativo stabile della parola in Anki: va scelto una volta sola e non va più cambiato, altrimenti Anki considera la riga una parola nuova e quella vecchia resta nel mazzo con i suoi progressi. Se una riga non ha `id`, ne viene calcolato uno dalla sola parola russa: correggere quella parola cambierebbe l'ID, quindi conviene sempre indicarlo.
+
+### Evidenziare le parole nelle frasi
+
+Nella colonna `frase-russo` la parola da evidenziare va tra `<b>` e `</b>`:
 
 ```text
-знать	sapere	verbi	znat	Я **знаю** ответ.	So la risposta.
-отвечать за	essere responsabile di	verbi	otvechat-za	Менеджер **отвечает за** работу команды.	Il manager è responsabile del lavoro della squadra.
+знать	sapere	verbi	znat	Я <b>знаю</b> ответ.	So la risposta.
+отвечать за	essere responsabile di	verbi	otvechat-za	Менеджер <b>отвечает за</b> работу команды.	Il manager è responsabile del lavoro della squadra.
 ```
 
-Puoi indicare più parti: `Я **хочу** читать, а брат **хочет** гулять.`
-I marcatori non compaiono nelle carte: il generatore li converte in evidenziazione colorata.
-Il resto del testo resta invariato e viene trattato come testo, non come HTML.
+- Si possono indicare più parti: `Я <b>хочу</b> читать, а брат <b>хочет</b> гулять.`
+- Si accetta anche la forma `**parola**`.
+- I marcatori non compaiono sulle carte: il generatore li converte in evidenziazione colorata. Il resto del testo viene trattato come testo, non come HTML.
+- Senza marcatori viene evidenziata la forma esatta del lemma (ignorando maiuscole e punteggiatura finale come `?`). Le forme flesse non vengono indovinate: per quelle servono i marcatori.
 
-Senza marcatori, viene evidenziata la forma esatta del lemma (ignorando maiuscole e punteggiatura finale come `?`). Non vengono indovinate automaticamente le forme flesse. Se il lemma non compare o i marcatori sono malformati, la generazione si ferma indicando file e riga, prima di modificare gli output.
+## Migrare gli ID
 
-Rigenera entrambi i file con `python3 scripts/generate_anki_from_liste.py`.
-L'evidenziazione riguarda solo `ExampleRu`: ID, campi e template delle due carte di vocabolario rimangono invariati.
+`scripts/migrate_card_ids_from_tsv.py` serve a copiare in una sola volta gli ID di un vecchio TSV dentro le liste di `lezioni/`. Con `--source` si indica il file sorgente e con `--fill-missing` si assegna un ID anche ai termini che non esistono nel sorgente. È uno strumento della migrazione iniziale: i file di default che cerca (`anki/A1.tsv`, `anki/vocabolario.tsv`) non esistono più.
 
-Se aggiungi `card_id` a una riga, quello verra' usato come `ID` Anki della carta cumulativa anche se in futuro cambi `russo`, `italiano` o `tema`.
-
-Per migrare automaticamente gli ID esistenti dentro le `lezioni/lista*`, usa:
+## Test
 
 ```bash
-python3 scripts/migrate_card_ids_from_tsv.py
-```
-
-Per default lo script legge prima `anki/A1.tsv` e poi `anki/vocabolario.tsv`. Puoi anche indicare esplicitamente la sorgente:
-
-```bash
-python3 scripts/migrate_card_ids_from_tsv.py --source anki/A1.tsv
-```
-
-Se vuoi assegnare automaticamente un `card_id` anche ai termini che non esistono ancora nel TSV sorgente:
-
-```bash
-python3 scripts/migrate_card_ids_from_tsv.py --fill-missing
+python3 -m unittest discover tests
 ```
