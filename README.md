@@ -11,6 +11,14 @@ Il vocabolario vive nelle liste in `lezioni/`. Lo script `scripts/generate_anki_
 
 `GUIDA.md` e `GUIDA-TSV.md` sono le stesse istruzioni in Markdown, rispettivamente per il pacchetto e per il TSV.
 
+## Cos'è il file TSV
+
+Un file **TSV** (*tab-separated values*) è una tabella in puro testo: ogni riga è una riga della tabella e le colonne sono separate da un carattere di tabulazione. Si apre con qualsiasi editor di testo, con Excel o con Fogli Google, e Anki sa importarlo direttamente.
+
+[`anki/vocabolario-completo.tsv`](anki/vocabolario-completo.tsv) ([scarica](https://raw.githubusercontent.com/ellepannitto/corso-russo/main/anki/vocabolario-completo.tsv)) contiene tutto il vocabolario del corso, una nota per riga, in sei colonne: `ID`, `Russo`, `Italiano`, `FraseRusso`, `FraseItaliano`, tag. In cima ha cinque righe che iniziano con `#`: sono istruzioni per Anki (separatore, HTML attivo, tipo di nota e mazzo di destinazione, colonna dei tag) e non vanno cancellate.
+
+Il file è generato dallo script a partire dalle liste in `lezioni/`: non si modifica a mano, perché alla prossima rigenerazione le modifiche andrebbero perse. Come importarlo in Anki è spiegato in [`GUIDA-TSV.md`](GUIDA-TSV.md) e in `anki/guida.html`.
+
 ## Rigenerare i file
 
 ```bash
