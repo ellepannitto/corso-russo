@@ -51,7 +51,7 @@
         <span class="label">Un solo metodo</span>
         <p>Pacchetto e TSV creano due tipi di nota distinti, anche se hanno lo stesso nome e le stesse carte: importandoli entrambi, le parole risultano doppie. Se ne sceglie uno solo e non si cambia più.</p>
       </blockquote>
-      <p>In caso di dubbio, si usa il <b>Metodo A</b>. Le sezioni 07–10 valgono per entrambi.</p>
+      <p>Il file TSV è una semplice tabella di testo con una parola per riga (la sezione 04 spiega com'è fatta): è il formato da cui Anki costruisce le carte quando si sceglie il Metodo B. In caso di dubbio, si usa il <b>Metodo A</b>. Le sezioni 07–10 valgono per entrambi.</p>
     </div>
   </section>
 
@@ -116,6 +116,10 @@
     <div class="step-num">04</div>
     <div class="step-body">
       <h2>Metodo B — File TSV: com'è fatto e cosa serve</h2>
+      <h3 class="sub">Cos'è un file TSV</h3>
+      <p>Un file <b>TSV</b> (<i>tab-separated values</i>, «valori separati da tabulazione») è una tabella in puro testo: ogni riga è una riga della tabella e le colonne sono separate da un carattere di tabulazione. Non contiene formattazione né carte già pronte, solo i dati: Anki li legge e, con il tipo di nota e i template creati nella sezione 05, ne ricava le carte.</p>
+      <p>Si può aprire con qualsiasi editor di testo, con Excel o con Fogli Google, per dare un'occhiata al contenuto. Meglio però non salvarlo da questi programmi, che potrebbero cambiare la codifica dei caratteri russi o le virgolette. Il file è generato in automatico dalle liste del corso, quindi le correzioni vanno segnalate (sezione 09) e non fatte a mano nel TSV: alla prossima versione andrebbero perse.</p>
+      <p>Il TSV è utile soprattutto perché Anki, importandolo di nuovo, riconosce le note dal loro <code>ID</code> e le aggiorna senza toccare i progressi. Chi ha scelto questo metodo può quindi ricevere solo il file nuovo ad ogni aggiornamento.</p>
       <p>Il procedimento ha tre parti, da fare <b>una sola volta</b> sul computer: creare il tipo di nota (sezione 05), importare il file e controllare le carte (sezione 06). Per gli aggiornamenti successivi basta reimportare il file.</p>
       <h3 class="sub">Cosa serve</h3>
       <ul>
