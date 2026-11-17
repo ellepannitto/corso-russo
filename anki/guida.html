@@ -6,8 +6,8 @@
   <header class="masthead">
     <p class="kicker">Corso di russo · guida allo studio</p>
     <h1>Come usare il vocabolario su Anki</h1>
-    <p class="lede">Questa guida spiega cos'è Anki, come installarlo, caricare il vocabolario del corso (parole e frasi d'esempio) e ritagliare mazzi di studio su misura.</p>
-    <div class="file-pill">📎 Un solo file — <b>russo.apkg</b> — con tutto il vocabolario già pronto, per telefono e computer</div>
+    <p class="lede">Questa guida spiega cos'è Anki, come installarlo e come caricare il vocabolario del corso (parole e frasi d'esempio), con il pacchetto <b>russo.apkg</b> oppure con il file <b>TSV</b>. Spiega anche come ritagliare mazzi di studio su misura.</p>
+    <div class="file-pill">📎 Due modi per ricevere il vocabolario — <b>russo.apkg</b> (consigliato) oppure <b>vocabolario-completo.tsv</b></div>
     <a class="download-btn" href="https://raw.githubusercontent.com/ellepannitto/corso-russo/main/anki/russo.apkg" download="russo.apkg" target="_blank" rel="noopener">
       ⬇ Scarica russo.apkg
     </a>
@@ -16,62 +16,84 @@
   <nav class="toc" aria-label="Indice">
     <p>Indice</p>
     <ol>
-      <li><a href="#s1"><span class="n">01</span>Cos'è Anki e installazione</a></li>
-      <li><a href="#s2"><span class="n">02</span>Salvare il file</a></li>
-      <li><a href="#s3"><span class="n">03</span>Importare il vocabolario</a></li>
-      <li><a href="#s4"><span class="n">04</span>Mazzi personalizzati</a></li>
-      <li><a href="#s5"><span class="n">05</span>Tipi di carta (template)</a></li>
-      <li><a href="#s6"><span class="n">06</span>Segnalare una modifica</a></li>
-      <li><a href="#s7"><span class="n">07</span>Aggiornamenti e problemi</a></li>
-      <li><a href="#s8"><span class="n">08</span>Alternativa: importare il file TSV</a></li>
+      <li><a href="#s1"><span class="n">01</span>Quale metodo scegliere</a></li>
+      <li><a href="#s2"><span class="n">02</span>Cos'è Anki e installazione</a></li>
+      <li><a href="#s3"><span class="n">03</span>Metodo A — Pacchetto .apkg: salvare e importare</a></li>
+      <li><a href="#s4"><span class="n">04</span>Metodo B — File TSV: com'è fatto e cosa serve</a></li>
+      <li><a href="#s5"><span class="n">05</span>Metodo B — Creare il tipo di nota «Russo»</a></li>
+      <li><a href="#s6"><span class="n">06</span>Metodo B — Importare e aggiornare il TSV</a></li>
+      <li><a href="#s7"><span class="n">07</span>Mazzi personalizzati (per lezione o tema)</a></li>
+      <li><a href="#s8"><span class="n">08</span>Tipi di carta e ordine di studio</a></li>
+      <li><a href="#s9"><span class="n">09</span>Segnalare una modifica o un errore</a></li>
+      <li><a href="#s10"><span class="n">10</span>Aggiornamenti e problemi frequenti</a></li>
     </ol>
   </nav>
 
   <section class="step" id="s1">
     <div class="step-num">01</div>
     <div class="step-body">
-      <h2>Cos'è Anki e installazione</h2>
-      <p>Anki è un'app di flashcard basata sulla ripetizione dilazionata: le carte vengono ripresentate più spesso quando c'è il rischio di dimenticarle e più raramente quando sono ormai consolidate, così lo studio si concentra dove serve davvero.</p>
-      <p><b>Android</b> → si cerca <b>AnkiDroid</b> su Google Play. È gratuito.</p>
-      <p><b>iPhone</b> → si cerca <b>AnkiMobile Flashcards</b> su App Store. Costa circa 25 €.</p>
-      <p><b>Computer</b> (Windows/Mac/Linux) → si scarica <b>Anki Desktop</b>, gratuito, da apps.ankiweb.net.</p>
-      <p>Esiste anche una versione web gratuita su ankiweb.net, ma è meno comoda da usare ogni giorno.</p>
+      <h2>Quale metodo scegliere</h2>
+      <p>Il vocabolario si può caricare in Anki in due modi. Le carte che si ottengono sono <b>identiche</b>: cambia solo la procedura.</p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th></th><th>Metodo A — <code>russo.apkg</code></th><th>Metodo B — <code>vocabolario-completo.tsv</code></th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Per chi è</td><td>Chi vuole studiare e basta</td><td>Chi vuole modificare i template o aggiungere parole proprie</td></tr>
+            <tr><td>Dove si importa</td><td>Telefono (AnkiDroid, AnkiMobile) o computer</td><td>Solo Anki Desktop (2.1.55 o successivo)</td></tr>
+            <tr><td>Preparazione</td><td>Nessuna: tipo di nota e carte sono già nel pacchetto</td><td>Si crea una volta il tipo di nota «Russo» (sezione 05)</td></tr>
+            <tr><td>Aggiornamenti</td><td>Si reimporta il nuovo file, i progressi restano</td><td>Si reimporta il nuovo file, i progressi restano</td></tr>
+          </tbody>
+        </table>
+      </div>
       <blockquote class="tip">
-        <span class="label">Solo AnkiWeb dal browser?</span>
-        <p>Non è possibile importare <code>russo.apkg</code> direttamente da ankiweb.net: serve prima uno dei client (AnkiDroid, AnkiMobile o <b>Anki Desktop</b>) per fare l'import una volta sola. Con Anki Desktop: si installa, si importa il file (passo 03), poi si attiva la sincronizzazione (Anki → Sincronizza, serve un account gratuito su ankiweb.net). Da quel momento le carte compaiono anche su ankiweb.net/study, utilizzabili da browser su qualsiasi computer.</p>
+        <span class="label">Un solo metodo</span>
+        <p>Pacchetto e TSV creano due tipi di nota distinti, anche se hanno lo stesso nome e le stesse carte: importandoli entrambi, le parole risultano doppie. Se ne sceglie uno solo e non si cambia più.</p>
       </blockquote>
+      <p>In caso di dubbio, si usa il <b>Metodo A</b>. Le sezioni 07–10 valgono per entrambi.</p>
     </div>
   </section>
 
   <section class="step" id="s2">
     <div class="step-num">02</div>
     <div class="step-body">
-      <h2>Salvare il file</h2>
-      <p>Quando si riceve il file <code>russo.apkg</code> (via email, WhatsApp, link…):</p>
-      <h3 class="sub">Su telefono</h3>
-      <ul>
-        <li>Lo si tiene premuto (o si tocca sui tre puntini accanto al file) e lo si salva nella cartella Download.</li>
-        <li>Su iPhone, lo si salva nell'app <b>File</b> (in "Sul mio iPhone" o iCloud Drive).</li>
-      </ul>
-      <h3 class="sub">Su computer</h3>
-      <ul>
-        <li>Lo si scarica con il bottone in cima alla pagina (o dal link ricevuto) e lo si salva in una cartella facile da ritrovare, ad esempio Download o Desktop.</li>
-      </ul>
+      <h2>Cos'è Anki e installazione</h2>
+      <p>Anki è un'app di flashcard basata sulla ripetizione dilazionata: le carte vengono ripresentate più spesso quando c'è il rischio di dimenticarle e più raramente quando sono ormai consolidate, così lo studio si concentra dove serve davvero.</p>
+      <p><b>Android</b> → si cerca <b>AnkiDroid</b> su Google Play. È gratuito.</p>
+      <p><b>iPhone</b> → si cerca <b>AnkiMobile Flashcards</b> su App Store. Costa circa 25 €.</p>
+      <p><b>Computer</b> (Windows/Mac/Linux) → si scarica <b>Anki Desktop</b>, gratuito, da apps.ankiweb.net. La versione si controlla in <b>Aiuto → Informazioni su Anki</b>.</p>
+      <p>Esiste anche una versione web gratuita su ankiweb.net, ma è meno comoda da usare ogni giorno.</p>
+      <blockquote class="tip">
+        <span class="label">Solo AnkiWeb dal browser?</span>
+        <p>Non è possibile importare i file direttamente da ankiweb.net: serve prima uno dei client (AnkiDroid, AnkiMobile o <b>Anki Desktop</b>) per fare l'import una volta sola. Con Anki Desktop: si installa, si importa il vocabolario, poi si attiva la sincronizzazione (Anki → Sincronizza, serve un account gratuito su ankiweb.net). Da quel momento le carte compaiono anche su ankiweb.net/study, utilizzabili da browser su qualsiasi computer.</p>
+      </blockquote>
+      <blockquote class="tip">
+        <span class="label">Dal computer al telefono</span>
+        <p>Chi usa il Metodo B sul computer porta tipo di nota, carte e progressi sul telefono con la sincronizzazione: si crea un account gratuito su ankiweb.net, si preme <b>Sincronizza</b> in Anki Desktop e poi su <b>AnkiDroid</b> o <b>AnkiMobile</b>, accedendo con lo stesso account. Dopo ogni nuova importazione sul computer si sincronizza di nuovo.</p>
+      </blockquote>
     </div>
   </section>
 
   <section class="step" id="s3">
     <div class="step-num">03</div>
     <div class="step-body">
-      <h2>Importare il vocabolario</h2>
-      <h3 class="sub">Su Android (AnkiDroid)</h3>
+      <h2>Metodo A — Pacchetto .apkg: salvare e importare</h2>
+      <h3 class="sub">Salvare il file</h3>
+      <p>Quando si riceve il file <code>russo.apkg</code> (via email, WhatsApp, link…), o lo si scarica con il bottone in cima alla pagina:</p>
+      <ul>
+        <li><b>Su telefono Android</b>: lo si tiene premuto (o si tocca sui tre puntini accanto al file) e lo si salva nella cartella Download.</li>
+        <li><b>Su iPhone</b>: lo si salva nell'app <b>File</b> (in "Sul mio iPhone" o iCloud Drive).</li>
+        <li><b>Su computer</b>: lo si salva in una cartella facile da ritrovare, ad esempio Download o Desktop.</li>
+      </ul>
+      <h3 class="sub">Importare su Android (AnkiDroid)</h3>
       <ol>
         <li>Si apre la cartella Download sul telefono.</li>
         <li>Si tocca il file <code>russo.apkg</code>.</li>
         <li>Se viene chiesto con quale app aprirlo, si sceglie <b>AnkiDroid</b>.</li>
         <li>Compare un messaggio con il numero di carte importate. Si tocca <b>OK</b>.</li>
       </ol>
-      <h3 class="sub">Su iPhone (AnkiMobile)</h3>
+      <h3 class="sub">Importare su iPhone (AnkiMobile)</h3>
       <ol>
         <li>Si apre l'app <b>File</b> e si trova il file <code>russo.apkg</code>.</li>
         <li>Si tiene premuto il file → si tocca <b>Condividi</b> → si sceglie <b>Copia in AnkiMobile</b>.</li>
@@ -81,9 +103,8 @@
         <span class="label">Se qualcosa non funziona</span>
         <p>Se non si riesce a "condividere" con AnkiMobile, si può provare da Safari: si apre il link del file direttamente nel browser e Safari gestisce l'apertura automatica.</p>
       </blockquote>
-      <h3 class="sub">Su computer (Anki Desktop)</h3>
+      <h3 class="sub">Importare su computer (Anki Desktop)</h3>
       <ol>
-        <li>Si scarica <code>russo.apkg</code> con il bottone in cima alla pagina (di solito finisce nella cartella Download).</li>
         <li>Si apre <b>Anki Desktop</b>.</li>
         <li>Si va su <b>File → Importa file...</b> (oppure si trascina il file <code>russo.apkg</code> sulla finestra di Anki).</li>
         <li>Si seleziona <code>russo.apkg</code> e si conferma: le carte vengono aggiunte subito, senza altre schermate.</li>
@@ -94,13 +115,116 @@
   <section class="step" id="s4">
     <div class="step-num">04</div>
     <div class="step-body">
+      <h2>Metodo B — File TSV: com'è fatto e cosa serve</h2>
+      <p>Il procedimento ha tre parti, da fare <b>una sola volta</b> sul computer: creare il tipo di nota (sezione 05), importare il file e controllare le carte (sezione 06). Per gli aggiornamenti successivi basta reimportare il file.</p>
+      <h3 class="sub">Cosa serve</h3>
+      <ul>
+        <li><b>Anki Desktop</b> versione 2.1.55 o successiva. Le versioni più vecchie non leggono le righe di intestazione del file e non hanno la schermata di importazione descritta qui.</li>
+        <li>Il file <code>vocabolario-completo.tsv</code>.</li>
+        <li>Il file <code>template-carte.html</code> (lo stesso da cui si genera <code>russo.apkg</code>, quindi le carte sono identiche nei due metodi), da cui si copiano i template e lo stile delle carte. Va aperto in un editor di testo o nel browser (tasto destro → «Visualizza sorgente»): non è un mazzo da importare.</li>
+      </ul>
+      <p>
+        <a class="download-btn" href="https://raw.githubusercontent.com/ellepannitto/corso-russo/main/anki/vocabolario-completo.tsv" download="vocabolario-completo.tsv" target="_blank" rel="noopener">⬇ Scarica il TSV</a>
+        <a class="download-btn" href="https://raw.githubusercontent.com/ellepannitto/corso-russo/main/anki/template-carte.html" download="template-carte.html" target="_blank" rel="noopener">⬇ Scarica i template</a>
+      </p>
+      <h3 class="sub">Com'è fatto il file</h3>
+      <p>Ogni riga è una nota, con sei colonne separate da tabulazione:</p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Colonna</th><th>Campo Anki</th><th>Contenuto</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>1</td><td><code>ID</code></td><td>Identificativo stabile della parola (es. <code>kot</code>). Non compare sulle carte: serve ad Anki per riconoscere la nota quando si reimporta il file</td></tr>
+            <tr><td>2</td><td><code>Russo</code></td><td>La parola o l'espressione in russo</td></tr>
+            <tr><td>3</td><td><code>Italiano</code></td><td>La traduzione. Se la parola ha più significati sono separati da <code> / </code></td></tr>
+            <tr><td>4</td><td><code>FraseRusso</code></td><td>La frase d'esempio, con la parola evidenziata. Può essere vuota</td></tr>
+            <tr><td>5</td><td><code>FraseItaliano</code></td><td>La traduzione della frase. Può essere vuota</td></tr>
+            <tr><td>6</td><td>Tag</td><td>Temi e lezioni, separati da spazio (es. <code>animali lez-3</code>)</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>In cima al file ci sono cinque righe che iniziano con <code>#</code>: non sono parole, ma istruzioni per Anki (separatore, HTML attivo, tipo di nota e mazzo di destinazione, colonna dei tag). Non vanno cancellate.</p>
+      <p>Se una parola compare in più liste, nel TSV ha una sola riga: i significati vengono uniti (separati da <code> / </code>) e si tiene una sola frase d'esempio, la prima in ordine di lista.</p>
+    </div>
+  </section>
+
+  <section class="step" id="s5">
+    <div class="step-num">05</div>
+    <div class="step-body">
+      <h2>Metodo B — Creare il tipo di nota «Russo»</h2>
+      <p>Il tipo di nota definisce i campi e le carte. Il nome e i nomi dei campi devono essere <b>esattamente</b> quelli indicati, maiuscole comprese. Si fa una sola volta.</p>
+      <h3 class="sub">Creare il tipo di nota</h3>
+      <ol>
+        <li>In Anki si apre <b>Strumenti → Gestisci tipi di nota</b>.</li>
+        <li>Si clicca <b>Aggiungi</b>, si sceglie <b>Aggiungi: Base</b> e si conferma.</li>
+        <li>Si dà il nome <code>Russo</code> e si conferma.</li>
+      </ol>
+      <h3 class="sub">Impostare i campi</h3>
+      <ol>
+        <li>Con <code>Russo</code> selezionato, si clicca <b>Campi…</b>.</li>
+        <li>Si rinomina il campo <code>Fronte</code> (o <code>Front</code>) in <code>ID</code> e il campo <code>Retro</code> (o <code>Back</code>) in <code>Russo</code>.</li>
+        <li>Si aggiungono tre campi, con <b>Aggiungi</b>: <code>Italiano</code>, <code>FraseRusso</code>, <code>FraseItaliano</code>.</li>
+        <li>L'ordine finale deve essere: <code>ID</code>, <code>Russo</code>, <code>Italiano</code>, <code>FraseRusso</code>, <code>FraseItaliano</code>. Si può cambiare con <b>Riposiziona</b>.</li>
+        <li>Con il campo <code>Russo</code> selezionato, si attiva <b>Ordina per questo campo nel browser</b>, così nella lista delle carte si vede la parola e non l'ID.</li>
+        <li>Si conferma con <b>Salva</b>.</li>
+      </ol>
+      <p>L'<code>ID</code> è il primo campo perché Anki usa il primo campo per riconoscere le note già importate.</p>
+      <h3 class="sub">Creare le tre carte e lo stile</h3>
+      <ol>
+        <li>Nella finestra «Tipi di nota» si clicca <b>Carte…</b>.</li>
+        <li>Si apre <code>template-carte.html</code> e si lavora con i tre tipi di carta, uno alla volta.</li>
+        <li><b>Carta 1</b> (c'è già, si chiama «Carta 1»): si copia nel riquadro <b>Template fronte</b> il contenuto del blocco <code>russo-italiano-fronte</code>, nel riquadro <b>Template retro</b> il contenuto del blocco <code>russo-italiano-retro</code>, e si rinomina il tipo di carta in <b>Russo → Italiano</b> (menu <b>Opzioni → Rinomina tipo di carta</b>).</li>
+        <li><b>Carta 2</b>: si aggiunge con <b>Opzioni → Aggiungi tipo di carta</b>, si copiano fronte e retro dai blocchi <code>italiano-russo-fronte</code> e <code>italiano-russo-retro</code> e si rinomina in <b>Italiano → Russo</b>.</li>
+        <li><b>Carta 3</b>: stessa procedura, con i blocchi <code>frase-traduzione-fronte</code> e <code>frase-traduzione-retro</code>, e nome <b>Frase → Traduzione</b>.</li>
+        <li>Si apre la scheda <b>Stile</b> e si sostituisce tutto il contenuto con il blocco <code>&lt;style&gt;</code> del file (senza i tag <code>&lt;style&gt;</code> e <code>&lt;/style&gt;</code>). Lo stile è unico per tutte e tre le carte.</li>
+        <li>Si chiude con <b>Salva</b>.</li>
+      </ol>
+      <p>Nei template si copia solo il contenuto dei blocchi, senza i tag <code>&lt;template&gt;</code> e <code>&lt;/template&gt;</code>.</p>
+      <blockquote class="tip">
+        <span class="label">Parole singole e parole con frase</span>
+        <p>Un solo tipo di nota basta per entrambi i casi. Una parola con frase genera tre carte (Russo → Italiano, Italiano → Russo, Frase → Traduzione). Una parola senza frase (colonne 4 e 5 vuote) genera solo le prime due, senza spazi vuoti: la terza non viene creata perché il suo fronte, che contiene solo la frase, resta vuoto.</p>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="step" id="s6">
+    <div class="step-num">06</div>
+    <div class="step-body">
+      <h2>Metodo B — Importare e aggiornare il TSV</h2>
+      <h3 class="sub">Importare il file</h3>
+      <ol>
+        <li>In Anki si apre <b>File → Importa…</b> e si sceglie <code>vocabolario-completo.tsv</code>.</li>
+        <li>Nella finestra di importazione si controlla che compaia: tipo di nota <b>Russo</b>, mazzo <b>Russo</b>, separatore campi <b>tabulazione</b>, <b>Consenti HTML nei campi</b> attivo (serve per l'evidenziazione delle parole nelle frasi).</li>
+        <li>Si controlla la <b>corrispondenza dei campi</b>: la colonna 1 va in <code>ID</code>, la 2 in <code>Russo</code>, la 3 in <code>Italiano</code>, la 4 in <code>FraseRusso</code>, la 5 in <code>FraseItaliano</code>, la 6 in <b>Tag</b>.</li>
+        <li>Alla voce <b>Note esistenti</b> (o «Aggiorna note esistenti») si sceglie <b>Aggiorna</b>.</li>
+        <li>Si clicca <b>Importa</b>. Alla fine Anki mostra un riepilogo: note nuove, note già presenti e note aggiornate.</li>
+      </ol>
+      <p>Se Anki non preseleziona il tipo di nota o il mazzo, si scelgono a mano dai menu a tendina: le intestazioni <code>#notetype</code> e <code>#deck</code> sono solo dei suggerimenti.</p>
+      <h3 class="sub">Aggiornare il vocabolario</h3>
+      <p>Quando arriva una nuova versione di <code>vocabolario-completo.tsv</code>:</p>
+      <ol>
+        <li>Si ripete l'importazione con il file nuovo, lasciando <b>Aggiorna</b> tra le note esistenti.</li>
+        <li>Le note con lo stesso <code>ID</code> vengono aggiornate (traduzione, frasi, tag) e <b>i progressi di studio restano</b>. Le parole nuove vengono aggiunte.</li>
+        <li>Le parole eliminate dal file <b>non</b> vengono cancellate da Anki: se serve, si eliminano a mano da <b>Sfoglia</b>.</li>
+      </ol>
+      <blockquote class="tip">
+        <span class="label">Attenzione</span>
+        <p>L'<code>ID</code> non va mai modificato: se cambia, Anki considera la riga una parola nuova e quella vecchia resta nel mazzo con i suoi progressi.</p>
+      </blockquote>
+    </div>
+  </section>
+
+  <section class="step" id="s7">
+    <div class="step-num">07</div>
+    <div class="step-body">
       <h2>Creare mazzi personalizzati (per lezione o per tema)</h2>
       <p>Tutte le carte arrivano in un unico mazzo "Russo", ma ogni carta ha delle etichette (tag) che indicano la lezione e il tema — ad esempio <code>lez-3</code>, <code>animali</code>, <code>cibo-e-bevande</code>. Si possono usare per studiare solo un sottoinsieme di parole, senza bisogno di un file diverso per ogni lezione.</p>
       <ol>
         <li>In Anki si apre <b>Sfoglia</b> (l'icona della lente/lista carte).</li>
         <li>Nella barra di ricerca si scrive un tag, ad esempio: <code>tag:lez-3</code> oppure <code>tag:cibo-e-bevande</code>.</li>
         <li>Si selezionano tutti i risultati (su AnkiDroid: si tocca e si tiene premuto su una carta, poi "Seleziona tutto").</li>
-        <li>Si sceglie <b>Crea filtro</b> / <b>Crea mazzo filtrato</b> (oppure "Cambia mazzo" per spostarle in un mazzo separato invece che filtrarle).</li>
+        <li>Si sceglie <b>Crea filtro</b> / <b>Crea mazzo filtrato</b> (oppure "Cambia mazzo" per spostarle in un mazzo separato invece che filtrarle). Sul computer si può anche usare direttamente <b>Strumenti → Crea mazzo filtrato…</b> con la stessa ricerca.</li>
         <li>Si dà un nome al nuovo mazzo (es. "Lezione 3") e si conferma.</li>
       </ol>
       <p>Si possono combinare più tag nella ricerca: <code>tag:lez-1 OR tag:lez-2</code> unisce due lezioni, <code>tag:cibo-e-bevande -tag:lez-1</code> prende il tema "cibo e bevande" escludendo la lezione 1.</p>
@@ -111,10 +235,10 @@
     </div>
   </section>
 
-  <section class="step" id="s5">
-    <div class="step-num">05</div>
+  <section class="step" id="s8">
+    <div class="step-num">08</div>
     <div class="step-body">
-      <h2>Usare i diversi tipi di carta (template)</h2>
+      <h2>Tipi di carta e ordine di studio</h2>
       <p>Ogni parola genera due carte, e tre se ha una frase d'esempio:</p>
       <ul>
         <li><b>Russo → Italiano</b>: sul fronte la parola in russo, sul retro la traduzione e, se c'è, la frase.</li>
@@ -125,10 +249,10 @@
       <ol>
         <li>Si va in <b>Sfoglia</b>.</li>
         <li>Si cerca <code>card:"Russo → Italiano"</code> (nome esatto del template) per vedere solo le carte in quella direzione. Si può combinare con un tag, es. <code>card:"Russo → Italiano" tag:lez-3</code>. Per le sole frasi: <code>card:"Frase → Traduzione"</code>.</li>
-        <li>Da lì si può creare un mazzo filtrato come al punto 04, oppure disattivare temporaneamente un template dalle impostazioni del <b>Tipo di nota</b> (Strumenti → Gestisci tipi di nota → Carte), se non si vuole vedere affatto uno dei tipi di carta.</li>
+        <li>Da lì si può creare un mazzo filtrato come alla sezione 07, oppure disattivare temporaneamente un template dalle impostazioni del <b>Tipo di nota</b> (Strumenti → Gestisci tipi di nota → Carte), se non si vuole vedere affatto uno dei tipi di carta.</li>
       </ol>
       <h3 class="sub">Ordine in cui compaiono le carte</h3>
-      <p>Ogni parola ha fino a tre carte. Se le carte nuove compaiono in ordine sparso (per esempio la carta «Frase → Traduzione» di una parola, poi «Italiano → Russo» di un'altra, e le carte della stessa parola in giorni diversi), la causa sono le opzioni del mazzo, non un errore del file.</p>
+      <p>Se le carte nuove compaiono in ordine sparso (per esempio la carta «Frase → Traduzione» di una parola, poi «Italiano → Russo» di un'altra, e le carte della stessa parola in giorni diversi), la causa sono le opzioni del mazzo, non un errore del file.</p>
       <p>Le impostazioni si trovano nella schermata <b>Mazzi</b>, con l'ingranaggio accanto a «Russo» → <b>Opzioni</b>, nella sezione <b>Ordine di presentazione</b>:</p>
       <ul>
         <li><b>Ordine di recupero delle nuove carte</b> stabilisce <i>quali</i> carte nuove vengono prese ogni giorno, fino al limite giornaliero.</li>
@@ -153,13 +277,13 @@
         <li>Le modifiche valgono per le carte nuove ancora da proporre: le carte già studiate non cambiano.</li>
         <li>Le opzioni sono legate al <b>preset</b> («Predefinito»), che vale per tutti i mazzi che lo usano: cambiandolo per «Russo» si cambia anche per gli altri mazzi con lo stesso preset.</li>
         <li>Nella sezione <b>Seppellimento</b> l'opzione per le carte nuove «sorelle» (le altre carte della stessa parola) fa comparire una sola carta per parola al giorno: le altre ricompaiono il giorno dopo. Per vedere insieme tutte le carte di una parola si disattiva.</li>
-        <li>Il file è ordinato alfabeticamente in russo, quindi con l'ordine «sequenziale» le parole arrivano in ordine alfabetico, non di lezione. Per studiare una lezione alla volta si usano i tag (passo 04).</li>
+        <li>Il file è ordinato alfabeticamente in russo, quindi con l'ordine «sequenziale» le parole arrivano in ordine alfabetico, non di lezione. Per studiare una lezione alla volta si usano i tag (sezione 07).</li>
       </ul>
     </div>
   </section>
 
-  <section class="step" id="s6">
-    <div class="step-num">06</div>
+  <section class="step" id="s9">
+    <div class="step-num">09</div>
     <div class="step-body">
       <h2>Segnalare una modifica o un errore</h2>
       <p>Se si trova un errore (parola sbagliata, traduzione mancante, carta duplicata) o si vuole proporre un'aggiunta, il modo più semplice è mandare un messaggio con questi dati:</p>
@@ -171,21 +295,21 @@
       </ul>
       <blockquote class="tip">
         <span class="label">Non serve modificare nulla in autonomia</span>
-        <p>Basta segnalare: la carta verrà corretta alla fonte e arriverà aggiornata nella prossima versione di <code>russo.apkg</code> — i progressi non si perdono.</p>
+        <p>Basta segnalare: la carta verrà corretta alla fonte e arriverà aggiornata nella prossima versione di <code>russo.apkg</code> e del TSV — i progressi non si perdono.</p>
       </blockquote>
     </div>
   </section>
 
-  <section class="step" id="s7">
-    <div class="step-num">07</div>
+  <section class="step" id="s10">
+    <div class="step-num">10</div>
     <div class="step-body">
       <h2>Aggiornamenti e problemi frequenti</h2>
-      <p>Quando arriva una nuova versione del file <code>russo.apkg</code>, la si importa seguendo di nuovo il <b>passo 03</b>. Le carte già esistenti vengono aggiornate senza cancellare i progressi.</p>
+      <p>Quando arriva una nuova versione di <code>russo.apkg</code>, la si importa seguendo di nuovo la <b>sezione 03</b>; per il TSV si segue la <b>sezione 06</b>. Le carte già esistenti vengono aggiornate senza cancellare i progressi.</p>
       <blockquote class="tip">
-        <span class="label">Chi ha importato una versione precedente</span>
+        <span class="label">Chi ha importato una versione precedente del pacchetto</span>
         <p>L'ultima versione di <code>russo.apkg</code> usa un nuovo tipo di nota, chiamato <b>Russo</b> (campi: ID, Russo, Italiano, FraseRusso, FraseItaliano). Anki lo aggiunge accanto al vecchio tipo «Russo TSV» e le parole risultano doppie. Per mantenere i progressi: in <b>Sfoglia</b> si cerca <code>note:"Russo TSV"</code>, si selezionano tutte le carte e si sceglie <b>Note → Cambia tipo di nota</b>, indicando «Russo» come nuovo tipo (Anki chiede di abbinare i campi: Front → Russo, Back → Italiano, ExampleRu → FraseRusso, ExampleIt → FraseItaliano, ID → ID). Si importa poi il nuovo file. Chi ha pochi progressi può invece eliminare il vecchio mazzo e reimportare.</p>
       </blockquote>
-      <h3 class="sub">Problemi frequenti</h3>
+      <h3 class="sub">Problemi comuni a entrambi i metodi</h3>
       <div class="table-wrap">
         <table>
           <thead>
@@ -193,49 +317,47 @@
           </thead>
           <tbody>
             <tr><td>Non compare nessuna carta dopo l'import</td><td>Si controlla che il mazzo "Russo" sia visibile nella schermata principale di Anki</td></tr>
+            <tr><td>Alcune parole hanno solo due carte</td><td>È normale: la carta «Frase → Traduzione» esiste solo per le parole con una frase d'esempio</td></tr>
+            <tr><td>Ogni parola compare due volte nel mazzo</td><td>Si sono importati sia il TSV sia il pacchetto <code>russo.apkg</code>: per Anki sono due tipi di nota distinti (il secondo compare con un nome come «Russo-xxxxx»), quindi le note non si fondono. Si sceglie un solo metodo: si elimina uno dei due mazzi e, da <b>Strumenti → Gestisci tipi di nota</b>, il tipo di nota che resta inutilizzato</td></tr>
+            <tr><td>Dopo un aggiornamento le parole sono doppie</td><td>Con il pacchetto: vedi il riquadro qui sopra. Con il TSV: alla voce <b>Note esistenti</b> era selezionato «Duplica» invece di <b>Aggiorna</b>; si annulla l'importazione da <b>Modifica → Annulla</b> oppure si eliminano i doppioni da <b>Sfoglia → Note → Trova duplicati</b></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <h3 class="sub">Solo Metodo A (pacchetto)</h3>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Problema</th><th>Cosa fare</th></tr>
+          </thead>
+          <tbody>
             <tr><td>Le carte sono vuote o mostrano codici strani</td><td>L'encoding non è corretto — si contatta chi ha mandato il file</td></tr>
             <tr><td>L'app non riconosce il file <code>.apkg</code></td><td>Ci si assicura che il file non sia stato rinominato durante il download</td></tr>
             <tr><td>Non si riesce ad aprire il file <code>.apkg</code> su iPhone</td><td>Si prova da Safari invece che da altre app</td></tr>
-            <tr><td>Alcune parole hanno solo due carte</td><td>È normale: la carta «Frase → Traduzione» esiste solo per le parole con una frase d'esempio</td></tr>
-            <tr><td>Dopo un aggiornamento le parole sono doppie</td><td>Si sono importati due tipi di nota diversi (vedi il riquadro qui sopra): si spostano le carte vecchie sul nuovo tipo oppure si elimina il mazzo vecchio</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <h3 class="sub">Solo Metodo B (TSV)</h3>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Problema</th><th>Cosa fare</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Sulle carte compaiono scritte come <code>&lt;span class="target-word"&gt;</code></td><td>L'HTML non è attivo. Si reimporta il file controllando che <b>Consenti HTML nei campi</b> sia attivo</td></tr>
+            <tr><td>La parola non è evidenziata in rosso sul giallo</td><td>Lo stile non è stato copiato nella scheda <b>Stile</b> del tipo di nota (sezione 05, ultimo gruppo di passi)</td></tr>
+            <tr><td>Tutto il contenuto finisce in un solo campo</td><td>Il separatore non è la tabulazione. Nella finestra di importazione si imposta <b>Tabulazione</b></td></tr>
+            <tr><td>I campi sono sfalsati (la traduzione nel campo sbagliato)</td><td>La corrispondenza dei campi non è quella della sezione 06: si corregge nella finestra, prima di cliccare <b>Importa</b></td></tr>
+            <tr><td>«Tipo di nota non trovato» o la finestra non preseleziona <code>Russo</code></td><td>Il tipo di nota non è stato creato o ha un nome diverso. Si controlla la sezione 05 oppure si sceglie <code>Russo</code> dal menu a tendina</td></tr>
+            <tr><td>Il file non si importa o mancano le righe di intestazione</td><td>La versione di Anki è troppo vecchia: serve la 2.1.55 o successiva</td></tr>
           </tbody>
         </table>
       </div>
     </div>
   </section>
 
-  <section class="step" id="s8">
-    <div class="step-num">08</div>
-    <div class="step-body">
-      <h2>Alternativa: importare il file TSV (solo computer)</h2>
-      <p>Al posto del pacchetto <code>russo.apkg</code> si può importare il file <code>vocabolario-completo.tsv</code>, che contiene lo stesso vocabolario in forma di tabella. Le carte risultano identiche. È utile per chi vuole modificare i template o aggiungere parole proprie. Serve <b>Anki Desktop 2.1.55 o successivo</b>; per il telefono si sincronizza poi con AnkiWeb (passo 01).</p>
-      <blockquote class="tip">
-        <span class="label">Un solo metodo</span>
-        <p>Pacchetto e TSV creano due tipi di nota distinti, anche se hanno lo stesso nome e le stesse carte: importandoli entrambi le parole risultano doppie. Se ne sceglie uno solo.</p>
-      </blockquote>
-      <h3 class="sub">Creare il tipo di nota (una volta sola)</h3>
-      <ol>
-        <li>In Anki: <b>Strumenti → Gestisci tipi di nota → Aggiungi → Aggiungi: Base</b>, nome <code>Russo</code>.</li>
-        <li>Con <code>Russo</code> selezionato, <b>Campi…</b>: si rinominano i due campi esistenti in <code>ID</code> e <code>Russo</code> e si aggiungono <code>Italiano</code>, <code>FraseRusso</code> e <code>FraseItaliano</code>, in questo ordine e con questi nomi esatti. Per il campo <code>Russo</code> si attiva «Ordina per questo campo nel browser».</li>
-        <li><b>Carte…</b>: si creano tre tipi di carta chiamati <b>Russo → Italiano</b>, <b>Italiano → Russo</b> e <b>Frase → Traduzione</b>. Per ognuno si copiano fronte e retro dai blocchi corrispondenti del file <code>template-carte.html</code> e si incolla lo stile, uguale per tutti, nella scheda <b>Stile</b>.</li>
-      </ol>
-      <h3 class="sub">Importare il file</h3>
-      <ol>
-        <li><b>File → Importa…</b> e si sceglie <code>vocabolario-completo.tsv</code>.</li>
-        <li>Si controlla che siano selezionati il tipo di nota <b>Russo</b> e il mazzo <b>Russo</b>, che sia attivo <b>Consenti HTML nei campi</b> e che le colonne siano abbinate nell'ordine ID, Russo, Italiano, FraseRusso, FraseItaliano, Tag.</li>
-        <li>Alla voce delle note esistenti si sceglie <b>Aggiorna</b> e si clicca <b>Importa</b>.</li>
-      </ol>
-      <p>Per gli aggiornamenti si reimporta il nuovo file con la stessa procedura: le note con lo stesso ID vengono aggiornate e i progressi restano. La procedura completa, con i problemi frequenti, è in <code>GUIDA-TSV.md</code>.</p>
-      <p>
-        <a class="download-btn" href="https://raw.githubusercontent.com/ellepannitto/corso-russo/main/anki/vocabolario-completo.tsv" download="vocabolario-completo.tsv" target="_blank" rel="noopener">⬇ Scarica il TSV</a>
-        <a class="download-btn" href="https://raw.githubusercontent.com/ellepannitto/corso-russo/main/anki/template-carte.html" download="template-carte.html" target="_blank" rel="noopener">⬇ Scarica i template</a>
-      </p>
-    </div>
-  </section>
-
   <footer>
     <span>Corso di russo — guida allo studio con Anki</span>
-    <span class="thread">russo.apkg</span>
+    <span class="thread">russo.apkg · TSV</span>
   </footer>
 
 </div>

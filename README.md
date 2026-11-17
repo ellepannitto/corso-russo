@@ -14,7 +14,6 @@ Ogni file usa campi separati da tabulazione:
 6. `ExampleIt`
 7. `Tags`
 
-I vecchi TSV in `old_anki/` hanno solo i primi quattro campi e `Tags`.
 
 Durante l'import in Anki:
 
